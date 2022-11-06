@@ -85,6 +85,69 @@ do
 done
 ```
 
+Concatenate all datasets and limit the size.
+```bash
+# concatenate
+echo "Concatenating datasets..."
+for i in "${muttype[@]}"
+do
+    echo "Concatenate $i"
+    python scripts/concatenate_test_set.py --mutation_type $i
+done
+
+# sample small test set
+echo "Reduce datasets..."
+for t in "${muttype[@]}"
+do
+    mv test-set-${t}.csv test-set-${t}-full.csv
+    python scripts/reduce_dataset.py --sentence_info_path test-set-${t}-full.csv --output_path test-set-${t}.csv --sample_size 300000
+done
+```
+
+Translate original sentences and mutated sentences.
+```bash
+# translate
+echo "Translating datasets..."
+for t in "${muttype[@]}"
+do
+    for m in "${models[@]}"
+    do
+        echo "Translate $t mutated dataset by $m"
+        python scripts/translate.py --sentence_info_path test-set-$t.csv --model $m --mutation_type $t
+    done
+done
+```
+
+Align original sentences and mutated sentences.
+```bash
+# align
+echo "Aligning datasets..."
+for t in "${muttype[@]}"
+do
+    for m in "${models[@]}"
+    do
+        echo "Align $t mutated dataset by $m"
+        python scripts/align.py --sentence_info_path test-set-$t.csv --input_path result/$m/test-set-${t}_${m}.csv --src_side src --tgt_side tgt --alignment_tool_path ../fast_align/build/
+    done
+done
+```
+
+Assign sense to the homograph.
+```bash
+# assign
+echo "Assigning datasets..."
+for t in "${muttype[@]}"
+do
+    for m in "${models[@]}"
+    do
+        python scripts/assign.py --input_path result/$m/test-set-${t}_${m}_merged.csv --method bow --sense_inventory asset/sense_inventory/sense_dict.json --alignment_window_size 0
+        python scripts/assign.py --input_path result/$m/test-set-${t}_${m}_merged.csv --method ftc --sense_inventory asset/sense_inventory/sense_dict.json --alignment_window_size 0
+        python scripts/assign.py --input_path result/$m/test-set-${t}_${m}_merged.csv --method sbert --sense_inventory asset/sense_inventory/sense_dict.json --alignment_window_size 49
+    done
+done
+```
+
+
 ## Research Questions
 All scripts about RQs are saved under the path `./rq`.
 
