@@ -1,6 +1,6 @@
-# HTFT
+# BDTD
 
-This is the source code for the paper "Mutation Triggered Homograph Translation Fairness Test".
+This is the source code for the paper "Back Deduction based Testing for Word Sense Disambiguation Ability of Machine Translation Systems".
 
 ## Package Requirement
 
