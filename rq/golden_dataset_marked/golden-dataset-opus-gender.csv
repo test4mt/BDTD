@@ -1,0 +1,601 @@
+ori.src,tok.ori.src,mut.src,tok.mut.src,mutkind,mutkind_word,tag,mut_align,ref,poly_word,corpus,ori.tgt,mut.tgt,tok.ori.tgt,tok.mut.tgt,ori.alignment,mut.alignment,ori.sc_id,ori.tgt_sense,mut.sc_id,mut.tgt_sense,unfair,ori.right,mut.right,sc_id
+"I think the best thing would be for me to supervise and let him first chair.
+",I think the best thing would be for me to supervise and let him first chair . ,"I think the best thing would be for me to supervise and let her first chair.
+",I think the best thing would be for me to supervise and let her first chair . ,male,"[('him', 13)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17","我想最好的办法就是我来监督 然后让他来首席辩护
+",chair-15,os18,我想最好还是让我来监督 并让他当第一主席,我想最好还是让我监督她 让她当第一把椅子,我 想 最 好 还 是 让 我 来 监 督 并 让 他 当 第 一 主 席,我 想 最 好 还 是 让 我 监 督 她 让 她 当 第 一 把 椅 子,"0-0 1-1 2-2 3-2 3-3 4-2 5-6 6-5 7-8 10-9 10-10 11-11 12-12 13-13 14-15 14-16 15-18
+","0-0 1-1 2-2 3-2 3-3 4-2 5-6 6-5 10-8 10-9 11-4 12-11 13-10 13-12 13-16 14-14 14-15 15-17 15-18
+",2,"[('席', 18)]",3,"[('椅', 17), ('子', 18)]",1,1,0,2
+"On the cliffs along the bank, teams of men towing boats are clearly visible.
+","On the cliffs along the bank , teams of men towing boats are clearly visible . ","On the cliffs along the bank, teams of women towing boats are clearly visible.
+","On the cliffs along the bank , teams of women towing boats are clearly visible . ",male,"[('men', 9)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16","近岸陡壁上, 背纤夫历历可见.
+",bank-5,cwmt,"在沿岸的悬崖上, 男子拖船队 明显可见。","在沿银行的悬崖上, 妇女拖船队明显可见。","在 沿 岸 的 悬 崖 上 , 男 子 拖 船 队 明 显 可 见 。","在 沿 银 行 的 悬 崖 上 , 妇 女 拖 船 队 明 显 可 见 。","0-0 1-1 2-4 2-5 3-1 4-6 5-2 6-12 7-9 8-8 9-10 10-11 12-13 12-14 13-14 13-15 13-16 13-17
+","0-0 1-1 2-5 2-6 3-1 5-2 5-3 6-13 7-9 8-9 8-10 9-11 10-12 12-14 12-15 13-15 13-16 13-17 13-18
+",6,"[('岸', 2)]",5,"[('银', 2), ('行', 3)]",1,1,0,6
+"When he reached the bank, he galloped down to the sea and crossed it.
+","When he reached the bank , he galloped down to the sea and crossed it . ","When she reached the bank, she galloped down to the sea and crossed it.
+","When she reached the bank , she galloped down to the sea and crossed it . ",male,"[('he', 1), ('he', 6)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16","上岸后，他疾驰至海边越过了海水。
+",bank-4,cwmt,"当他到达岸边的时候,他奔向大海,渡过大海。","当她到达银行时,她奔向大海,越过了大海。","当 他 到 达 岸 边 的 时 候 , 他 奔 向 大 海 , 渡 过 大 海 。","当 她 到 达 银 行 时 , 她 奔 向 大 海 , 越 过 了 大 海 。","0-0 1-1 2-2 2-3 3-4 4-4 5-10 6-11 6-12 7-11 8-12 9-14 10-13 10-14 11-15 12-16 12-17 13-20
+","0-0 1-1 2-2 2-3 3-4 4-4 4-5 5-8 6-9 6-10 7-9 8-10 9-12 10-11 10-12 11-14 12-14 12-15 13-13 13-19
+",6,"[('岸', 4)]",5,"[('银', 4), ('行', 5)]",1,1,0,6
+"Contrarious moods of men recoil away / And isolate pure spirits, and permit
+","Contrarious moods of men recoil away / And isolate pure spirits , and permit ","Contrarious moods of women recoil away / And isolate pure spirits, and permit
+","Contrarious moods of women recoil away / And isolate pure spirits , and permit ",male,"[('men', 3)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14","都向后退隐,留给纯洁的灵魂/一方隔绝,容许在这里面立足,
+",spirit-10,um,"和孤立纯净的精神, 和允许",将纯净的灵魂隔离开来 允许,"和 孤 立 纯 净 的 精 神 , 和 允 许",将 纯 净 的 灵 魂 隔 离 开 来 允 许,"2-5 8-1 8-2 9-3 9-4 10-6 10-7 10-8 11-9 12-10 12-11
+","0-0 2-3 5-7 5-8 6-6 7-6 8-6 8-7 9-1 9-2 10-4 10-5 11-9 12-10 12-11
+",3,"[('精', 6), ('神', 7), (',', 8)]",2,"[('灵', 4), ('魂', 5)]",1,0,1,2
+"But I sensed her loneliness of spirit, her longing for a normal, healthy life and love.
+","But I sensed her loneliness of spirit , her longing for a normal , healthy life and love . ","But I sensed him loneliness of spirit, him longing for a normal, healthy life and love.
+","But I sensed him loneliness of spirit , him longing for a normal , healthy life and love . ",female,"[('her', 3), ('her', 8)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19","比赛的目的就是要将足球踢人对方的球门。
+",spirit-6,cwmt,"但我感觉到她的孤独 精神, 她渴望一个正常,健康的生活 和爱。",但我感觉到他孤独的心灵 他渴望正常健康的生活和爱,"但 我 感 觉 到 她 的 孤 独 精 神 , 她 渴 望 一 个 正 常 , 健 康 的 生 活 和 爱 。",但 我 感 觉 到 他 孤 独 的 心 灵 他 渴 望 正 常 健 康 的 生 活 和 爱,"0-0 1-1 2-2 2-3 2-4 3-5 4-7 4-8 5-6 5-10 6-9 7-12 8-13 8-14 9-13 10-15 10-16 11-17 11-18 11-19 12-20 12-21 13-23 13-24 14-25 15-26 15-27
+","0-0 1-1 2-2 2-3 2-4 3-5 4-6 4-7 5-8 6-10 7-11 8-12 8-13 9-12 10-15 11-14 11-15 12-16 12-17 13-19 13-20 14-21 15-22
+",3,"[('精', 9)]",2,"[('灵', 10)]",1,0,1,2
+"At Christmas he found time to have a cup or two of holiday cheer and do his holly shaped bow tie.
+",At Christmas he found time to have a cup or two of holiday cheer and do his holly shaped bow tie . ,"At Christmas she found time to have a cup or two of holiday cheer and do her holly shaped bow tie.
+",At Christmas she found time to have a cup or two of holiday cheer and do her holly shaped bow tie . ,male,"[('he', 2), ('his', 16)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22","在圣诞节他会找时间为庆祝节日干上一两杯，然后戴上他那冬青叶形状的领结。
+",bow-19,um,"在圣诞节,他找到了时间 来喝杯或两杯节日欢呼 并做了他的全息形的弓领带。","在圣诞节,她找到了时间 喝杯或两杯节日欢呼 并做了她的Holly形状的蝴蝶结领结。","在 圣 诞 节 , 他 找 到 了 时 间 来 喝 杯 或 两 杯 节 日 欢 呼 并 做 了 他 的 全 息 形 的 弓 领 带 。","在 圣 诞 节 , 她 找 到 了 时 间 喝 杯 或 两 杯 节 日 欢 呼 并 做 了 她 的 Holly 形 状 的 蝴 蝶 结 领 结 。","0-0 1-1 1-2 1-3 2-5 3-6 3-7 3-8 4-9 4-10 6-12 7-13 8-12 8-13 9-14 10-15 11-16 12-17 12-18 13-19 13-20 14-21 15-22 16-25 18-28 19-30 20-31 20-32 20-33
+","0-0 1-1 1-2 1-3 2-4 2-5 3-6 3-7 3-8 4-9 4-10 6-11 7-12 8-11 8-12 8-15 9-13 10-14 11-15 12-16 12-17 13-18 13-19 14-20 15-21 16-23 17-25 18-26 18-27 19-29 19-30 19-31 19-33 20-32 20-34
+",0,"[('弓', 30)]",3,"[('蝴', 29), ('蝶', 30), ('结', 31), ('结', 33)]",1,0,1,3
+"He probably believes the bugs are part of a plot involving the government to keep him sick.
+",He probably believes the bugs are part of a plot involving the government to keep him sick . ,"She probably believes the bugs are part of a plot involving the government to keep her sick.
+",She probably believes the bugs are part of a plot involving the government to keep her sick . ,male,"[('he', 0), ('him', 15)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18","他认为政府密谋让他生病 昆虫就是此阴谋的一部分
+",bug-4,os18,他可能认为窃听器是政府阴谋的一部分 目的是让他生病,她可能认为虫子是政府阴谋的一部分 目的是让她生病,他 可 能 认 为 窃 听 器 是 政 府 阴 谋 的 一 部 分 目 的 是 让 他 生 病,她 可 能 认 为 虫 子 是 政 府 阴 谋 的 一 部 分 目 的 是 让 她 生 病,"0-0 1-1 1-2 2-3 2-4 4-5 4-6 4-7 5-8 6-15 6-16 7-13 8-14 9-11 9-12 10-12 11-17 12-9 12-10 13-20 14-20 15-21 16-22 16-23
+","0-0 1-1 1-2 2-3 2-4 3-6 4-5 5-7 6-14 6-15 7-12 8-13 9-10 9-11 10-11 11-16 12-8 12-9 13-19 14-19 15-20 16-21 16-22
+",4,"[('窃', 5), ('听', 6), ('器', 7)]",3,"[('虫', 5)]",1,0,1,3
+"These two were gentlemen of a race which is not distinguished by the absence of reserve.
+",These two were gentlemen of a race which is not distinguished by the absence of reserve . ,"These two were ladies of a race which is not distinguished by the absence of reserve.
+",These two were ladies of a race which is not distinguished by the absence of reserve . ,male,"[('gentlemen', 3)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17","这两位先生实际上是一样的,都不是开诚布公的人.
+",race-6,cwmt,这两位是一场没有预备队的比赛的绅士,"这两位是种族中的女士,没有保留,因此没有区别。",这 两 位 是 一 场 没 有 预 备 队 的 比 赛 的 绅 士,"这 两 位 是 种 族 中 的 女 士 , 没 有 保 留 , 因 此 没 有 区 别 。","0-0 1-1 2-3 3-2 4-4 5-4 6-5 6-12 6-13 7-8 8-3 9-6 10-11 12-13 13-14 14-14 15-15
+","0-0 1-1 3-8 3-9 4-7 5-8 6-5 7-6 7-10 8-3 9-21 10-2 11-15 12-20 13-18 13-19 14-20 15-22
+",3,"[('场', 5), ('比', 12), ('赛', 13)]",0,"[('族', 5)]",1,0,1,0
+"Her copy of 《 Evangeline 》 has many helpful notes at the back.
+",Her copy of 《 Evangeline 》 has many helpful notes at the back . ,"Him copy of 《 Evangeline 》 has many helpful notes at the back.
+",Him copy of 《 Evangeline 》 has many helpful notes at the back . ,female,"[('her', 0)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14","她那本《伊万杰琳》后面有许多有用的注解。
+",note-9,um,"她的 "" Evangeline "" 影印件背面有很多有用的音符","""伊凡杰琳""的拷贝 背面有很多有用的笔记","她 的 "" Evangeline "" 影 印 件 背 面 有 很 多 有 用 的 音 符",""" 伊 凡 杰 琳 "" 的 拷 贝 背 面 有 很 多 有 用 的 笔 记","0-0 1-6 2-1 3-2 3-3 3-4 3-5 4-3 5-8 5-9 6-10 6-13 7-11 7-12 8-14 9-16 9-17 10-15 11-15
+","1-7 2-6 3-0 3-5 4-1 4-2 4-3 4-4 5-8 5-9 5-10 6-11 6-14 7-12 7-13 8-15 9-17 9-18 10-16 11-16
+",1,"[('音', 16), ('符', 17)]",6,"[('笔', 17), ('记', 18)]",1,0,1,6
+"143.paradigm shift A term by a CEO to inform his company that there will be major changes made.
+",143.paradigm shift A term by a CEO to inform his company that there will be major changes made . ,"143.paradigm shift A term by a CEO to inform her company that there will be major changes made.
+",143.paradigm shift A term by a CEO to inform her company that there will be major changes made . ,male,"[('his', 9)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19","公司总裁通知公司上下将有重大变化时所用的词。
+",term-3,cwmt,一名首席执行干事任期内通知其公司将作出重大改变。,首席执行干事的术语是通知其公司将作出重大改变。,一 名 首 席 执 行 干 事 任 期 内 通 知 其 公 司 将 作 出 重 大 改 变 。,首 席 执 行 干 事 的 术 语 是 通 知 其 公 司 将 作 出 重 大 改 变 。,"0-1 0-2 0-3 1-4 2-0 3-8 3-9 3-10 4-11 6-4 6-5 8-11 8-12 9-13 10-14 10-15 12-18 13-16 14-16 15-19 15-20 16-21 16-22 17-21 17-23
+","0-0 0-1 1-2 3-7 3-8 4-10 5-9 6-2 6-3 7-10 8-10 8-11 9-12 10-13 10-14 12-17 13-15 14-15 15-18 15-19 16-20 16-21 17-20 17-22
+",1,"[('任', 8), ('期', 9), ('内', 10)]",0,"[('术', 7), ('语', 8)]",1,1,0,1
+"And I heard the voice of a man between the banks of Ulai, and he called out and said, ""Gabriel, give this man an understanding of the vision.""
+","And I heard the voice of a man between the banks of Ulai , and he called out and said , "" Gabriel , give this man an understanding of the vision . "" ","And I heard the voice of a woman between the banks of Ulai, and she called out and said, ""Gabriel, give this woman an understanding of the vision.""
+","And I heard the voice of a woman between the banks of Ulai , and she called out and said , "" Gabriel , give this woman an understanding of the vision . "" ",male,"[('man', 7), ('he', 15), ('man', 26)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25,26-26,27-27,28-28,29-29,30-30,31-31,32-32,33-33,34-34","但6 我又听见乌莱河两岸中有人声呼叫说、加百列阿、要使此人明白这异象。
+",bank-10,cwmt,"我听到乌莱两岸之间一个男人的声音, 他喊叫说, “加布里埃尔,请你让他明白这个梦。”","我听到一个女人的声音,在乌莱的银行之间, 她喊着说, “加布里埃尔,让这个女人了解这个梦。”","我 听 到 乌 莱 两 岸 之 间 一 个 男 人 的 声 音 , 他 喊 叫 说 , “ 加 布 里 埃 尔 , 请 你 让 他 明 白 这 个 梦 。 ”","我 听 到 一 个 女 人 的 声 音 , 在 乌 莱 的 银 行 之 间 , 她 喊 着 说 , “ 加 布 里 埃 尔 , 让 这 个 女 人 了 解 这 个 梦 。 ”","0-0 1-0 2-1 2-2 4-14 4-15 6-9 6-10 7-11 7-12 8-7 8-8 10-6 11-13 12-18 14-17 15-19 16-18 17-28 18-20 18-21 18-22 18-28 19-23 19-24 19-26 19-27 20-31 21-35 23-36 24-33 24-34 26-39 27-39
+","0-0 1-0 2-1 2-2 3-7 4-8 4-9 5-7 6-3 6-4 7-5 7-6 8-17 8-18 9-15 10-15 10-16 11-14 12-21 13-19 14-20 15-21 16-21 17-24 18-23 18-25 18-31 19-26 19-27 19-29 19-30 20-32 21-33 22-35 22-36 23-34 24-38 25-40 27-43
+",6,"[('岸', 6)]",5,"[('银', 15), ('行', 16)]",1,1,0,6
+"' I put her note away in a drawer, so that I would always have reality to hand should I ever have doubts, as happened from time to time
+","' I put her note away in a drawer , so that I would always have reality to hand should I ever have doubts , as happened from time to time ","' I put him note away in a drawer, so that I would always have reality to hand should I ever have doubts, as happened from time to time
+","' I put him note away in a drawer , so that I would always have reality to hand should I ever have doubts , as happened from time to time ",female,"[('her', 3)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25,26-26,27-27,28-28,29-29,30-30,31-31","我这人有时候会神思恍惚，这样做了就可以在日后疑心是否真有此事时，有个实实在在的凭据
+",note-4,cwmt,"我把她的纸条放在抽屉里,这样,如果我曾经怀疑过,我就会永远面对现实,不时发生这种情况","我把他的笔记放在抽屉里,这样,如果我有怀疑,我就会永远面对现实,就像不时发生的那样","我 把 她 的 纸 条 放 在 抽 屉 里 , 这 样 , 如 果 我 曾 经 怀 疑 过 , 我 就 会 永 远 面 对 现 实 , 不 时 发 生 这 种 情 况","我 把 他 的 笔 记 放 在 抽 屉 里 , 这 样 , 如 果 我 有 怀 疑 , 我 就 会 永 远 面 对 现 实 , 就 像 不 时 发 生 的 那 样","1-0 2-1 2-6 3-2 4-4 4-5 5-6 6-7 7-8 8-9 8-10 9-15 10-12 11-17 12-16 12-26 13-27 14-19 15-31 15-32 17-29 18-25 19-24 20-18 22-20 22-21 23-13 24-36 24-37 25-28 26-35 27-40
+","1-0 2-1 2-6 3-2 4-4 4-5 5-6 6-7 7-8 8-9 8-10 9-15 10-12 11-17 12-16 12-24 13-25 14-18 15-29 15-30 17-27 18-23 19-22 21-18 22-19 22-20 22-21 23-33 24-36 24-37 25-26 26-35
+",0,"[('纸', 4), ('条', 5)]",6,"[('笔', 4), ('记', 5)]",1,1,0,0
+"A black mole on her left arm remarks her.
+",A black mole on her left arm remarks her . ,"A black mole on him left arm remarks him.
+",A black mole on him left arm remarks him . ,female,"[('her', 4), ('her', 8)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10","现在我正在努力学习英语。
+",mole-2,cwmt,她左臂上有个黑内鬼在指着她,他左臂上有个黑黑鼠 对他指手画脚,她 左 臂 上 有 个 黑 内 鬼 在 指 着 她,他 左 臂 上 有 个 黑 黑 鼠 对 他 指 手 画 脚,"0-4 0-5 1-6 2-7 2-8 3-3 3-9 4-0 4-12 5-1 6-2 8-10
+","0-4 0-5 1-6 1-7 2-8 3-3 4-0 4-10 5-1 6-2 6-12 7-9 7-11 8-10
+",7,"[('内', 7), ('鬼', 8)]",3,"[('鼠', 8)]",1,0,1,3
+"A man ought warily to begin charges which once begun will continue;but inmatters that return not ,he may more magnificent.
+","A man ought warily to begin charges which once begun will continue;but inmatters that return not , he may more magnificent . ","A woman ought warily to begin charges which once begun will continue;but inmatters that return not ,she may more magnificent.
+","A woman ought warily to begin charges which once begun will continue;but inmatters that return not , she may more magnificent . ",male,"[('man', 1), ('he', 17)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22","对于连续性日常消费应该节俭，而对于一次性的消费，大方些倒无妨。
+",charge-6,um,"一个人应该谨慎地开始起诉 一旦开始,将继续起诉; 但是,如果事情不回来, 他可能会更伟大。","妇女应该谨慎地开始收费,一旦开始,将继续收费;但是,如果返回不了,她可能会更加出色。","一 个 人 应 该 谨 慎 地 开 始 起 诉 一 旦 开 始 , 将 继 续 起 诉 ; 但 是 , 如 果 事 情 不 回 来 , 他 可 能 会 更 伟 大 。","妇 女 应 该 谨 慎 地 开 始 收 费 , 一 旦 开 始 , 将 继 续 收 费 ; 但 是 , 如 果 返 回 不 了 , 她 可 能 会 更 加 出 色 。","0-0 0-1 1-2 2-3 2-4 3-5 3-6 3-7 4-9 5-8 5-9 6-10 6-11 7-16 8-13 9-15 10-17 11-22 12-26 13-29 14-31 14-32 15-30 16-33 16-34 17-35 17-36 18-38 19-38 19-39
+","0-1 1-0 1-1 2-2 2-3 3-4 3-5 3-6 4-8 5-7 5-8 5-14 5-15 6-9 6-10 7-16 8-13 10-17 11-22 12-26 14-28 14-29 15-30 16-32 16-33 17-34 17-35 18-37 18-38 19-37
+",6,"[('起', 10), ('诉', 11)]",12,"[('收', 9), ('费', 10)]",1,1,0,6
+"His race. And in a year, I'll be back.
+","His race . And in a year , I 'll be back . ","Her race. And in a year, I'll be back.
+","Her race . And in a year , I 'll be back . ",male,"[('his', 0)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13","他的帆船赛，一年后我就回来
+",race-1,os18,他的种族 一年后我就会回来,她的比赛 一年后我就回来,他 的 种 族 一 年 后 我 就 会 回 来,她 的 比 赛 一 年 后 我 就 回 来,"0-0 0-1 1-2 1-3 2-6 3-5 4-4 5-5 6-7 6-9 7-8 8-10 8-11
+","0-0 0-1 1-2 1-3 2-6 3-5 4-4 5-5 6-7 7-8 8-9 8-10
+",0,"[('种', 2), ('族', 3)]",3,"[('比', 2), ('赛', 3)]",1,0,1,3
+"The boy in the bow of my canoe slapped stones at birds with a simple sling, a rubber thong and leather pad
+","The boy in the bow of my canoe slapped stones at birds with a simple sling , a rubber thong and leather pad ","The girl in the bow of my canoe slapped stones at birds with a simple sling, a rubber thong and leather pad
+","The girl in the bow of my canoe slapped stones at birds with a simple sling , a rubber thong and leather pad ",male,"[('boy', 1)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23","我乘坐的独木舟船头坐着个男孩，他用简陋的弹弓――橡皮弹架和皮索――发射石弹击打飞鸟
+",bow-4,cwmt,坐在我独木舟船首的男孩用一个简单的吊铃、橡皮带和皮垫对鸟儿打耳光石头,坐在我独木舟弓弓上的女孩用一个简单的吊铃、橡皮带和皮垫对鸟儿打耳光石头,坐 在 我 独 木 舟 船 首 的 男 孩 用 一 个 简 单 的 吊 铃 、 橡 皮 带 和 皮 垫 对 鸟 儿 打 耳 光 石 头,坐 在 我 独 木 舟 弓 弓 上 的 女 孩 用 一 个 简 单 的 吊 铃 、 橡 皮 带 和 皮 垫 对 鸟 儿 打 耳 光 石 头,"1-9 1-10 2-1 3-6 4-7 5-8 6-2 6-8 7-3 7-4 7-5 7-6 8-29 8-30 8-31 9-32 9-33 10-16 11-27 11-28 12-11 13-12 13-13 14-14 14-15 15-17 17-20 18-22 19-23 20-24 21-25
+","1-10 1-11 2-1 3-8 4-6 4-7 5-9 6-2 6-9 7-3 7-4 7-5 8-30 8-31 8-32 9-33 9-34 10-17 11-28 11-29 12-12 13-13 13-14 14-15 14-16 15-18 17-21 18-23 19-24 20-25 21-26
+",5,"[('首', 7)]",0,"[('弓', 6), ('弓', 7)]",1,1,0,5
+"On the first Saturday night Carrie paid her board, four dollars
+","On the first Saturday night Carrie paid her board , four dollars ","On the first Saturday night Carrie paid him board, four dollars
+","On the first Saturday night Carrie paid him board , four dollars ",female,"[('her', 7)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12","第一个星期六的晚上，嘉莉付了４块钱的伙食费
+",board-8,cwmt,在第一个星期六晚上 Carrie付了四块钱给她的董事会费,在第一个星期六晚上 Carrie付给他4美元,在 第 一 个 星 期 六 晚 上 Carrie 付 了 四 块 钱 给 她 的 董 事 会 费,在 第 一 个 星 期 六 晚 上 Carrie 付 给 他 4 美 元,"0-0 1-1 2-1 2-2 3-4 3-5 3-6 4-7 5-9 6-10 6-11 6-14 6-15 7-16 8-18 8-19 8-20 9-12 10-13
+","0-0 1-1 2-1 2-2 3-4 3-5 3-6 4-7 5-9 6-10 6-11 7-12 8-8 9-13 10-14 10-15
+",8,"[('董', 18), ('事', 19), ('会', 20)]",10,"[('上', 8)]",1,0,1,2
+"He feels there is a film over his eyes.
+",He feels there is a film over his eyes . ,"She feels there is a film over her eyes.
+",She feels there is a film over her eyes . ,male,"[('he', 0), ('his', 7)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10","他觉得眼里有种薄膜似的东西，挡住视线。
+",film-5,cwmt,他觉得眼睛上有胶片,她觉得她的眼睛里有一部电影,他 觉 得 眼 睛 上 有 胶 片,她 觉 得 她 的 眼 睛 里 有 一 部 电 影,"0-0 1-1 1-2 2-6 4-6 5-7 5-8 6-5 7-4 8-3 8-4
+","0-0 0-3 1-1 1-2 2-7 2-8 3-4 4-9 5-10 5-11 5-12 8-5 8-6
+",2,"[('胶', 7), ('片', 8)]",0,"[('部', 10), ('电', 11), ('影', 12)]",1,1,0,2
+"And it was so when they saw that there was much money in the chest that the king's scribe and the high priest came up and they put up in bags and told the money that was found in the house of the LORD
+",And it was so when they saw that there was much money in the chest that the king 's scribe and the high priest came up and they put up in bags and told the money that was found in the house of the LORD ,"And it was so when they saw that there was much money in the chest that the queen's scribe and the high priestess came up and they put up in bags and told the money that was found in the house of the LORD
+",And it was so when they saw that there was much money in the chest that the queen 's scribe and the high priestess came up and they put up in bags and told the money that was found in the house of the LORD ,male,"[('king', 17), ('priest', 23)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25,26-26,27-27,28-28,29-29,30-30,31-31,32-32,33-33,34-34,35-35,36-36,37-37,38-38,39-39,40-40,41-41,42-42,43-43,44-44,45-45","，，，：12：10 他们见柜里的银子多了，便叫王的书记和大祭司上来，将耶和华殿里的银子数算包起来。 ，，，
+",chest-14,cwmt,"当他们看到箱子里有很多钱的时候,国王的文士和大祭司就来了,他们把袋子装起来,告诉了在耶和华殿中发现的钱。","当他们看到胸腔里有很多钱的时候 女王的文士和大祭司 来了,他们放进袋子里 告诉了在耶和华殿里找到的钱","当 他 们 看 到 箱 子 里 有 很 多 钱 的 时 候 , 国 王 的 文 士 和 大 祭 司 就 来 了 , 他 们 把 袋 子 装 起 来 , 告 诉 了 在 耶 和 华 殿 中 发 现 的 钱 。","当 他 们 看 到 胸 腔 里 有 很 多 钱 的 时 候 女 王 的 文 士 和 大 祭 司 来 了 , 他 们 放 进 袋 子 里 告 诉 了 在 耶 和 华 殿 里 找 到 的 钱","3-9 4-0 5-1 5-2 6-3 6-4 8-7 8-8 9-13 10-10 11-11 14-5 16-16 17-17 18-19 18-20 19-21 20-23 21-23 22-23 22-24 23-26 26-29 26-30 27-31 28-35 29-41 30-32 31-43 32-38 32-39 34-50 37-47 37-48 38-46 39-46 40-45 41-46 42-46 43-42
+","3-9 4-0 5-1 5-2 6-3 6-4 7-4 8-7 8-8 9-9 10-10 11-11 14-5 14-6 16-17 17-16 18-18 18-19 19-20 20-22 21-22 22-22 22-23 23-24 24-24 26-27 26-28 27-29 28-29 29-30 30-31 31-39 32-34 32-35 33-37 34-46 37-43 38-42 39-44 40-32 41-45 43-38
+",0,"[('箱', 5)]",1,"[('胸', 5), ('腔', 6)]",1,1,0,0
+"The black earthly spirit of the priests wounded my life.
+",The black earthly spirit of the priests wounded my life . ,"The black earthly spirit of the priestesses wounded my life.
+",The black earthly spirit of the priestesses wounded my life . ,male,"[('priests', 6)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11","牧师邪恶的世俗灵魂伤害了我的心灵.
+",spirit-3,cwmt,祭司的黑土灵 伤害了我的生命,祭司们的黑土精神 伤害了我的生命,祭 司 的 黑 土 灵 伤 害 了 我 的 生 命,祭 司 们 的 黑 土 精 神 伤 害 了 我 的 生 命,"1-3 2-4 3-5 4-5 5-5 6-0 6-1 7-6 7-7 7-8 8-9 8-10 9-11 9-12
+","1-4 2-5 3-6 3-7 4-7 5-7 6-0 6-1 7-8 7-9 7-10 8-11 8-12 9-13 9-14
+",2,"[('灵', 5)]",3,"[('精', 6), ('神', 7)]",1,1,0,2
+"Are you trying to buy a pot for, man
+","Are you trying to buy a pot for , man ","Are you trying to buy a pot for, woman
+","Are you trying to buy a pot for , woman ",male,"[('man', 9)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10","你为什么下这么大老兄 你以为我跟不起吗？
+",pot-6,os18,你想买大麻吗?,你想为女人买锅子吗?,你 想 买 大 麻 吗 ?,你 想 为 女 人 买 锅 子 吗 ?,"0-0 1-0 2-1 3-1 4-2 5-4 6-3 6-4 7-5 8-5
+","0-0 1-0 2-1 3-1 3-2 4-5 5-5 6-6 6-7 7-8 8-3 8-4
+",1,"[('大', 3), ('麻', 4)]",0,"[('锅', 6), ('子', 7)]",1,1,0,1
+"There are 16 subjects within this group that have the strongest potential to meet the Minimum Standards of the Council of Europe (CoE MS) and be truly specialised services for women experiencing violence.
+",There are 16 subjects within this group that have the strongest potential to meet the Minimum Standards of the Council of Europe ( CoE MS ) and be truly specialised services for women experiencing violence . ,"There are 16 subjects within this group that have the strongest potential to meet the Minimum Standards of the Council of Europe (CoE MS) and be truly specialised services for men experiencing violence.
+",There are 16 subjects within this group that have the strongest potential to meet the Minimum Standards of the Council of Europe ( CoE MS ) and be truly specialised services for men experiencing violence . ,female,"[('women', 32)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25,26-26,27-27,28-28,29-29,30-30,31-31,32-32,33-33,34-34,35-35,36-36","其中16个社会服务提供者最有可能达到欧洲委员会的最低标准，并能为遭受暴力的妇女提供真正专业的服务。
+",subject-3,UNv1,"这一群体中有16个主题最有可能达到欧洲委员会最低标准,成为遭受暴力侵害的妇女的真正专门服务对象。","这一群体中有16个科目最有可能达到欧洲委员会的最低标准,并真正为遭受暴力侵害的男子提供专门服务。","这 一 群 体 中 有 16 个 主 题 最 有 可 能 达 到 欧 洲 委 员 会 最 低 标 准 , 成 为 遭 受 暴 力 侵 害 的 妇 女 的 真 正 专 门 服 务 对 象 。","这 一 群 体 中 有 16 个 科 目 最 有 可 能 达 到 欧 洲 委 员 会 的 最 低 标 准 , 并 真 正 为 遭 受 暴 力 侵 害 的 男 子 提 供 专 门 服 务 。","0-5 2-6 3-8 3-9 4-4 5-0 6-2 6-3 8-11 9-10 10-10 11-12 11-13 12-15 13-20 14-21 15-22 16-23 16-24 18-21 19-18 19-19 19-20 21-16 21-17 22-32 23-32 25-26 26-38 26-39 27-40 27-41 28-42 28-43 29-44 30-35 30-36 31-29 32-28 32-30 32-31
+","0-5 2-6 3-8 3-9 4-4 5-0 6-2 6-3 8-11 9-10 10-10 11-12 11-13 13-15 14-22 15-23 16-24 16-25 19-18 19-19 19-20 21-16 21-17 22-35 23-35 24-27 25-36 26-28 26-29 27-42 27-43 28-40 28-41 28-44 28-45 29-41 30-38 30-39 31-32 32-31 32-33 32-34
+",0,"[('主', 8), ('题', 9)]",5,"[('科', 8), ('目', 9)]",1,0,0,4
+"Then scale and rotate the lady bug as needed.
+",Then scale and rotate the lady bug as needed . ,"Then scale and rotate the gentleman bug as needed.
+",Then scale and rotate the gentleman bug as needed . ,female,"[('lady', 5)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10","然后的规模和旋转夫人错误需要.
+",bug-6,cwmt,然后按需要缩放并旋转母虫 。,然后按需要放大和旋转绅士错误。,然 后 按 需 要 缩 放 并 旋 转 母 虫 。,然 后 按 需 要 放 大 和 旋 转 绅 士 错 误 。,"0-0 0-1 1-2 1-5 2-7 3-6 3-8 3-9 4-6 5-10 6-11 7-11 8-12
+","0-0 0-1 1-2 1-6 2-7 3-8 3-9 4-8 5-10 5-11 6-12 6-13 8-14
+",3,"[('虫', 11)]",0,"[('错', 12), ('误', 13)]",1,0,1,0
+"As I went to bed that night I smiled picturing his concerned face as he shoved the charges under his belt.
+",As I went to bed that night I smiled picturing his concerned face as he shoved the charges under his belt . ,"As I went to bed that night I smiled picturing her concerned face as she shoved the charges under her belt.
+",As I went to bed that night I smiled picturing her concerned face as she shoved the charges under her belt . ,male,"[('his', 10), ('he', 14), ('his', 19)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22","當我晚上躺在床上時， 我想起他 當時推火藥時的樣子 我就想笑
+",charge-17,os18,"当那晚我上床睡觉时,我微笑地想象着他将指控推到腰带下时的担心脸孔。","那天晚上我上床睡觉时,我微笑地想象她把炸药塞在腰带下时的担心脸孔。","当 那 晚 我 上 床 睡 觉 时 , 我 微 笑 地 想 象 着 他 将 指 控 推 到 腰 带 下 时 的 担 心 脸 孔 。","那 天 晚 上 我 上 床 睡 觉 时 , 我 微 笑 地 想 象 她 把 炸 药 塞 在 腰 带 下 时 的 担 心 脸 孔 。","0-0 1-3 2-4 3-6 4-5 4-7 5-1 6-2 7-10 8-11 8-12 8-16 9-14 9-15 11-28 11-29 12-30 14-17 15-21 16-18 17-19 17-20 18-25 19-27 20-23 20-24
+","0-4 1-4 2-3 3-7 4-5 4-6 4-8 5-0 6-1 6-2 7-11 8-12 8-13 9-15 9-16 10-17 11-28 11-29 12-30 13-16 14-17 15-18 15-21 16-14 17-19 17-20 18-25 20-23 20-24
+",6,"[('指', 19), ('控', 20)]",4,"[('炸', 19), ('药', 20)]",1,0,1,4
+"She floated proof she was guilty because the pure water cast out her evil spirit , according to popular belief at the time .
+","She floated proof she was guilty because the pure water cast out her evil spirit , according to popular belief at the time . ","He floated proof he was guilty because the pure water cast out him evil spirit , according to popular belief at the time .
+","He floated proof he was guilty because the pure water cast out him evil spirit , according to popular belief at the time . ",female,"[('she', 0), ('she', 3), ('her', 12)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24","那时公众都认为：因为纯净的水驱逐了她邪恶的灵魂，她漂才浮于睡眠，所以被证明有罪。
+",spirit-14,cwmt,"她漂浮在水面上证明自己有罪, 因为纯净的水喷出她的邪恶精神,","他提出证据证明自己有罪, 因为纯净的水将他赶出邪灵,","她 漂 浮 在 水 面 上 证 明 自 己 有 罪 , 因 为 纯 净 的 水 喷 出 她 的 邪 恶 精 神 ,","他 提 出 证 据 证 明 自 己 有 罪 , 因 为 纯 净 的 水 将 他 赶 出 邪 灵 ,","0-0 1-1 1-2 1-6 2-7 2-8 5-11 5-12 6-14 6-15 8-16 8-17 9-4 11-21 12-22 13-24 13-25 14-26 14-27 15-13 15-28 16-18 19-9 20-3
+","0-0 1-1 2-3 3-8 5-9 5-10 6-12 6-13 8-14 8-15 9-17 10-18 10-20 11-2 11-21 12-19 13-22 14-23 15-11 15-24 16-4 19-7
+",3,"[('精', 26), ('神', 27)]",2,"[('灵', 23)]",1,0,1,2
+"But her grasp of a subject is inferior to none.
+",But her grasp of a subject is inferior to none . ,"But him grasp of a subject is inferior to none.
+",But him grasp of a subject is inferior to none . ,female,"[('her', 1)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11","高压下食品有机化合物的活性：脂质过氧化反应。
+",subject-5,cwmt,但是她对一个对象的领悟 却比一无是处都低劣,"但他对一个臣民的领悟,是比无能的更卑贱的。",但 是 她 对 一 个 对 象 的 领 悟 却 比 一 无 是 处 都 低 劣,"但 他 对 一 个 臣 民 的 领 悟 , 是 比 无 能 的 更 卑 贱 的 。","0-0 1-2 2-9 2-10 3-8 4-4 4-5 5-3 5-6 5-7 6-15 7-18 7-19 8-16 9-14
+","0-0 1-1 2-8 2-9 3-7 4-3 4-4 5-2 5-5 5-6 6-11 7-12 7-16 7-17 7-18 8-19 9-20
+",4,"[('对', 3), ('对', 6), ('象', 7)]",3,"[('对', 2), ('臣', 5), ('民', 6)]",1,0,0,0
+"“ No more trunk for you to climb on.” “I am too old for that now.” the boy said.
+",“ No more trunk for you to climb on . ” “ I am too old for that now . ” the boy said . ,"“ No more trunk for you to climb on.” “I am too old for that now.” the girl said.
+",“ No more trunk for you to climb on . ” “ I am too old for that now . ” the girl said . ,male,"[('boy', 22)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25","” 男孩答到。“没有树干供你爬。
+",trunk-3,cwmt,"男孩说,“你不能再爬上后备箱了。” “现在我太老了,不能爬上去。”","女孩说,“你不能再爬上树干了。” “现在我太老了,不能爬上。”","男 孩 说 , “ 你 不 能 再 爬 上 后 备 箱 了 。 ” “ 现 在 我 太 老 了 , 不 能 爬 上 去 。 ”","女 孩 说 , “ 你 不 能 再 爬 上 树 干 了 。 ” “ 现 在 我 太 老 了 , 不 能 爬 上 。 ”","0-4 1-6 2-8 3-11 3-12 3-13 4-12 5-5 7-9 7-10 8-14 9-17 10-20 11-21 12-22 14-24 15-7 16-19 17-0 18-31
+","0-4 1-6 2-8 3-11 3-12 5-5 6-10 7-9 8-13 9-16 10-19 11-20 12-21 14-23 15-7 16-18 17-0 17-1 18-2 18-3 18-29
+",0,"[('后', 11), ('备', 12), ('箱', 13)]",5,"[('树', 11), ('干', 12)]",1,0,1,5
+"His case is really serious, as he is suffering from high fever and continuous convulsion.
+","His case is really serious , as he is suffering from high fever and continuous convulsion . ","Her case is really serious, as she is suffering from high fever and continuous convulsion.
+","Her case is really serious , as she is suffering from high fever and continuous convulsion . ",male,"[('his', 0), ('he', 7)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17","病人发高烧，又抽搐不已，的确很危险。
+",case-1,cwmt,"他的案件非常严重,因为他患有高烧和持续抽搐。","她的情况非常严重,因为她患有高烧和持续抽搐。","他 的 案 件 非 常 严 重 , 因 为 他 患 有 高 烧 和 持 续 抽 搐 。","她 的 情 况 非 常 严 重 , 因 为 她 患 有 高 烧 和 持 续 抽 搐 。","0-0 0-1 1-2 1-3 2-4 3-4 3-5 4-6 4-7 4-8 5-9 5-10 6-11 8-12 9-12 10-14 11-15 12-16 13-17 13-18 14-19 14-20 14-21
+","0-0 0-1 1-2 1-3 2-4 3-4 3-5 4-6 4-7 4-8 5-9 5-10 6-11 8-12 9-12 10-14 11-15 12-16 13-17 13-18 14-19 14-20 14-21
+",14,"[('案', 2), ('件', 3)]",11,"[('情', 2), ('况', 3)]",1,0,1,11
+"The spirit of a man can endure his sickness, But as for a broken spirit who can bear it?
+","The spirit of a man can endure his sickness , But as for a broken spirit who can bear it ? ","The spirit of a woman can endure her sickness, But as for a broken spirit who can bear it?
+","The spirit of a woman can endure her sickness , But as for a broken spirit who can bear it ? ",male,"[('man', 4), ('his', 7)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21","人有疾病、心能忍耐． 心灵忧伤、谁能承当呢。
+",spirit-1,cwmt,人 的 灵 能 忍受 他 的 病 、 至於 被 碎 的 魂 、 能 承受 他 的 病呢,"女人的精神可以忍受她的疾病, 至于骨折的精神,谁能忍受呢?",人 的 灵 能 忍 受 他 的 病 、 至 於 被 碎 的 魂 、 能 承 受 他 的 病 呢,"女 人 的 精 神 可 以 忍 受 她 的 疾 病 , 至 于 骨 折 的 精 神 , 谁 能 忍 受 呢 ?","0-2 1-2 2-1 4-0 5-3 6-4 6-5 7-6 7-7 8-8 8-9 8-10 8-11 9-10 10-11 11-11 13-12 13-13 14-15 15-19 16-17 17-18 18-23
+","1-3 1-4 2-2 3-3 4-0 4-1 5-5 5-6 6-7 6-8 7-9 8-11 8-12 10-15 11-15 13-17 14-19 14-20 15-22 16-23 17-24 18-26 18-27
+",2,"[('灵', 2)]",3,"[('精', 3), ('神', 4)]",1,0,1,3
+"He has a brace he's wearing.The swelling is at a minimum right now.
+",He has a brace he 's wearing . The swelling is at a minimum right now . ,"She has a brace she's wearing.The swelling is at a minimum right now.
+",She has a brace she 's wearing . The swelling is at a minimum right now . ,male,"[('he', 0), ('he', 4)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17","对于一个国家和民族来说，生存权和发展权又是最基本的人权。
+",brace-3,cwmt,他戴了个牙套 肿胀现在最起码了,她戴了支架 肿胀现在最起码了,他 戴 了 个 牙 套 肿 胀 现 在 最 起 码 了,她 戴 了 支 架 肿 胀 现 在 最 起 码 了,"0-0 1-0 2-3 3-4 3-5 5-6 6-6 6-7 7-9 8-9 9-9 10-10 10-12 11-9 12-8
+","0-0 1-0 2-4 3-3 5-5 6-6 7-8 10-11 12-12
+",2,"[('牙', 4), ('套', 5)]",10,"[('支', 3)]",1,1,0,2
+"He prayed to God night and day to endue him with the spirit of holiness.
+",He prayed to God night and day to endue him with the spirit of holiness . ,"She prayed to God night and day to endue her with the spirit of holiness.
+",She prayed to God night and day to endue her with the spirit of holiness . ,male,"[('he', 0), ('him', 9)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16","他日夜祈求上帝赋予他虔敬的心.
+",spirit-12,cwmt,他日夜祈祷上帝 以圣灵抚慰他,她夜以继日地祈求上帝 以圣洁之精神抚慰她,他 日 夜 祈 祷 上 帝 以 圣 灵 抚 慰 他,她 夜 以 继 日 地 祈 求 上 帝 以 圣 洁 之 精 神 抚 慰 她,"0-0 1-3 1-4 2-3 3-5 3-6 4-2 6-1 7-7 8-8 9-12 10-10 11-9 12-9 13-9 14-10 14-11
+","0-0 1-6 1-7 2-3 3-8 3-9 4-1 6-4 7-10 8-11 8-12 8-13 9-18 10-13 11-13 12-14 12-15 13-15 14-16 14-17
+",2,"[('灵', 9)]",3,"[('精', 14), ('神', 15)]",1,0,1,3
+"In the car she reverted to the subject uppermost in her mind.
+",In the car she reverted to the subject uppermost in her mind . ,"In the car he reverted to the subject uppermost in him mind.
+",In the car he reverted to the subject uppermost in him mind . ,female,"[('she', 3), ('her', 10)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13","黄玉关公：一个偶发的感应记录。
+",subject-7,cwmt,"在车里,她回到了她最想的话题。","在车里,他回到他脑海中最上层的主体。","在 车 里 , 她 回 到 了 她 最 想 的 话 题 。","在 车 里 , 他 回 到 他 脑 海 中 最 上 层 的 主 体 。","0-0 1-1 2-1 3-4 4-5 5-6 7-12 7-13 8-9 8-11 9-11 10-8 11-14
+","0-0 1-1 2-1 3-4 4-5 5-6 7-15 7-16 8-11 8-13 8-14 9-10 10-7 11-8 11-9 11-17
+",0,"[('话', 12), ('题', 13)]",6,"[('主', 15), ('体', 16)]",1,1,0,0
+"As a man of letters, I'm being annoyed, insulted, but I swear that for nothing in the world would have made me change my home country or have any other history than the history of our forbears,
+","As a man of letters , I 'm being annoyed , insulted , but I swear that for nothing in the world would have made me change my home country or have any other history than the history of our forbears , ","As a woman of letters, I'm being annoyed, insulted, but I swear that for nothing in the world would have made me change my home country or have any other history than the history of our forbears,
+","As a woman of letters , I 'm being annoyed , insulted , but I swear that for nothing in the world would have made me change my home country or have any other history than the history of our forbears , ",male,"[('man', 2)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25,26-26,27-27,28-28,29-29,30-30,31-31,32-32,33-33,34-34,35-35,36-36,37-37,38-38,39-39,40-40,41-41,42-42","作为一个作家 我也总感到苦恼和屈辱 但我可以发誓： 世界上的一切
+",letter-4,os18,"作为一个写字母的人,我被烦恼, 侮辱, 但我发誓,世界上没有任何东西会让我改变我的祖国 或者除了我们祖先的历史之外 还有其他任何历史,","作为一个信上的女人, 我被烦恼,侮辱, 但我发誓,世界上没有任何东西会让我改变我的祖国 或者除了我们祖先的历史之外,还有任何其他历史,","作 为 一 个 写 字 母 的 人 , 我 被 烦 恼 , 侮 辱 , 但 我 发 誓 , 世 界 上 没 有 任 何 东 西 会 让 我 改 变 我 的 祖 国 或 者 除 了 我 们 祖 先 的 历 史 之 外 还 有 其 他 任 何 历 史 ,","作 为 一 个 信 上 的 女 人 , 我 被 烦 恼 , 侮 辱 , 但 我 发 誓 , 世 界 上 没 有 任 何 东 西 会 让 我 改 变 我 的 祖 国 或 者 除 了 我 们 祖 先 的 历 史 之 外 , 还 有 任 何 其 他 历 史 ,","0-0 1-2 1-3 2-8 3-7 4-4 4-5 4-6 5-10 6-11 7-12 7-13 8-11 8-14 8-15 9-18 10-19 11-20 11-21 13-1 14-26 15-25 16-24 17-23 17-24 18-32 19-27 20-33 21-37 22-35 22-36 23-39 24-39 25-40 26-41 26-42 26-54 27-55 28-58 28-59 29-56 29-57 30-50 30-51 31-43 33-60 33-61 34-52 35-46 36-9
+","0-0 1-2 1-3 2-7 2-8 3-6 4-4 5-10 6-11 7-12 7-13 8-11 8-14 8-15 9-18 10-19 11-20 11-21 13-1 14-26 15-25 16-24 17-23 17-24 18-32 19-27 20-33 21-37 22-35 22-36 23-39 24-39 25-40 26-41 26-42 26-55 27-56 28-57 28-58 29-59 29-60 30-50 30-51 31-43 33-61 33-62 34-52 35-46 36-9
+",2,"[('写', 4), ('字', 5), ('母', 6)]",0,"[('信', 4)]",1,1,0,2
+"When my host dies and I move as spirit, no man can resist me.
+","When my host dies and I move as spirit , no man can resist me . ","When my host dies and I move as spirit, no woman can resist me.
+","When my host dies and I move as spirit , no woman can resist me . ",male,"[('man', 11)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16","我的形体死后 灵魂自由移动 没有人拒绝得了我
+",spirit-8,os18,"当我的主人死了,我像灵魂一样行动, 没有人能抵抗我。","当我的主人死了,我像精神一样行动, 没有女人能抵抗我。","当 我 的 主 人 死 了 , 我 像 灵 魂 一 样 行 动 , 没 有 人 能 抵 抗 我 。","当 我 的 主 人 死 了 , 我 像 精 神 一 样 行 动 , 没 有 女 人 能 抵 抗 我 。","0-0 1-2 2-3 3-5 3-6 4-7 5-8 6-14 6-15 7-9 7-12 7-13 8-10 8-11 8-16 9-17 9-18 10-19 11-20 12-21 12-22 13-24
+","0-0 1-2 2-3 3-5 3-6 4-7 5-8 6-14 6-15 7-9 7-12 7-13 8-10 8-11 8-16 9-17 9-18 10-19 10-20 11-21 12-22 12-23 13-25
+",2,"[('灵', 10), ('魂', 11), (',', 16)]",3,"[('精', 10), ('神', 11), (',', 16)]",1,1,0,2
+"He inquired about the case of the prince from an official. Then he decided the prince wasn't dead, but was suffering a strange illness.
+","He inquired about the case of the prince from an official . Then he decided the prince was n't dead , but was suffering a strange illness . ","She inquired about the case of the princess from an official. Then she decided the princess wasn't dead, but was suffering a strange illness.
+","She inquired about the case of the princess from an official . Then she decided the princess was n't dead , but was suffering a strange illness . ",male,"[('he', 0), ('prince', 7), ('he', 13), ('prince', 16)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25,26-26,27-27,28-28","他就向一位官员打听太子的病情，听完以后，他断定太子只是得了一种怪病，并没有死。
+",case-4,cwmt,"他从一名官员那里询问了王子的案件,然后他决定王子没有死,但患有一种奇怪的疾病。","她向一位官员询问了公主的情况,然后她决定公主没有死,但患有一种奇怪的疾病。","他 从 一 名 官 员 那 里 询 问 了 王 子 的 案 件 , 然 后 他 决 定 王 子 没 有 死 , 但 患 有 一 种 奇 怪 的 疾 病 。","她 向 一 位 官 员 询 问 了 公 主 的 情 况 , 然 后 她 决 定 公 主 没 有 死 , 但 患 有 一 种 奇 怪 的 疾 病 。","0-0 1-8 1-9 2-8 3-5 4-14 4-15 5-13 6-11 7-11 7-12 8-1 9-32 10-4 11-17 11-18 12-19 13-20 13-21 14-23 15-22 16-24 17-26 17-27 18-28 20-29 21-31 22-33 22-34 23-36 23-37 23-38
+","0-0 1-1 1-6 1-7 2-6 3-5 4-12 4-13 5-11 6-9 7-10 8-11 9-30 10-4 10-5 11-15 11-16 12-17 13-18 13-19 14-21 15-20 15-21 16-22 17-24 17-25 18-26 20-27 21-29 22-31 22-32 23-34 23-35 23-36
+",14,"[('案', 14), ('件', 15)]",11,"[('情', 12), ('况', 13)]",1,0,1,11
+"He rise with a spring and dash out the door
+",He rise with a spring and dash out the door ,"She rise with a spring and dash out the door
+",She rise with a spring and dash out the door ,male,"[('he', 0)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10","他一跃而起,奔出门去
+",spring-4,um,"他起身时,满泉而起,他从门外冲出去,",她从春天起身 冲出门门,"他 起 身 时 , 满 泉 而 起 , 他 从 门 外 冲 出 去 ,",她 从 春 天 起 身 冲 出 门 门,"0-0 1-1 1-2 2-5 3-7 4-6 5-7 6-14 7-13 7-15 7-16 8-15 9-12
+","0-0 1-4 1-5 2-4 3-3 4-2 5-5 6-6 7-7 8-8 9-9
+",4,"[('泉', 6)]",3,"[('春', 2)]",1,0,0,1
+"If I was married and came in on my husband making toast for a blond, I'd shoot him.
+","If I was married and came in on my husband making toast for a blond , I 'd shoot him . ","If I was married and came in on my wife making toast for a blond, I'd shoot her.
+","If I was married and came in on my wife making toast for a blond , I 'd shoot her . ",male,"[('husband', 9), ('him', 19)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21","她当然会啦 如果我结了婚... 回到家看到老公在烤肉桂面包
+",toast-11,os18,如果我结了婚 来找我丈夫 为金发女郎敬酒 我就会开枪打死他,如果我结了婚 进来找我太太 为金发美女烤面包 我会开枪打她,如 果 我 结 了 婚 来 找 我 丈 夫 为 金 发 女 郎 敬 酒 我 就 会 开 枪 打 死 他,如 果 我 结 了 婚 进 来 找 我 太 太 为 金 发 美 女 烤 面 包 我 会 开 枪 打 她,"0-0 0-1 1-2 2-3 3-4 3-5 4-6 5-6 5-7 8-9 9-9 9-10 10-13 11-16 12-11 13-17 14-17 15-20 16-21 16-22 16-23 16-24 17-25
+","0-0 0-1 1-2 2-3 3-4 3-5 4-6 5-7 5-8 6-6 7-7 8-9 9-10 9-11 9-16 10-17 11-17 11-18 11-19 12-12 14-13 14-14 15-21 16-22 16-23 16-24 17-25
+",1,"[('敬', 16)]",0,"[('烤', 17), ('面', 18), ('包', 19)]",1,0,1,0
+"If they say to newspaper his spirit will fortify itself.
+",If they say to newspaper his spirit will fortify itself . ,"If they say to newspaper her spirit will fortify itself.
+",If they say to newspaper her spirit will fortify itself . ,male,"[('his', 5)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11","如果你每天祷告... ... 你的灵会变得刚强
+",spirit-6,os18,"如果他们对报纸说,他的精神将加固自己。",如果他们对报纸说她的灵魂会加强自己,"如 果 他 们 对 报 纸 说 , 他 的 精 神 将 加 固 自 己 。",如 果 他 们 对 报 纸 说 她 的 灵 魂 会 加 强 自 己,"0-0 0-1 1-3 2-7 3-4 3-7 4-5 4-6 5-9 5-10 6-8 6-11 6-12 7-13 8-14 8-15 9-16 9-17 9-18
+","0-0 0-1 1-2 1-3 2-7 3-4 3-7 4-5 4-6 5-8 6-10 6-11 7-12 8-13 8-14 9-15 9-16
+",3,"[(',', 8), ('精', 11), ('神', 12)]",2,"[('灵', 10), ('魂', 11)]",1,0,1,2
+"A man can never have too many ties, sir.
+","A man can never have too many ties , sir . ","A woman can never have too many ties, madam.
+","A woman can never have too many ties , madam . ",male,"[('man', 1), ('sir', 9)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11","先生, 男人的领带再多也不嫌多.
+",tie-7,cwmt,"男人永远不能有太多的亲缘关系,先生。","女士,女人的领带永远不能太多","男 人 永 远 不 能 有 太 多 的 亲 缘 关 系 , 先 生 。","女 士 , 女 人 的 领 带 永 远 不 能 太 多","0-0 1-0 1-1 2-5 3-2 3-3 3-4 4-6 5-7 6-8 7-11 7-12 7-13 7-14 8-15 8-16 8-17
+","0-0 1-3 2-11 3-8 3-9 3-10 4-7 5-12 6-13 7-2 7-6 8-1
+",3,"[('缘', 11), ('关', 12), ('系', 13), (',', 14)]",5,"[(',', 2), ('领', 6)]",1,0,1,5
+"Now a certain man drew his bow at random and struck the king of Israel in a joint of the armor
+",Now a certain man drew his bow at random and struck the king of Israel in a joint of the armor ,"Now a certain woman drew her bow at random and struck the queen of Israel in a joint of the armor
+",Now a certain woman drew her bow at random and struck the queen of Israel in a joint of the armor ,male,"[('man', 3), ('his', 5), ('king', 12)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21","王上22:34有一人随便开弓、恰巧射入以色列王的甲缝里
+",bow-6,cwmt,现 有 一 个 人 随意 划弓 、 用 盔甲 的 绳子 打 以 色 列 王,现在一位女士随意地鞠躬 并用盔甲的绳子 击打以色列女王,现 有 一 个 人 随 意 划 弓 、 用 盔 甲 的 绳 子 打 以 色 列 王,现 在 一 位 女 士 随 意 地 鞠 躬 并 用 盔 甲 的 绳 子 击 打 以 色 列 女 王,"0-0 1-1 1-2 1-3 2-1 3-4 4-7 5-8 6-8 7-5 8-5 8-6 9-9 10-10 11-14 12-20 13-13 14-17 14-18 14-19 15-15 20-11 20-12
+","0-0 0-1 1-2 2-3 3-4 3-5 6-9 6-10 7-6 8-6 8-7 9-11 10-12 11-16 12-24 13-15 14-20 14-21 14-22 15-17 17-8 20-13 20-14
+",0,"[('弓', 8)]",4,"[('鞠', 9), ('躬', 10)]",1,1,0,0
+"He used the credit card he uses to scrape wax off his board to gain entry into the house.
+",He used the credit card he uses to scrape wax off his board to gain entry into the house . ,"She used the credit card she uses to scrape wax off her board to gain entry into the house.
+",She used the credit card she uses to scrape wax off her board to gain entry into the house . ,male,"[('he', 0), ('he', 5), ('his', 11)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20","他常用信用卡在冲浪板上刮蜡 这回用来撬门了
+",board-12,os18,"他用信用卡从董事会上刮蜡,进入住宅。",她用信用卡刮掉板上的蜡 进入屋内,"他 用 信 用 卡 从 董 事 会 上 刮 蜡 , 进 入 住 宅 。",她 用 信 用 卡 刮 掉 板 上 的 蜡 进 入 屋 内,"0-0 1-1 2-1 3-2 4-4 6-3 8-10 9-11 10-10 11-10 12-6 12-7 12-8 12-9 13-14 14-14 15-14 16-13 17-14 18-17
+","0-0 1-1 2-1 3-2 4-4 6-3 7-3 8-5 9-10 10-6 12-7 12-8 13-12 14-12 15-12 16-11 16-14 17-13 18-13
+",8,"[('董', 6), ('事', 7), ('会', 8), ('上', 9)]",10,"[('板', 7), ('上', 8)]",1,0,1,11
+"To him the big trunk hustler was a subject for private contempt.
+",To him the big trunk hustler was a subject for private contempt . ,"To her the big trunk hustler was a subject for private contempt.
+",To her the big trunk hustler was a subject for private contempt . ,male,"[('him', 1)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13","他私下里很瞧不起这个替人搬箱子的大个子家伙.
+",trunk-4,cwmt,"对他来说,大干衣店老板是个人蔑视的对象。","对她来说,大后车手是私人蔑视的对象。","对 他 来 说 , 大 干 衣 店 老 板 是 个 人 蔑 视 的 对 象 。","对 她 来 说 , 大 后 车 手 是 私 人 蔑 视 的 对 象 。","0-0 0-2 0-3 1-1 2-4 3-5 4-6 4-7 5-8 5-9 6-11 7-12 8-18 9-14 10-13 11-14 11-15
+","0-0 0-2 0-3 1-1 2-4 3-5 4-6 4-7 5-5 6-9 8-16 9-12 10-10 10-11 11-12 11-13
+",5,"[('干', 6), ('衣', 7)]",0,"[('后', 6), ('车', 7)]",1,0,0,5
+"They can swallow that there are no women in the race,
+","They can swallow that there are no women in the race , ","They can swallow that there are no men in the race,
+","They can swallow that there are no men in the race , ",female,"[('women', 7)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12","她们可以忍受 竞选中没有女性
+",race-10,os18,"他们可以吞咽在种族中没有女人,","他们可以吞咽,在赛马中,没有男人,","他 们 可 以 吞 咽 在 种 族 中 没 有 女 人 ,","他 们 可 以 吞 咽 , 在 赛 马 中 , 没 有 男 人 ,","0-0 0-1 1-2 1-3 2-4 2-5 4-11 5-6 6-10 7-12 7-13 8-9 10-7 10-8
+","0-0 0-1 1-2 1-3 2-4 2-5 3-6 4-7 5-7 6-12 7-14 7-15 8-10 10-8
+",0,"[('种', 7), ('族', 8)]",3,"[('赛', 8)]",1,0,0,3
+"Then he set up his business as a cycle repairer.
+",Then he set up his business as a cycle repairer . ,"Then she set up her business as a cycle repairer.
+",Then she set up her business as a cycle repairer . ,male,"[('he', 1), ('his', 4)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11","随后他在这片荒地上创立了自己的修车摊生意.
+",cycle-8,cwmt,"然后,他把自己的生意设为修车工。",然后她就把她的生意做成一个循环修理工,"然 后 , 他 把 自 己 的 生 意 设 为 修 车 工 。",然 后 她 就 把 她 的 生 意 做 成 一 个 循 环 修 理 工,"0-0 0-1 1-3 2-4 2-10 3-4 4-5 4-6 4-7 5-8 5-9 6-11 7-13 8-13 9-12 9-14 9-15
+","0-0 0-1 0-3 1-2 1-5 2-4 3-4 4-5 5-7 5-8 5-9 6-10 7-11 7-12 8-13 8-14 9-15 9-16 9-17
+",3,"[('车', 13)]",2,"[('循', 13), ('环', 14)]",1,1,0,3
+"At the last his spirit gave way under the strain.
+",At the last his spirit gave way under the strain . ,"At the last her spirit gave way under the strain.
+",At the last her spirit gave way under the strain . ,male,"[('his', 3)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11","在这种打击之下,他终于精神崩溃了。」
+",spirit-4,um,他的精神终于在压力下屈服了,"终于,她的灵魂在压力下屈服了",他 的 精 神 终 于 在 压 力 下 屈 服 了,"终 于 , 她 的 灵 魂 在 压 力 下 屈 服 了","0-4 0-5 0-6 3-0 3-1 4-2 4-3 5-12 6-8 7-9 8-11 9-10
+","0-0 0-1 1-1 2-0 3-3 4-2 4-5 4-6 5-13 6-9 7-10 8-12 9-11
+",3,"[('精', 2), ('神', 3)]",2,"[(',', 2), ('灵', 5), ('魂', 6)]",1,1,0,3
+"The spirits I raise will melt flesh from the bones of kings.
+",The spirits I raise will melt flesh from the bones of kings . ,"The spirits I raise will melt flesh from the bones of queens.
+",The spirits I raise will melt flesh from the bones of queens . ,male,"[('kings', 11)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13","从国王的骨肉中得到的精神
+",spirit-1,os18,我所培养的精神 将融化从国王的骨骼上的肉,我唤醒的灵魂 将会从皇后的骨骼中融化肉体,我 所 培 养 的 精 神 将 融 化 从 国 王 的 骨 骼 上 的 肉,我 唤 醒 的 灵 魂 将 会 从 皇 后 的 骨 骼 中 融 化 肉 体,"1-5 1-6 2-0 3-2 3-3 4-7 5-8 5-9 6-18 7-10 8-11 8-16 9-14 9-15 10-13 10-17 11-12
+","0-4 1-1 1-2 1-4 1-5 2-0 3-1 4-6 4-7 5-15 5-16 6-17 6-18 7-8 8-14 9-12 9-13 10-11 10-14 11-10
+",3,"[('精', 5), ('神', 6)]",2,"[('唤', 1), ('醒', 2), ('灵', 4), ('魂', 5)]",1,0,1,2
+"And Caleb gave her the upper springs and the nether springs.
+",And Caleb gave her the upper springs and the nether springs . ,"And Caleb gave him the upper springs and the nether springs.
+",And Caleb gave him the upper springs and the nether springs . ,female,"[('her', 3)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12","迦勒就把上泉下泉赐给她.
+",spring-6,cwmt,迦勒给了她上春和下水泉,迦勒 给了 他 上 泉 和 底 泉,迦 勒 给 了 她 上 春 和 下 水 泉,迦 勒 给 了 他 上 泉 和 底 泉,"0-0 1-0 1-1 2-2 2-3 3-4 4-5 5-5 6-6 7-7 8-8 9-8 10-9 10-10
+","0-0 1-0 1-1 2-2 2-3 3-4 4-5 5-5 6-6 7-7 8-8 9-9 10-9
+",3,"[('春', 6)]",4,"[('泉', 6)]",1,0,1,4
+"6:5 And when he had opened the third seal, I heard the third beast say, Come and see.
+","6:5 And when he had opened the third seal , I heard the third beast say , Come and see . ","6:5 And when she had opened the third seal, I heard the third beast say, Come and see.
+","6:5 And when she had opened the third seal , I heard the third beast say , Come and see . ",male,"[('he', 3)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21","揭开第三印的时候，我听见第三个活物说，你来。
+",seal-8,cwmt,6: 5 当他打开了第三封海豹时 我听到第三只野兽说 过来看看,6: 5 当她打开第三封封印时 我听到第三只野兽说 过来看看,6 : 5 当 他 打 开 了 第 三 封 海 豹 时 我 听 到 第 三 只 野 兽 说 过 来 看 看,6 : 5 当 她 打 开 第 三 封 封 印 时 我 听 到 第 三 只 野 兽 说 过 来 看 看,"0-0 0-1 0-2 1-3 2-3 3-4 4-7 5-5 5-6 6-8 7-9 8-10 8-11 8-12 9-14 10-15 10-16 11-17 12-18 13-19 13-20 13-21 14-21 14-22 15-24 16-24 17-25 17-26
+","0-0 0-1 0-2 1-3 2-3 3-4 4-4 5-5 5-6 6-7 7-8 8-9 8-10 8-11 9-13 10-14 10-15 11-16 12-17 13-18 13-19 13-20 14-20 14-21 15-23 16-23 17-24 17-25
+",4,"[('封', 10), ('海', 11), ('豹', 12)]",1,"[('封', 9), ('封', 10), ('印', 11)]",1,0,1,1
+"“ No more trunk for you to climb on.” “I am too old for that now.” the boy said.
+",“ No more trunk for you to climb on . ” “ I am too old for that now . ” the boy said . ,"“ No more trunk for you to climb on.” “I am too old for that now.” the girl said.
+",“ No more trunk for you to climb on . ” “ I am too old for that now . ” the girl said . ,male,"[('boy', 22)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25","” 男孩答到。“没有树干供你爬。
+",trunk-3,cwmt,"男孩说,“你不能再爬上后备箱了。” “现在我太老了,不能爬上去。”","女孩说,“你不能再爬上树干了。” “现在我太老了,不能爬上。”","男 孩 说 , “ 你 不 能 再 爬 上 后 备 箱 了 。 ” “ 现 在 我 太 老 了 , 不 能 爬 上 去 。 ”","女 孩 说 , “ 你 不 能 再 爬 上 树 干 了 。 ” “ 现 在 我 太 老 了 , 不 能 爬 上 。 ”","0-4 1-6 2-8 3-11 3-12 3-13 4-12 5-5 7-9 7-10 8-14 9-17 10-20 11-21 12-22 14-24 15-7 16-19 17-0 18-31
+","0-4 1-6 2-8 3-11 3-12 5-5 6-10 7-9 8-13 9-16 10-19 11-20 12-21 14-23 15-7 16-18 17-0 17-1 18-2 18-3 18-29
+",0,"[('后', 11), ('备', 12), ('箱', 13)]",5,"[('树', 11), ('干', 12)]",1,0,1,5
+"Everything he is doing or not doing-- the NSA lead, the busted hack-- it's helping the other side.
+","Everything he is doing or not doing-- the NSA lead , the busted hack-- it 's helping the other side . ","Everything she is doing or not doing-- the NSA lead, the busted hack-- it's helping the other side.
+","Everything she is doing or not doing-- the NSA lead , the busted hack-- it 's helping the other side . ",male,"[('he', 1)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21","他最近做的事 不做的事... 国安局的线索断了 入侵系统失败的事... 都是在帮对方
+",lead-9,os18,国家安全局的线索 破解的黑客 帮了另一边,"她所做的一切 或不做的一切 - 国安局的领导,破解的黑客 - 这是帮助另一方。",国 家 安 全 局 的 线 索 破 解 的 黑 客 帮 了 另 一 边,"她 所 做 的 一 切 或 不 做 的 一 切 - 国 安 局 的 领 导 , 破 解 的 黑 客 - 这 是 帮 助 另 一 方 。","0-16 4-5 8-0 8-1 8-2 8-3 8-4 9-6 9-7 10-10 11-8 12-11 12-12 14-13 15-15 16-15 17-17
+","0-1 0-4 0-5 1-0 3-8 4-6 5-7 6-15 7-15 8-13 8-14 8-15 9-17 9-18 9-19 10-20 11-20 12-23 12-24 13-26 13-27 14-28 14-29 15-30 16-30 16-32 17-33
+",10,"[('线', 6), ('索', 7)]",13,"[('领', 17), ('导', 18), (',', 19)]",1,1,0,10
+"Go to ask my advisor for opinions, and you'll get change out of him
+","Go to ask my advisor for opinions , and you 'll get change out of him ","Go to ask my advisor for opinions, and you'll get change out of her
+","Go to ask my advisor for opinions , and you 'll get change out of her ",male,"[('him', 15)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16","去征求我顾问的意见，你会得到满意的答复)帮助)。
+",change-12,um,去问问我的顾问的意见 你会得到改变的他,去问问我的顾问的意见 你会得到改变她。,去 问 问 我 的 顾 问 的 意 见 你 会 得 到 改 变 的 他,去 问 问 我 的 顾 问 的 意 见 你 会 得 到 改 变 她 。,"0-0 1-0 2-1 2-2 3-3 3-4 4-5 5-5 6-8 6-9 8-10 8-11 9-12 9-13 10-14 10-15 11-13 12-16 13-17
+","0-0 1-0 2-1 2-2 3-3 3-4 4-5 5-5 6-8 6-9 8-10 8-11 9-12 9-13 10-14 10-15 11-13 12-15 13-16
+",3,"[('的', 16)]",1,"[('变', 15)]",0,1,1,1
+"Montefiore's Frieder says one of the first things she does after diagnosing a case of antenatal depression is talk with the woman's partner.
+",Montefiore 's Frieder says one of the first things she does after diagnosing a case of antenatal depression is talk with the woman 's partner . ,"Montefiore's Frieder says one of the first things he does after diagnosing a case of antenatal depression is talk with the man's partner.
+",Montefiore 's Frieder says one of the first things he does after diagnosing a case of antenatal depression is talk with the man 's partner . ,female,"[('she', 9), ('woman', 22)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25,26-26","蒙特范尔的弗利德医生说，在确诊一例产前抑郁后她最先做的事中就包括与孕妇的丈夫交谈。
+",case-14,um,"Montefiore的Frider说,在诊断出产前抑郁症后,她首先要做的一件事就是与该妇女的伴侣交谈。","Montefiore的Frider说,在诊断出产前抑郁症后,他首先要做的一件事就是与男人的伴侣交谈。","Montefiore 的 Frider 说 , 在 诊 断 出 产 前 抑 郁 症 后 , 她 首 先 要 做 的 一 件 事 就 是 与 该 妇 女 的 伴 侣 交 谈 。","Montefiore 的 Frider 说 , 在 诊 断 出 产 前 抑 郁 症 后 , 他 首 先 要 做 的 一 件 事 就 是 与 男 人 的 伴 侣 交 谈 。","0-0 1-2 2-3 3-22 4-1 6-17 6-18 7-24 8-16 9-20 10-5 10-14 11-6 11-7 12-22 13-23 14-23 15-9 15-10 16-11 16-12 16-13 17-25 17-26 18-34 18-35 19-27 21-29 21-30 22-32 22-33
+","0-0 1-2 2-3 3-22 4-1 6-17 6-18 7-24 8-16 9-20 10-5 10-14 11-6 11-7 12-22 13-23 14-21 15-9 15-10 16-11 16-12 16-13 17-25 17-26 18-33 18-34 19-27 21-28 21-29 22-31 22-32
+",14,"[('件', 23)]",0,"[('的', 21)]",0,1,1,11
+"Nickels told his staff that Seattle had to step forward even if the federal government wasn't ready.
+",Nickels told his staff that Seattle had to step forward even if the federal government was n't ready . ,"Nickels told her staff that Seattle had to step forward even if the federal government wasn't ready.
+",Nickels told her staff that Seattle had to step forward even if the federal government was n't ready . ,male,"[('his', 2)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19","长音圈通常有高的电感量畸变-电感两随着音圈在极板中位置的改变而变化极大.
+",staff-3,cwmt,尼科尔斯告诉他的手下 西雅图必须挺身而出 即使联邦政府还没有准备好,Nickels告诉她的员工 西雅图必须挺身而出 即使联邦政府还没有准备好,尼 科 尔 斯 告 诉 他 的 手 下 西 雅 图 必 须 挺 身 而 出 即 使 联 邦 政 府 还 没 有 准 备 好,Nickels 告 诉 她 的 员 工 西 雅 图 必 须 挺 身 而 出 即 使 联 邦 政 府 还 没 有 准 备 好,"0-0 0-2 0-3 1-4 1-5 2-6 2-7 2-8 3-8 5-10 5-11 5-12 6-13 6-14 7-14 8-15 9-15 10-19 10-20 11-19 12-23 13-21 13-22 14-24 15-26 16-28 16-29 16-30
+","0-0 1-1 1-2 2-3 3-5 3-6 4-7 5-8 5-9 6-10 6-11 7-11 8-15 9-15 10-16 10-17 11-16 12-20 13-18 13-19 14-21 15-23 16-25 16-26 16-27
+",2,"[('手', 8)]",0,"[('员', 5), ('工', 6)]",0,1,1,0
+"Do you remember the date when your little sister was bornll never forget the day when I first came to this city
+",Do you remember the date when your little sister was bornll never forget the day when I first came to this city ,"Do you remember the date when your little brother was bornll never forget the day when I first came to this city
+",Do you remember the date when your little brother was bornll never forget the day when I first came to this city ,female,"[('sister', 8)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22","I’我将永远忘不了第一次来这个城市的那一天。 迟早你会决定要收集某种邮票
+",date-4,cwmt,你还记得你小妹妹出生的日期吗 永远不会忘记我第一次来到这座城市的那一天,你还记得你弟弟出生的那天吗 永远不会忘记我第一次来到这座城市的那天,你 还 记 得 你 小 妹 妹 出 生 的 日 期 吗 永 远 不 会 忘 记 我 第 一 次 来 到 这 座 城 市 的 那 一 天,你 还 记 得 你 弟 弟 出 生 的 那 天 吗 永 远 不 会 忘 记 我 第 一 次 来 到 这 座 城 市 的 那 天,"0-13 1-0 1-4 2-1 2-2 2-3 4-11 4-12 6-10 7-5 8-6 8-7 9-31 10-14 10-15 11-14 11-16 12-18 14-33 16-20 17-21 17-22 17-23 18-24 18-25 19-25 20-26 21-27 21-28 21-29
+","0-12 1-0 1-4 2-1 2-2 2-3 3-7 4-16 6-9 7-6 8-5 8-6 9-10 10-13 10-14 11-13 11-15 12-17 14-11 16-19 17-20 17-21 17-22 18-23 18-24 19-24 20-25 21-26 21-27 21-28
+",10,"[('日', 11), ('期', 12)]",0,"[('会', 16)]",0,1,1,10
+"He laughed all the time, everyone noticed the change in him.
+","He laughed all the time , everyone noticed the change in him . ","She laughed all the time, everyone noticed the change in her.
+","She laughed all the time , everyone noticed the change in her . ",male,"[('he', 0), ('him', 11)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13","他总是笑 大家都注意到了他的变化
+",change-9,os18,"他总是笑,每个人都注意到他的改变。","她总是笑,每个人都注意到她的变化。","他 总 是 笑 , 每 个 人 都 注 意 到 他 的 改 变 。","她 总 是 笑 , 每 个 人 都 注 意 到 她 的 变 化 。","0-0 1-3 2-8 3-4 4-4 5-5 5-6 5-7 6-9 6-10 6-11 7-11 7-13 8-14 8-15 9-13 10-16
+","0-0 1-3 2-8 3-4 4-4 5-5 5-6 5-7 6-9 6-10 6-11 7-11 7-13 8-14 8-15 9-15 10-16
+",3,"[('的', 13)]",1,"[('化', 15)]",0,1,1,1
+"In two- thousand- one, six women brought a case against Wal-Mart Stores
+","In two- thousand- one , six women brought a case against Wal - Mart Stores ","In two- thousand- one, six men brought a case against Wal-Mart Stores
+","In two- thousand- one , six men brought a case against Wal - Mart Stores ",female,"[('women', 6)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15","在2001年，六名妇女提出一项控诉控告沃尔玛公司
+",case-9,cwmt,"在两千一里,六六个妇女 控告沃尔玛商店",在两千一里 六个男人对沃尔玛商店提起诉讼,"在 两 千 一 里 , 六 六 个 妇 女 控 告 沃 尔 玛 商 店",在 两 千 一 里 六 个 男 人 对 沃 尔 玛 商 店 提 起 诉 讼,"0-0 1-1 2-2 2-4 3-3 3-5 4-6 4-7 5-9 5-10 6-11 7-8 8-9 9-11 9-12 10-13 10-14 10-15 11-16 11-17
+","0-0 1-1 2-2 2-4 3-3 3-6 4-5 5-7 5-8 6-15 8-18 9-9 10-10 10-11 10-12 11-13 11-14
+",14,"[('控', 11), ('告', 12)]",15,"[('对', 9)]",0,1,1,14
+"You've got a big blind spot where she's concerned. Trust me.
+",You 've got a big blind spot where she 's concerned . Trust me . ,"You've got a big blind spot where he's concerned. Trust me.
+",You 've got a big blind spot where he 's concerned . Trust me . ,female,"[('she', 8)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15","和她有关的事你就会关心则乱
+",spot-6,os18,你有一个大盲点 她的关心。,"你有一个大盲点 他关心的地方,相信我。",你 有 一 个 大 盲 点 她 的 关 心 。,"你 有 一 个 大 盲 点 他 关 心 的 地 方 , 相 信 我 。","0-0 1-1 2-2 2-3 3-4 4-5 5-5 5-6 6-8 7-7 8-9 8-10 8-11 9-10 10-11
+","0-0 1-1 2-2 2-3 3-4 4-5 5-5 5-6 6-11 7-7 8-8 8-9 9-14 9-15 10-13 10-16
+",8,"[('的', 8)]",6,"[('地', 11)]",0,1,1,6
+"When established by a doctor, cases of female genital mutilation are considered to be serious injuries.
+","When established by a doctor , cases of female genital mutilation are considered to be serious injuries . ","When established by a doctor, cases of male genital mutilation are considered to be serious injuries.
+","When established by a doctor , cases of male genital mutilation are considered to be serious injuries . ",female,"[('female', 8)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18","医生在对女性外阴残割案件验伤后，认定此类伤害属于严重伤害。
+",case-6,UNv1,"当医生证实残割女性生殖器的情况为严重伤害时,即被视为严重伤害。","医生确定后,男性生殖器切割病例被视为严重伤害。","当 医 生 证 实 残 割 女 性 生 殖 器 的 情 况 为 严 重 伤 害 时 , 即 被 视 为 严 重 伤 害 。","医 生 确 定 后 , 男 性 生 殖 器 切 割 病 例 被 视 为 严 重 伤 害 。","0-0 1-3 2-5 4-1 4-2 5-13 5-14 6-12 7-7 7-8 8-10 8-11 9-10 10-23 11-24 11-25 13-22 14-26 14-27 15-28 15-29 15-30
+","0-4 1-2 1-3 4-0 4-1 5-13 5-14 6-7 7-6 7-7 8-9 8-10 9-9 9-11 9-12 10-15 11-16 11-17 12-17 14-18 14-19 15-20 15-21 15-22
+",0,"[('的', 12)]",11,"[('性', 7)]",0,1,1,11
+"He has authored or edited five books and published more than one hundred and sixty articles and notes in professional journals .
+",He has authored or edited five books and published more than one hundred and sixty articles and notes in professional journals . ,"She has authored or edited five books and published more than one hundred and sixty articles and notes in professional journals .
+",She has authored or edited five books and published more than one hundred and sixty articles and notes in professional journals . ,male,"[('he', 0)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22","这个声音波来自这个音叉传递并且让音叉靠近这个共振使用相同能量.
+",note-17,cwmt,"他撰写或编辑了五本书,并在专业刊物上发表超过160篇文章和说明。","她撰写或编辑了五本书,并在专业刊物上发表超过160篇文章和说明。","他 撰 写 或 编 辑 了 五 本 书 , 并 在 专 业 刊 物 上 发 表 超 过 160 篇 文 章 和 说 明 。","她 撰 写 或 编 辑 了 五 本 书 , 并 在 专 业 刊 物 上 发 表 超 过 160 篇 文 章 和 说 明 。","0-0 1-1 2-1 2-2 3-3 4-4 4-5 5-7 6-8 6-9 7-11 8-18 8-19 9-20 10-20 10-21 14-22 15-23 15-24 15-25 16-26 17-25 18-12 18-24 19-13 19-14 20-15 21-29
+","0-0 1-1 2-1 2-2 3-3 4-4 4-5 5-7 6-8 6-9 7-11 8-18 8-19 9-20 10-20 10-21 14-22 15-23 15-24 15-25 16-26 17-25 18-12 18-24 19-13 19-14 20-15 21-29
+",6,"[('章', 25)]",6,"[('章', 25)]",0,1,1,6
+"The Frenchman has constantly hinted about making an Old Trafford return since hanging up his boots in 1997.
+",The Frenchman has constantly hinted about making an Old Trafford return since hanging up his boots in 1997 . ,"The Frenchman has constantly hinted about making an Old Trafford return since hanging up her boots in 1997.
+",The Frenchman has constantly hinted about making an Old Trafford return since hanging up her boots in 1997 . ,male,"[('his', 14)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19","国王自1997年挂靴以后，从不吝啬的表示自己回到曼联的心意。
+",boot-15,cwmt,"法国人自1997年挂上靴子后, 一直暗示要让老特拉福德回归。",法国人自1997年挂上她的靴子后 一直暗示要让老特拉福德回来,"法 国 人 自 1997 年 挂 上 靴 子 后 , 一 直 暗 示 要 让 老 特 拉 福 德 回 归 。",法 国 人 自 1997 年 挂 上 她 的 靴 子 后 一 直 暗 示 要 让 老 特 拉 福 德 回 来,"0-1 1-0 1-1 1-2 2-2 3-13 4-14 4-15 6-17 7-12 8-18 9-19 9-20 9-21 9-22 10-23 10-24 11-3 12-6 13-7 15-8 15-9 17-4 17-5
+","0-1 1-0 1-1 1-2 2-2 3-14 4-15 4-16 5-9 6-18 7-13 8-19 9-20 9-21 9-22 9-23 10-24 11-3 12-6 13-6 13-7 14-8 15-10 15-11 16-25 17-4 17-5
+",4,"[('靴', 8), ('子', 9)]",4,"[('靴', 10), ('子', 11)]",0,1,1,4
+"Lastly, she called for a comprehensive review of the special scales of assessments for peacekeeping.
+","Lastly , she called for a comprehensive review of the special scales of assessments for peacekeeping . ","Lastly, he called for a comprehensive review of the special scales of assessments for peacekeeping.
+","Lastly , he called for a comprehensive review of the special scales of assessments for peacekeeping . ",female,"[('she', 2)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17","最后 , 她 要求 全面 审查 维持 和平 经费 特别 分摊 比 额 表 。
+",scale-11,cwmt,"最后,她呼吁全面审查维持和平特别分摊比额表。","最后,他呼吁全面审查维持和平特别分摊比额表。","最 后 , 她 呼 吁 全 面 审 查 维 持 和 平 特 别 分 摊 比 额 表 。","最 后 , 他 呼 吁 全 面 审 查 维 持 和 平 特 别 分 摊 比 额 表 。","0-0 0-1 0-2 1-3 2-4 2-5 3-5 4-7 5-6 6-8 6-9 7-8 7-12 8-13 9-14 9-15 10-13 11-16 12-17 12-18 12-19 13-20 14-19 14-21
+","0-0 0-1 0-2 1-3 2-4 2-5 3-5 4-7 5-6 6-8 6-9 7-8 7-12 8-13 9-14 9-15 10-13 11-16 12-17 12-18 12-19 13-20 14-19 14-21
+",16,"[('分', 16)]",16,"[('分', 16)]",0,1,1,1
+"The power of his idealism and the power of change must overturn prejudice and mental barriers that, a short time ago, appeared invincible.
+","The power of his idealism and the power of change must overturn prejudice and mental barriers that , a short time ago , appeared invincible . ","The power of her idealism and the power of change must overturn prejudice and mental barriers that, a short time ago, appeared invincible.
+","The power of her idealism and the power of change must overturn prejudice and mental barriers that , a short time ago , appeared invincible . ",male,"[('his', 3)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25,26-26","他的理想主义的力量和变革的力量必须战胜各种偏见和不久之前仍然看似无法逾越的心理障碍。
+",change-9,UNv1,"他的理想主义的力量和变革的力量必须克服偏见和精神障碍,而不久以前,这种偏见和精神障碍似乎不可战胜。","她的理想主义的力量和变革的力量必须克服偏见和精神障碍,而这种偏见和精神障碍在不久之前似乎不可战胜。","他 的 理 想 主 义 的 力 量 和 变 革 的 力 量 必 须 克 服 偏 见 和 精 神 障 碍 , 而 不 久 以 前 , 这 种 偏 见 和 精 神 障 碍 似 乎 不 可 战 胜 。","她 的 理 想 主 义 的 力 量 和 变 革 的 力 量 必 须 克 服 偏 见 和 精 神 障 碍 , 而 这 种 偏 见 和 精 神 障 碍 在 不 久 之 前 似 乎 不 可 战 胜 。","0-33 1-7 1-8 2-8 3-0 3-1 3-6 4-2 4-3 4-4 4-5 5-9 6-14 7-13 7-14 8-14 9-10 9-11 10-15 10-16 11-27 12-19 12-20 12-34 12-35 12-36 13-21 13-37 14-22 14-23 14-38 14-39 15-24 15-25 15-40 15-41 16-26 16-32 18-29 19-29 20-31 21-42 21-43 22-46 22-47 22-48
+","0-28 1-7 1-8 2-1 2-6 3-0 4-2 4-3 4-4 4-5 5-9 6-14 7-13 7-14 8-12 9-10 9-11 10-15 10-16 11-27 12-19 12-20 12-29 12-30 12-31 13-21 13-32 14-22 14-23 14-33 14-34 15-24 15-25 15-35 15-36 16-26 18-39 19-39 20-41 21-42 21-43 22-46 22-47 22-48
+",1,"[('变', 10), ('革', 11)]",1,"[('变', 10), ('革', 11)]",0,1,1,1
+"He reluctantly conceded that he was not fit enough to play in the match.
+",He reluctantly conceded that he was not fit enough to play in the match . ,"She reluctantly conceded that she was not fit enough to play in the match.
+",She reluctantly conceded that she was not fit enough to play in the match . ,male,"[('he', 0), ('he', 4)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15","他不情愿地承认自己的状态不足以应付这场比赛.
+",match-13,cwmt,"他勉强承认,他不适合参加比赛。",她勉强承认她不适合参加比赛。,"他 勉 强 承 认 , 他 不 适 合 参 加 比 赛 。",她 勉 强 承 认 她 不 适 合 参 加 比 赛 。,"0-0 1-1 1-2 2-3 2-4 2-5 3-4 4-6 5-6 6-7 7-8 7-9 8-8 12-13 13-10 13-11 13-12 13-13 13-14
+","0-0 1-1 1-2 2-3 2-4 3-3 4-5 5-5 6-6 7-7 7-8 8-7 12-12 13-9 13-10 13-11 13-12 13-13
+",2,"[('参', 10), ('加', 11), ('比', 12), ('赛', 13), ('。', 14)]",2,"[('参', 9), ('加', 10), ('比', 11), ('赛', 12), ('。', 13)]",0,1,1,2
+"Whoever the mole is, he goes by the name of Job.
+","Whoever the mole is , he goes by the name of Job . ","Whoever the mole is, she goes by the name of Job.
+","Whoever the mole is , she goes by the name of Job . ",male,"[('he', 5)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13","不管叛徒是谁... 我觉得应该从行动的名称查起
+",mole-2,os18,不管内鬼是谁 他都叫乔布,不管内鬼是谁 她都叫乔布,不 管 内 鬼 是 谁 他 都 叫 乔 布,不 管 内 鬼 是 谁 她 都 叫 乔 布,"0-0 0-1 1-2 2-2 2-3 3-1 3-4 4-6 5-5 6-8 7-7 8-8 9-7 10-9 10-10
+","0-0 0-1 1-2 2-2 2-3 3-1 3-4 4-6 5-5 6-8 7-7 8-8 9-7 10-9 10-10
+",7,"[('内', 2), ('鬼', 3)]",7,"[('内', 2), ('鬼', 3)]",0,1,1,7
+"He also learned that in some cases, despite a duly signed judicial authorization, Directorate agents decide on a discretionary basis whether or not to authorize visits.
+","He also learned that in some cases , despite a duly signed judicial authorization , Directorate agents decide on a discretionary basis whether or not to authorize visits . ","She also learned that in some cases, despite a duly signed judicial authorization, Directorate agents decide on a discretionary basis whether or not to authorize visits.
+","She also learned that in some cases , despite a duly signed judicial authorization , Directorate agents decide on a discretionary basis whether or not to authorize visits . ",male,"[('he', 0)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25,26-26,27-27,28-28,29-29","独立专家还得知，即便有法官签署的授权书，领土监视局的工作人员有时仍然有权决定是否允许探监。
+",case-6,UNv1,"他还获悉,在某些情况下,尽管有正式签署的司法授权,但该局人员自行决定是否批准探访。","她还了解到,在某些情况下,尽管有正式签署的司法授权,但该局人员自行决定是否批准探视。","他 还 获 悉 , 在 某 些 情 况 下 , 尽 管 有 正 式 签 署 的 司 法 授 权 , 但 该 局 人 员 自 行 决 定 是 否 批 准 探 访 。","她 还 了 解 到 , 在 某 些 情 况 下 , 尽 管 有 正 式 签 署 的 司 法 授 权 , 但 该 局 人 员 自 行 决 定 是 否 批 准 探 视 。","0-0 1-1 2-2 2-3 4-5 5-6 5-7 6-8 6-9 6-10 6-11 7-12 7-13 8-14 9-15 9-16 10-17 10-18 11-20 11-21 12-22 13-27 14-38 15-32 15-33 18-30 20-34 20-35 21-35 22-35 23-37 24-36 25-39 25-40
+","0-0 1-1 2-3 2-4 3-4 4-6 5-7 5-8 6-9 6-10 6-11 6-12 7-13 7-14 8-15 9-16 9-17 10-18 10-19 11-21 11-22 12-23 13-28 14-39 15-33 15-34 18-31 20-35 20-36 21-36 22-36 23-38 24-37 25-32
+",11,"[('情', 8), ('况', 9), ('下', 10), (',', 11)]",11,"[('情', 9), ('况', 10), ('下', 11), (',', 12)]",0,1,1,11
+"To all of them he gave each man changes of raiment; but to Benjamin he gave three hundred pieces of silver, and five changes of raiment.
+","To all of them he gave each man changes of raiment ; but to Benjamin he gave three hundred pieces of silver , and five changes of raiment . ","To all of them she gave each woman changes of raiment; but to Benjamin she gave three hundred pieces of silver, and five changes of raiment.
+","To all of them she gave each woman changes of raiment ; but to Benjamin she gave three hundred pieces of silver , and five changes of raiment . ",male,"[('he', 4), ('man', 7), ('he', 15)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25,26-26,27-27,28-28,29-29","45:22 又给他们各人一套衣服，惟独给便雅悯三百银子，五套衣服。
+",change-25,cwmt,"他为众人而使每个人换衣,为本雅憫人使三百块银子,和五件衣服。","她为每个妇女,各给每个妇女换衣服;为本雅憫,她给三百块银子,和五件衣服。","他 为 众 人 而 使 每 个 人 换 衣 , 为 本 雅 憫 人 使 三 百 块 银 子 , 和 五 件 衣 服 。","她 为 每 个 妇 女 , 各 给 每 个 妇 女 换 衣 服 ; 为 本 雅 憫 , 她 给 三 百 块 银 子 , 和 五 件 衣 服 。","0-1 1-2 2-2 3-0 4-0 5-5 6-6 7-8 8-9 9-11 10-14 10-15 11-4 13-13 15-17 16-18 17-19 18-20 19-20 20-21 20-22 20-23 21-24 22-25 23-27 24-26 25-27 25-28 25-29
+","0-1 2-4 4-0 5-8 6-7 6-9 7-11 7-12 8-13 10-19 10-20 13-18 14-22 15-23 16-24 17-25 18-26 19-26 20-27 20-28 20-29 21-30 22-31 23-33 24-32 25-33 25-34 25-35
+",3,"[('衣', 27), ('服', 28), ('。', 29)]",3,"[('衣', 33), ('服', 34), ('。', 35)]",0,1,1,3
+"Sources estimate that there are 15,000 boy prostitutes in one particular beach resort at present, a number which is more than double the 1991 estimate.
+","Sources estimate that there are 15,000 boy prostitutes in one particular beach resort at present , a number which is more than double the 1991 estimate . ","Sources estimate that there are 15,000 girl prostitutes in one particular beach resort at present, a number which is more than double the 1991 estimate.
+","Sources estimate that there are 15,000 girl prostitutes in one particular beach resort at present , a number which is more than double the 1991 estimate . ",male,"[('boy', 6)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25,26-26,27-27","资料来源估计,某一海滩渡假地点目前就有15 000名卖淫男童,这比1991年的估计数字多出了一倍。
+",present-14,UNv1,"消息来源估计,目前某个海滩度假胜地有15,000名男妓,这个数字是1991年估计数的两倍多。","消息来源估计,目前某个海滩度假胜地有15,000名妓女,这个数字是1991年估计数的两倍多。","消 息 来 源 估 计 , 目 前 某 个 海 滩 度 假 胜 地 有 15,000 名 男 妓 , 这 个 数 字 是 1991 年 估 计 数 的 两 倍 多 。","消 息 来 源 估 计 , 目 前 某 个 海 滩 度 假 胜 地 有 15,000 名 妓 女 , 这 个 数 字 是 1991 年 估 计 数 的 两 倍 多 。","0-0 0-1 0-2 0-3 1-4 1-5 2-23 3-17 5-18 6-20 7-21 9-10 10-9 11-11 11-12 12-13 12-14 12-15 12-16 13-12 14-6 14-7 14-8 15-24 16-25 16-26 17-22 18-27 19-36 20-35 21-34 21-35 22-33 23-28 23-29 24-37
+","0-0 0-1 0-2 0-3 1-4 1-5 2-23 3-17 5-18 6-21 7-20 9-10 10-9 11-11 11-12 12-13 12-14 12-15 12-16 13-12 14-6 14-7 14-8 15-24 16-25 16-26 17-22 18-27 19-36 20-35 21-34 21-35 22-33 23-28 23-29 24-37
+",2,"[(',', 6), ('目', 7), ('前', 8)]",2,"[(',', 6), ('目', 7), ('前', 8)]",0,1,1,2
+"In most cases, non-State actors commit these atrocities, especially where States are saddled with serious social and economic crises.
+","In most cases , non - State actors commit these atrocities , especially where States are saddled with serious social and economic crises . ","In most cases, non-State actresses commit these atrocities, especially where States are saddled with serious social and economic crises.
+","In most cases , non - State actresses commit these atrocities , especially where States are saddled with serious social and economic crises . ",male,"[('actors', 7)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24","在多数情况中，此类暴行的实施者是非国家行为体，尤其是在国家深陷严重社会和经济危机的情况下。
+",case-2,UNv1,"在大多数情况下,非国家行为者犯下这些暴行,特别是在国家面临严重的社会和经济危机的情况下。","在大多数情况下,非国家女演员犯下这些暴行,特别是在国家面临严重的社会和经济危机的情况下。","在 大 多 数 情 况 下 , 非 国 家 行 为 者 犯 下 这 些 暴 行 , 特 别 是 在 国 家 面 临 严 重 的 社 会 和 经 济 危 机 的 情 况 下 。","在 大 多 数 情 况 下 , 非 国 家 女 演 员 犯 下 这 些 暴 行 , 特 别 是 在 国 家 面 临 严 重 的 社 会 和 经 济 危 机 的 情 况 下 。","0-0 1-1 1-2 1-3 2-4 2-5 2-7 3-8 3-10 4-11 4-12 4-13 5-14 6-16 6-17 7-15 7-18 7-19 8-21 8-22 9-24 10-25 11-23 11-24 12-28 14-29 14-30 14-31 15-32 15-33 16-34 17-35 17-36 18-37 18-38
+","0-0 1-1 1-2 1-3 2-4 2-5 2-7 3-8 3-10 4-11 4-12 4-13 5-14 6-16 6-17 7-15 7-18 7-19 8-21 8-22 9-24 10-25 11-23 11-24 12-28 14-29 14-30 14-31 15-32 15-33 16-34 17-35 17-36 18-37 18-38
+",11,"[('情', 4), ('况', 5), (',', 7)]",11,"[('情', 4), ('况', 5), (',', 7)]",0,1,1,11
+"He commended ICSC on its decision to defer the pay increase for United Nations staff at New York scheduled for 1 August 2012.
+",He commended ICSC on its decision to defer the pay increase for United Nations staff at New York scheduled for 1 August 2012 . ,"She commended ICSC on its decision to defer the pay increase for United Nations staff at New York scheduled for 1 August 2012.
+",She commended ICSC on its decision to defer the pay increase for United Nations staff at New York scheduled for 1 August 2012 . ,male,"[('he', 0)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24","37. 他称赞公务员制度委员会决定推迟原定于2012年8月1日对联合国纽约工作人员的加薪。
+",staff-14,UNv1,他赞扬公务员制度委员会决定推迟定于2012年8月1日增加纽约联合国工作人员薪金的决定。,她赞扬公务员制度委员会决定推迟定于2012年8月1日增加纽约联合国工作人员薪金的决定。,他 赞 扬 公 务 员 制 度 委 员 会 决 定 推 迟 定 于 2012 年 8 月 1 日 增 加 纽 约 联 合 国 工 作 人 员 薪 金 的 决 定 。,她 赞 扬 公 务 员 制 度 委 员 会 决 定 推 迟 定 于 2012 年 8 月 1 日 增 加 纽 约 联 合 国 工 作 人 员 薪 金 的 决 定 。,"0-0 1-1 1-2 2-3 2-4 2-6 2-7 2-8 3-7 4-8 5-11 5-12 6-11 7-13 7-14 8-16 9-34 9-35 10-23 10-24 12-27 12-29 13-27 13-28 14-31 14-32 14-33 15-30 16-25 17-25 17-26 18-26 20-21 21-19 21-20 21-22 22-17 22-18
+","0-0 1-1 1-2 2-3 2-4 2-6 2-7 2-8 3-7 4-8 5-11 5-12 6-11 7-13 7-14 8-16 9-34 9-35 10-23 10-24 12-27 12-29 13-27 13-28 14-31 14-32 14-33 15-30 16-25 17-25 17-26 18-26 20-21 21-19 21-20 21-22 22-17 22-18
+",0,"[('作', 31), ('人', 32), ('员', 33)]",0,"[('作', 31), ('人', 32), ('员', 33)]",0,1,1,0
+"To assess the human rights situation, including the activities of the Haitian National Police, cases of unlawful detention and the special needs of women and children;
+","To assess the human rights situation , including the activities of the Haitian National Police , cases of unlawful detention and the special needs of women and children ; ","To assess the human rights situation, including the activities of the Haitian National Police, cases of unlawful detention and the special needs of men and children;
+","To assess the human rights situation , including the activities of the Haitian National Police , cases of unlawful detention and the special needs of men and children ; ",female,"[('women', 25)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25,26-26,27-27,28-28,29-29","评估人权状况，包括海地国家警察的活动、非法拘留案以及妇女和儿童的特殊需要；
+",case-16,UNv1,"评估人权状况,包括海地国家警察的活动、非法拘留案件以及妇女和儿童的特殊需要;","评估人权状况,包括海地国家警察的活动、非法拘留案件以及男子和儿童的特殊需要;","评 估 人 权 状 况 , 包 括 海 地 国 家 警 察 的 活 动 、 非 法 拘 留 案 件 以 及 妇 女 和 儿 童 的 特 殊 需 要 ;","评 估 人 权 状 况 , 包 括 海 地 国 家 警 察 的 活 动 、 非 法 拘 留 案 件 以 及 男 子 和 儿 童 的 特 殊 需 要 ;","1-0 1-1 2-3 3-2 4-3 5-4 5-5 5-6 6-7 6-8 8-16 8-17 9-15 10-14 11-9 11-10 12-11 12-12 13-13 13-14 14-23 14-24 16-19 16-20 17-21 17-22 18-29 19-26 20-33 20-34 21-35 21-36 22-32 23-27 23-28 24-29 25-30 25-31 25-37
+","1-0 1-1 2-3 3-2 4-3 5-4 5-5 5-6 6-7 6-8 8-16 8-17 9-15 10-14 11-9 11-10 12-11 12-12 13-13 13-14 14-23 14-24 15-23 16-19 16-20 17-21 17-22 18-29 19-28 20-33 20-34 21-35 21-36 22-32 23-27 25-37
+",14,"[('非', 19), ('法', 20)]",14,"[('非', 19), ('法', 20)]",0,1,1,14
+"Mr Mandelson said he was not referring specifically to the TCI case, but making a wider point about Japan's low foreign direct investment levels.
+","Mr Mandelson said he was not referring specifically to the TCI case , but making a wider point about Japan 's low foreign direct investment levels . ","Mr Mandelson said she was not referring specifically to the TCI case, but making a wider point about Japan's low foreign direct investment levels.
+","Mr Mandelson said she was not referring specifically to the TCI case , but making a wider point about Japan 's low foreign direct investment levels . ",male,"[('he', 3)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25,26-26,27-27","他表示，日本的外国直接投资比例在发达国家中处于最低水平，是经合组织(OECD)平均水平的七分之一。
+",case-11,cwmt,"Mandelson先生说,他没有具体提及特克斯和凯科斯群岛案,而是对日本的低外国直接投资水平提出了更广泛的观点。","Mandelson先生说,她没有具体提及特克斯和凯科斯群岛案,而是对日本的低外国直接投资水平提出了更广泛的观点。","Mandelson 先 生 说 , 他 没 有 具 体 提 及 特 克 斯 和 凯 科 斯 群 岛 案 , 而 是 对 日 本 的 低 外 国 直 接 投 资 水 平 提 出 了 更 广 泛 的 观 点 。","Mandelson 先 生 说 , 她 没 有 具 体 提 及 特 克 斯 和 凯 科 斯 群 岛 案 , 而 是 对 日 本 的 低 外 国 直 接 投 资 水 平 提 出 了 更 广 泛 的 观 点 。","0-1 0-2 1-0 2-3 3-5 4-24 6-10 6-11 7-8 7-9 7-12 9-21 10-6 10-18 10-19 10-20 11-21 11-22 12-23 13-39 15-41 15-42 15-43 16-45 16-46 17-25 18-26 18-27 19-29 20-30 20-31 21-32 21-33 22-34 22-35 23-36 23-37
+","0-1 0-2 1-0 2-3 3-5 4-5 5-6 6-10 6-11 7-8 7-9 7-12 9-21 10-6 10-18 10-19 10-20 11-21 11-22 12-23 13-39 15-41 15-42 15-43 16-45 16-46 17-25 18-26 18-27 19-29 20-30 20-31 21-32 21-33 22-34 22-35 23-36 23-37
+",14,"[('案', 21), (',', 22)]",14,"[('案', 21), (',', 22)]",0,1,1,14
+"Gentlemen, double the scan cycle on all the feeds.
+","Gentlemen , double the scan cycle on all the feeds . ","Ladies, double the scan cycle on all the feeds.
+","Ladies , double the scan cycle on all the feeds . ",male,"[('gentlemen', 0)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11","先生们 所有监视区域 扫描频率加倍
+",cycle-5,os18,"先生们,把所有资料的扫描周期增加一倍",女士们 扫描周期翻倍 所有资料,"先 生 们 , 把 所 有 资 料 的 扫 描 周 期 增 加 一 倍",女 士 们 扫 描 周 期 翻 倍 所 有 资 料,"0-0 0-1 0-2 0-3 1-15 2-4 2-9 3-10 3-11 4-12 4-13 5-12 6-5 6-6 8-17
+","0-0 0-1 0-2 1-7 1-8 2-4 3-3 3-4 4-5 4-6 5-6 6-9 6-10 7-11 8-11 8-12
+",2,"[('周', 12)]",2,"[('期', 6)]",0,1,1,2
+"A man was at a bar, slowly sipping his beer and looking very gloomy.
+","A man was at a bar , slowly sipping his beer and looking very gloomy . ","A woman was at a bar, slowly sipping her beer and looking very gloomy.
+","A woman was at a bar , slowly sipping her beer and looking very gloomy . ",male,"[('man', 1), ('his', 9)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16","他们究竟明不明白我们不是站着给他们偷窃的对象？不，他们不明白。
+",bar-5,cwmt,一个男人在酒吧里 慢慢地喝着啤酒 看上去很阴沉,一个女人在酒吧里 慢慢地喝着啤酒 看上去很阴沉,一 个 男 人 在 酒 吧 里 慢 慢 地 喝 着 啤 酒 看 上 去 很 阴 沉,一 个 女 人 在 酒 吧 里 慢 慢 地 喝 着 啤 酒 看 上 去 很 阴 沉,"0-0 0-1 1-2 1-3 2-4 3-4 5-5 5-6 5-7 6-8 6-9 6-10 7-11 7-12 8-12 9-13 9-14 10-16 11-15 12-18 13-19 13-20
+","0-0 0-1 1-2 1-3 2-4 3-4 5-5 5-6 5-7 6-8 6-9 6-10 7-11 7-12 8-12 9-13 9-14 10-16 11-15 12-18 13-19 13-20
+",2,"[('酒', 5), ('吧', 6), ('里', 7)]",2,"[('酒', 5), ('吧', 6), ('里', 7)]",0,1,1,2
+"Get your stick outta your butt and go, man!
+","Get your stick outta your butt and go , man ! ","Get your stick outta your butt and go, woman!
+","Get your stick outta your butt and go , woman ! ",male,"[('man', 9)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11","让您坚持失控 你的屁股去，男人！
+",butt-5,os18,"把你的棍子从屁股里拿开,走吧,伙计!","把你的棍子从屁股里拿开 滚吧,女人!","把 你 的 棍 子 从 屁 股 里 拿 开 , 走 吧 , 伙 计 !","把 你 的 棍 子 从 屁 股 里 拿 开 滚 吧 , 女 人 !","0-0 1-1 1-2 2-3 2-4 3-5 3-10 4-6 5-7 6-14 7-14 8-15 8-16 8-17
+","0-0 1-1 1-2 2-3 2-4 3-5 4-6 5-7 6-13 7-13 8-14 8-15 8-16
+",1,"[('股', 7)]",1,"[('股', 7)]",0,1,1,1
+"The Mission is focused on employing qualified national and international female staff.
+",The Mission is focused on employing qualified national and international female staff . ,"The Mission is focused on employing qualified national and international male staff.
+",The Mission is focused on employing qualified national and international male staff . ,female,"[('female', 10)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13","稳定团的重点是雇用合格的本国和国际女性工作人员。
+",staff-11,UNv1,特派团的重点是雇用合格的本国和国际女性工作人员。,特派团的重点是雇用合格的本国和国际男性工作人员。,特 派 团 的 重 点 是 雇 用 合 格 的 本 国 和 国 际 女 性 工 作 人 员 。,特 派 团 的 重 点 是 雇 用 合 格 的 本 国 和 国 际 男 性 工 作 人 员 。,"0-2 0-3 1-0 1-1 1-2 2-6 3-4 3-5 4-5 5-7 5-8 6-9 6-10 7-13 7-15 8-14 9-16 10-17 10-18 11-19 11-20 11-21 11-22 11-23
+","0-2 0-3 1-0 1-1 1-2 2-6 3-4 3-5 4-5 5-7 5-8 6-9 6-10 7-13 7-15 8-14 9-16 10-17 10-18 11-19 11-20 11-21 11-22 11-23
+",0,"[('工', 19), ('作', 20), ('人', 21), ('员', 22), ('。', 23)]",0,"[('工', 19), ('作', 20), ('人', 21), ('员', 22), ('。', 23)]",0,1,1,0
+"As for the subjects that so enrage puritans they will continue to form the focus of her work.
+",As for the subjects that so enrage puritans they will continue to form the focus of her work . ,"As for the subjects that so enrage puritans they will continue to form the focus of him work.
+",As for the subjects that so enrage puritans they will continue to form the focus of him work . ,female,"[('her', 16)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19","一个新机场计划在附近兴建的此一宣布引起了立即的反对。
+",subject-3,cwmt,"至于如此盛大的清教徒主题,她们将继续成为她工作的重点。","至于那些如此热衷于清教徒的课题,他们将继续成为他工作的焦点。","至 于 如 此 盛 大 的 清 教 徒 主 题 , 她 们 将 继 续 成 为 她 工 作 的 重 点 。","至 于 那 些 如 此 热 衷 于 清 教 徒 的 课 题 , 他 们 将 继 续 成 为 他 工 作 的 焦 点 。","0-0 0-1 0-2 1-1 2-1 3-10 3-11 3-12 4-3 5-3 6-9 7-7 7-8 7-9 8-14 9-15 10-16 10-17 11-17 12-18 14-24 14-25 15-23 16-20 17-21 17-22
+","0-0 0-1 1-1 2-1 3-13 3-14 3-15 4-2 5-5 5-6 6-11 7-9 7-10 7-11 8-17 9-18 10-19 10-20 11-19 12-21 14-27 14-28 15-26 16-23 17-24 17-25
+",0,"[('主', 10), ('题', 11), (',', 12)]",0,"[('课', 13), ('题', 14), (',', 15)]",0,1,1,0
+"Although in this case he carries the bitter joke too far.
+",Although in this case he carries the bitter joke too far . ,"Although in this case she carries the bitter joke too far.
+",Although in this case she carries the bitter joke too far . ,male,"[('he', 4)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12","在这种情况下，他还是继续讲那个恶毒的笑话。
+",case-3,um,"虽然在这种情况下,他带着 痛苦的笑话太远了。","虽然在这种情况下,她带着 痛苦的笑话太远了。","虽 然 在 这 种 情 况 下 , 他 带 着 痛 苦 的 笑 话 太 远 了 。","虽 然 在 这 种 情 况 下 , 她 带 着 痛 苦 的 笑 话 太 远 了 。","0-0 0-1 1-2 2-3 2-4 3-5 3-6 3-7 4-9 5-10 5-11 6-14 7-12 7-13 8-15 8-16 9-17 9-19 10-18 10-20
+","0-0 0-1 1-2 2-3 2-4 3-5 3-6 3-7 4-9 5-10 5-11 6-14 7-12 7-13 8-15 8-16 9-17 9-19 10-18 10-20
+",11,"[('情', 5), ('况', 6), ('下', 7)]",11,"[('情', 5), ('况', 6), ('下', 7)]",0,1,1,11
+"The representation of female staff stands at 28.5 per cent for international staff and 17.2 per cent for national staff as of 30 June 2013 (as compared to 28.8 and 17.1 per cent, respectively, one year previously).
+","The representation of female staff stands at 28.5 per cent for international staff and 17.2 per cent for national staff as of 30 June 2013 ( as compared to 28.8 and 17.1 per cent , respectively , one year previously ) . ","The representation of male staff stands at 28.5 per cent for international staff and 17.2 per cent for national staff as of 30 June 2013 (as compared to 28.8 and 17.1 per cent, respectively, one year previously).
+","The representation of male staff stands at 28.5 per cent for international staff and 17.2 per cent for national staff as of 30 June 2013 ( as compared to 28.8 and 17.1 per cent , respectively , one year previously ) . ",female,"[('female', 3)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25,26-26,27-27,28-28,29-29,30-30,31-31,32-32,33-33,34-34,35-35,36-36,37-37,38-38,39-39,40-40,41-41,42-42","截至2013年6月30日，国际和本国女性工作人员的比例分别达28.5％和17.2％，(而前一年分别为28.8％和17.1％)。
+",staff-19,UNv1,"截至2013年6月30日,国际工作人员中女性工作人员所占比例为28.5%,本国工作人员为17.2%(一年前分别为28.8%和17.1%)。","截至2013年6月30日,国际工作人员男性工作人员所占比例为28.5%,本国工作人员为17.2%(一年前分别为28.8%和17.1%)。","截 至 2013 年 6 月 30 日 , 国 际 工 作 人 员 中 女 性 工 作 人 员 所 占 比 例 为 28.5 % , 本 国 工 作 人 员 为 17.2 % ( 一 年 前 分 别 为 28.8 % 和 17.1 % ) 。","截 至 2013 年 6 月 30 日 , 国 际 工 作 人 员 男 性 工 作 人 员 所 占 比 例 为 28.5 % , 本 国 工 作 人 员 为 17.2 % ( 一 年 前 分 别 为 28.8 % 和 17.1 % ) 。","1-25 3-16 3-17 4-11 5-42 7-27 8-28 9-28 11-9 11-10 12-18 12-20 12-21 13-19 14-37 16-23 17-26 18-30 18-31 19-32 19-33 19-34 19-35 20-33 22-6 23-4 23-5 23-7 24-2 25-0 25-1 25-39 26-38 28-46 29-48 30-47 31-52 32-8 33-43 34-40 35-41 36-49
+","1-24 3-15 3-16 4-14 5-41 7-26 8-27 9-27 11-9 11-10 12-17 12-19 12-20 13-18 14-36 16-22 17-25 18-29 18-30 19-31 19-32 19-33 19-34 20-32 22-6 23-4 23-5 23-7 24-2 25-0 25-1 25-38 26-37 28-45 29-47 30-46 31-51 32-8 33-42 34-39 35-40 36-48
+",0,"[('工', 32), ('作', 33), ('人', 34), ('员', 35)]",0,"[('工', 31), ('作', 32), ('人', 33), ('员', 34)]",0,1,1,0
+"He broke the world record for the long jump?
+",He broke the world record for the long jump ? ,"She broke the world record for the long jump?
+",She broke the world record for the long jump ? ,male,"[('he', 0)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10","第二是国际分工基本上处于低端。
+",record-4,cwmt,他打破了世界纪录 长时间跳跃?,她打破了世界纪录 漫长的跳跃?,他 打 破 了 世 界 纪 录 长 时 间 跳 跃 ?,她 打 破 了 世 界 纪 录 漫 长 的 跳 跃 ?,"0-0 1-1 1-2 1-3 2-4 3-5 4-6 4-7 5-10 6-10 7-8 7-9 7-10 8-11 8-12 8-13
+","0-0 1-1 1-2 1-3 2-4 3-5 4-6 4-7 5-10 6-10 7-8 7-9 8-11 8-12 8-13
+",7,"[('纪', 6), ('录', 7)]",7,"[('纪', 6), ('录', 7)]",0,1,1,2
+"But recent studies have found large changes in cues and behavior when a woman is at this stage of peak fertility.
+",But recent studies have found large changes in cues and behavior when a woman is at this stage of peak fertility . ,"But recent studies have found large changes in cues and behavior when a man is at this stage of peak fertility.
+",But recent studies have found large changes in cues and behavior when a man is at this stage of peak fertility . ,female,"[('woman', 13)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22","不过近期的研究已发现，处于排卵高峰期的女性在行为暗示上有明显的变化。
+",change-6,cwmt,"但最近的研究发现,当妇女处于生育率峰值阶段时,提示和行为发生了巨大变化。","但最近的研究发现,当男性处于生育率峰值阶段时,提示和行为发生了巨大变化。","但 最 近 的 研 究 发 现 , 当 妇 女 处 于 生 育 率 峰 值 阶 段 时 , 提 示 和 行 为 发 生 了 巨 大 变 化 。","但 最 近 的 研 究 发 现 , 当 男 性 处 于 生 育 率 峰 值 阶 段 时 , 提 示 和 行 为 发 生 了 巨 大 变 化 。","0-0 1-1 1-2 2-4 2-5 3-6 4-6 4-7 4-30 5-31 5-32 6-33 6-34 7-13 8-23 8-24 9-25 10-26 10-27 11-21 12-20 13-10 13-11 16-28 17-19 18-16 19-17 19-18 20-14
+","0-0 1-1 1-2 2-4 2-5 3-6 4-6 4-7 4-30 5-31 5-32 6-33 6-34 7-13 8-23 8-24 9-25 10-26 10-27 11-21 12-20 13-10 16-28 17-19 18-16 19-17 19-18 20-14
+",1,"[('变', 33), ('化', 34)]",1,"[('变', 33), ('化', 34)]",0,1,1,1
+"China adopts a licensing system for arms export, prohibiting unauthorized entities and individuals from conducting business of arms export, and banning exports to non-State actors.
+","China adopts a licensing system for arms export , prohibiting unauthorized entities and individuals from conducting business of arms export , and banning exports to non - State actors . ","China adopts a licensing system for arms export, prohibiting unauthorized entities and individuals from conducting business of arms export, and banning exports to non-State actresses.
+","China adopts a licensing system for arms export , prohibiting unauthorized entities and individuals from conducting business of arms export , and banning exports to non - State actresses . ",male,"[('actors', 28)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25,26-26,27-27,28-28,29-29,30-30","中国对军品出口实施许可证制度，禁止未经授权的实体和个人从事军品出口业务，禁止向非国家行为者出口。
+",arm-18,UNv1,"中国实行武器出口许可证制度,禁止未经授权的实体和个人从事武器出口业务,禁止向非国家行为者出口武器。","中国实行武器出口许可证制度,禁止未经授权的实体和个人从事武器出口业务,禁止向非国家女演员出口武器。","中 国 实 行 武 器 出 口 许 可 证 制 度 , 禁 止 未 经 授 权 的 实 体 和 个 人 从 事 武 器 出 口 业 务 , 禁 止 向 非 国 家 行 为 者 出 口 武 器 。","中 国 实 行 武 器 出 口 许 可 证 制 度 , 禁 止 未 经 授 权 的 实 体 和 个 人 从 事 武 器 出 口 业 务 , 禁 止 向 非 国 家 女 演 员 出 口 武 器 。","0-0 0-1 1-4 2-7 3-8 3-9 3-10 4-11 4-12 7-13 8-14 8-15 9-16 9-17 9-18 9-19 10-21 10-22 11-23 12-22 12-24 12-25 13-26 15-32 15-33 16-20 18-28 20-35 21-44 21-45 22-37 23-40 24-41 24-42 24-43
+","0-0 0-1 1-4 2-7 3-8 3-9 3-10 4-11 4-12 7-13 8-14 8-15 9-16 9-17 9-18 9-19 10-21 10-22 11-23 12-22 12-24 12-25 13-26 14-33 15-32 16-20 18-28 20-35 21-44 21-45 22-37 23-40 24-41 24-42 24-43
+",2,"[('武', 28)]",2,"[('武', 28)]",0,1,1,2
+"The general followed out his plan of attack in spite of the opposition from his staff.
+",The general followed out his plan of attack in spite of the opposition from his staff . ,"The general followed out her plan of attack in spite of the opposition from her staff.
+",The general followed out her plan of attack in spite of the opposition from her staff . ,male,"[('his', 4), ('his', 14)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17","将军不管参谋人员的反对而贯彻执行他的攻击计划。
+",staff-15,cwmt,"将军不顾其工作人员的反对,继续推行其攻击计划。","将军不顾工作人员反对,继续跟踪她的攻击计划。","将 军 不 顾 其 工 作 人 员 的 反 对 , 继 续 推 行 其 攻 击 计 划 。","将 军 不 顾 工 作 人 员 反 对 , 继 续 跟 踪 她 的 攻 击 计 划 。","0-1 1-0 1-1 2-13 4-9 5-20 5-21 6-4 7-18 7-19 8-12 9-3 10-17 11-17 12-10 12-11 15-5 15-6 15-7 15-8
+","0-1 1-0 1-1 1-10 2-11 2-12 2-13 2-14 5-19 5-20 7-17 7-18 9-3 10-16 11-16 12-8 12-9 13-16 14-15 15-4 15-5 15-6 15-7
+",0,"[('工', 5), ('作', 6), ('人', 7), ('员', 8)]",0,"[('工', 4), ('作', 5), ('人', 6), ('员', 7)]",0,1,1,0
+"The chair gives a groan as he sits down in it.
+",The chair gives a groan as he sits down in it . ,"The chair gives a groan as she sits down in it.
+",The chair gives a groan as she sits down in it . ,male,"[('he', 6)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12","弹性波介质中纵、横波速度反演
+",chair-1,cwmt,他坐在椅子上的时候 椅子会发出呻吟,她坐在椅子上的时候 椅子会发出呻吟,他 坐 在 椅 子 上 的 时 候 椅 子 会 发 出 呻 吟,她 坐 在 椅 子 上 的 时 候 椅 子 会 发 出 呻 吟,"0-4 0-6 1-3 1-5 2-4 3-4 4-14 4-15 5-8 6-0 7-1 9-12
+","0-4 0-6 1-3 1-5 2-4 3-4 4-14 4-15 5-8 6-0 7-1 8-1 9-2 9-12
+",3,"[('椅', 3), ('上', 5)]",3,"[('椅', 3), ('上', 5)]",0,1,1,3
+"He also indicates that closing instructions for the financial period ended June 2013 and the preparation of opening balances for 1 July 2013 were issued at the end of April 2013.
+",He also indicates that closing instructions for the financial period ended June 2013 and the preparation of opening balances for 1 July 2013 were issued at the end of April 2013 . ,"She also indicates that closing instructions for the financial period ended June 2013 and the preparation of opening balances for 1 July 2013 were issued at the end of April 2013.
+",She also indicates that closing instructions for the financial period ended June 2013 and the preparation of opening balances for 1 July 2013 were issued at the end of April 2013 . ,male,"[('he', 0)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25,26-26,27-27,28-28,29-29,30-30,31-31,32-32","他还表示，将在2013年4月底发布2013年6月终了财政期间结账和2013年7月1日期初结余编制指示。
+",balance-18,UNv1,"他还指出,2013年4月底发布了2013年6月终了财务期间的结账指示以及2013年7月1日期初结余编制工作。","她还指出,2013年4月底发布了2013年6月终了财务期间的结账指示以及2013年7月1日期初结余编制工作。","他 还 指 出 , 2013 年 4 月 底 发 布 了 2013 年 6 月 终 了 财 务 期 间 的 结 账 指 示 以 及 2013 年 7 月 1 日 期 初 结 余 编 制 工 作 。","她 还 指 出 , 2013 年 4 月 底 发 布 了 2013 年 6 月 终 了 财 务 期 间 的 结 账 指 示 以 及 2013 年 7 月 1 日 期 初 结 余 编 制 工 作 。","0-0 1-1 2-2 2-3 2-4 3-2 5-2 6-6 8-19 8-20 9-21 9-22 10-24 11-15 12-13 12-14 13-29 15-40 16-23 17-37 18-39 20-34 21-32 21-33 21-35 22-30 22-31 24-10 27-9 29-7 30-44
+","0-0 1-1 2-2 2-3 2-4 3-2 5-2 6-6 8-19 8-20 9-21 9-22 10-24 11-15 12-13 12-14 13-29 15-40 16-23 17-37 18-39 20-34 21-32 21-33 21-35 22-30 22-31 24-10 27-9 29-7 30-44
+",2,"[('余', 39)]",2,"[('余', 39)]",0,1,1,2
+"I often saw two girls at the same spot everyday and we became friends.
+",I often saw two girls at the same spot everyday and we became friends . ,"I often saw two boys at the same spot everyday and we became friends.
+",I often saw two boys at the same spot everyday and we became friends . ,female,"[('girls', 4)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15","我尝过一点,辛辣之后是淡淡的甜味.
+",spot-8,cwmt,"我经常每天在同一地点看到两个女孩,我们成了朋友。","我经常每天在同一地点看到两个男孩,我们成了朋友。","我 经 常 每 天 在 同 一 地 点 看 到 两 个 女 孩 , 我 们 成 了 朋 友 。","我 经 常 每 天 在 同 一 地 点 看 到 两 个 男 孩 , 我 们 成 了 朋 友 。","0-0 1-1 1-2 2-10 2-11 3-12 3-13 4-14 4-15 5-5 7-6 7-7 8-8 8-9 9-3 9-4 10-16 11-18 12-19 12-20 13-21 13-22 13-23
+","0-0 1-1 1-2 2-10 2-11 3-12 3-13 4-14 4-15 5-5 7-6 7-7 8-8 8-9 9-3 9-4 10-16 11-18 12-19 12-20 13-21 13-22 13-23
+",6,"[('地', 8), ('点', 9)]",6,"[('地', 8), ('点', 9)]",0,1,1,6
+"She must catch a seal soon, or the whole family will starve.
+","She must catch a seal soon , or the whole family will starve . ","He must catch a seal soon, or the whole family will starve.
+","He must catch a seal soon , or the whole family will starve . ",female,"[('she', 0)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14","它得尽快捕到海豹 要不然全家都要挨饿
+",seal-4,os18,她必须尽快抓到海豹 否则全家都会饿死,他必须尽快抓到海豹 否则全家都要饿死了,她 必 须 尽 快 抓 到 海 豹 否 则 全 家 都 会 饿 死,他 必 须 尽 快 抓 到 海 豹 否 则 全 家 都 要 饿 死 了,"0-0 1-1 1-2 2-5 2-6 4-7 4-8 5-8 6-9 6-10 7-10 8-11 8-13 9-12 10-14 11-15 11-16
+","0-0 1-1 1-2 2-5 2-6 4-7 4-8 5-8 6-9 6-10 7-11 8-11 8-13 9-12 10-14 11-15 11-16
+",4,"[('海', 7), ('豹', 8)]",4,"[('海', 7), ('豹', 8)]",0,1,1,4
+"He contended that the State party limited itself to confirming the grounds for his conviction on a murder charge, and pointed out that no documentary evidence has been adduced by the State party in substantiation of its observations.
+","He contended that the State party limited itself to confirming the grounds for his conviction on a murder charge , and pointed out that no documentary evidence has been adduced by the State party in substantiation of its observations . ","She contended that the State party limited itself to confirming the grounds for her conviction on a murder charge, and pointed out that no documentary evidence has been adduced by the State party in substantiation of its observations.
+","She contended that the State party limited itself to confirming the grounds for her conviction on a murder charge , and pointed out that no documentary evidence has been adduced by the State party in substantiation of its observations . ",male,"[('he', 0), ('his', 13)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25,26-26,27-27,28-28,29-29,30-30,31-31,32-32,33-33,34-34,35-35,36-36,37-37,38-38,39-39,40-40","他争辩说，缔约国只是强调了判决他犯有谋杀罪的理由，而没有举出支持其意见的任何书面证据。
+",charge-18,UNv1,"他辩称,缔约国仅限于确认以谋杀罪指控对他定罪的理由,并指出,缔约国没有为证实其意见提出任何书面证据。","她辩称,缔约国仅限于确认她因谋杀罪罪名被定罪的理由,并指出,缔约国没有为证实其意见提出任何书面证据。","他 辩 称 , 缔 约 国 仅 限 于 确 认 以 谋 杀 罪 指 控 对 他 定 罪 的 理 由 , 并 指 出 , 缔 约 国 没 有 为 证 实 其 意 见 提 出 任 何 书 面 证 据 。","她 辩 称 , 缔 约 国 仅 限 于 确 认 她 因 谋 杀 罪 罪 名 被 定 罪 的 理 由 , 并 指 出 , 缔 约 国 没 有 为 证 实 其 意 见 提 出 任 何 书 面 证 据 。","0-0 1-1 1-2 1-3 2-2 3-6 4-4 4-5 4-6 5-4 6-7 6-8 6-9 7-9 8-9 9-10 9-11 10-16 11-23 11-24 12-35 13-19 14-20 14-21 17-13 17-14 18-17 19-26 20-27 21-28 22-27 23-33 24-36 25-36 26-34 27-34 28-41 31-30 31-31 31-32 32-30 33-46 34-48 36-38 37-39 37-40
+","0-0 1-1 1-2 1-3 2-2 3-6 4-4 4-5 4-6 5-4 6-7 6-8 6-9 7-9 8-9 9-10 9-11 10-9 11-23 11-24 12-35 13-12 14-16 14-17 17-14 17-15 18-27 19-26 20-27 21-28 22-27 23-33 24-36 25-36 26-34 28-41 29-19 31-30 31-31 31-32 32-30 33-46 34-48 36-38 37-39 37-40
+",6,"[('控', 17)]",6,"[('指', 27)]",0,1,1,6
+"She hoped that the same spirit would be displayed by members of the Fifth Committee as they debated the report.
+",She hoped that the same spirit would be displayed by members of the Fifth Committee as they debated the report . ,"He hoped that the same spirit would be displayed by members of the Fifth Committee as they debated the report.
+",He hoped that the same spirit would be displayed by members of the Fifth Committee as they debated the report . ,female,"[('she', 0)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21","她希望第五委员会成员在就该报告辩论时也展现同样的精神。
+",spirit-5,UNv1,她希望第五委员会成员在辩论报告时也能表现出同样的精神。,他希望第五委员会成员在辩论该报告时也能表现出同样的精神。,她 希 望 第 五 委 员 会 成 员 在 辩 论 报 告 时 也 能 表 现 出 同 样 的 精 神 。,他 希 望 第 五 委 员 会 成 员 在 辩 论 该 报 告 时 也 能 表 现 出 同 样 的 精 神 。,"0-0 1-1 1-2 2-2 3-3 4-21 4-22 5-24 5-25 6-7 7-7 8-18 8-19 8-20 9-9 10-8 10-9 11-23 13-4 14-5 15-15 17-11 17-12 19-13 19-14
+","0-0 1-1 1-2 2-2 3-10 4-22 4-23 5-25 5-26 6-7 7-7 8-19 8-20 8-21 9-9 10-8 10-9 11-24 13-3 13-4 14-5 15-16 17-11 17-12 19-13 19-14 19-15
+",3,"[('精', 24), ('神', 25)]",3,"[('精', 25), ('神', 26)]",0,1,1,3
+"He was instrumental in finding financial support for the Quelimane Provincial Hospital to pay salaries to the staff.
+",He was instrumental in finding financial support for the Quelimane Provincial Hospital to pay salaries to the staff . ,"She was instrumental in finding financial support for the Quelimane Provincial Hospital to pay salaries to the staff.
+",She was instrumental in finding financial support for the Quelimane Provincial Hospital to pay salaries to the staff . ,male,"[('he', 0)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19","他发挥推动作用，找到财政支助，以支付克利马内省医院工作人员的薪金。
+",staff-17,UNv1,"他帮助为奎马内省医院寻找财政支助,以支付工作人员的工资。","她帮助为奎马内省医院寻找财政支助,以支付工作人员的工资。","他 帮 助 为 奎 马 内 省 医 院 寻 找 财 政 支 助 , 以 支 付 工 作 人 员 的 工 资 。","她 帮 助 为 奎 马 内 省 医 院 寻 找 财 政 支 助 , 以 支 付 工 作 人 员 的 工 资 。","0-0 2-1 3-6 4-10 4-11 5-12 5-13 6-14 7-3 8-13 9-14 9-15 10-7 11-8 11-9 12-19 13-19 14-26 15-25 16-23 17-20 17-21 17-22 17-23
+","0-0 2-1 3-6 4-10 4-11 5-12 5-13 6-14 7-3 8-13 9-14 9-15 10-7 11-8 11-9 12-19 13-19 14-26 15-25 16-23 17-20 17-21 17-22 17-23
+",0,"[('工', 20), ('作', 21), ('人', 22), ('员', 23)]",0,"[('工', 20), ('作', 21), ('人', 22), ('员', 23)]",0,1,1,0
+"I was just showing Mr Warne his Christmas present.
+",I was just showing Mr Warne his Christmas present . ,"I was just showing Mr Warne her Christmas present.
+",I was just showing Mr Warne her Christmas present . ,male,"[('his', 6)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10","我就是带沃恩先生来看他的圣诞礼物
+",present-8,os18,我只是给沃恩先生看圣诞礼物,我只是给沃恩先生看她的圣诞礼物,我 只 是 给 沃 恩 先 生 看 圣 诞 礼 物,我 只 是 给 沃 恩 先 生 看 她 的 圣 诞 礼 物,"0-0 1-2 2-1 3-3 3-8 4-6 4-7 5-4 5-5 7-9 7-10 8-11 8-12
+","0-0 1-2 2-1 3-3 3-8 4-6 4-7 5-4 5-5 6-9 6-10 7-11 7-12 8-13 8-14
+",0,"[('礼', 11), ('物', 12)]",0,"[('礼', 13), ('物', 14)]",0,1,1,0
+"That is evidence of the change in the stereotypical thinking about women and of the enhancement of the position and status of women in society.
+",That is evidence of the change in the stereotypical thinking about women and of the enhancement of the position and status of women in society . ,"That is evidence of the change in the stereotypical thinking about men and of the enhancement of the position and status of men in society.
+",That is evidence of the change in the stereotypical thinking about men and of the enhancement of the position and status of men in society . ,female,"[('women', 11), ('women', 22)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25,26-26","这一切都证明了对妇女思维定式的转变和妇女社会地位的提升。
+",change-5,UNv1,"这证明关于妇女的陈规定型观念已经改变,妇女在社会中的地位和地位也得到了提高。","这证明对男子的陈规定型观念已经改变,男子在社会中的地位和地位也有所提高。","这 证 明 关 于 妇 女 的 陈 规 定 型 观 念 已 经 改 变 , 妇 女 在 社 会 中 的 地 位 和 地 位 也 得 到 了 提 高 。","这 证 明 对 男 子 的 陈 规 定 型 观 念 已 经 改 变 , 男 子 在 社 会 中 的 地 位 和 地 位 也 有 所 提 高 。","0-0 1-0 2-1 2-2 3-7 5-16 5-17 6-21 7-9 8-8 8-10 8-11 8-12 8-13 9-13 10-3 10-4 11-5 11-6 11-19 11-20 12-18 13-19 15-35 15-36 16-25 17-26 18-27 19-28 20-29 20-30 23-24 24-22 24-23
+","0-0 1-0 2-1 2-2 3-6 5-15 5-16 6-20 7-8 8-7 8-9 8-10 8-11 8-12 9-12 10-3 11-18 11-19 12-17 15-33 15-34 16-24 17-25 18-26 19-27 20-28 20-29 21-32 23-23 24-21 24-22
+",1,"[('改', 16), ('变', 17)]",1,"[('改', 15), ('变', 16)]",0,1,1,1
+"She was released on 30 December 2002 without charges.
+",She was released on 30 December 2002 without charges . ,"He was released on 30 December 2002 without charges.
+",He was released on 30 December 2002 without charges . ,female,"[('she', 0)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10","她于2002年12月30日无任何指控地被释放。
+",charge-8,UNv1,"她于2002年12月30日获释,没有受到指控。","他于2002年12月30日获释,没有受到指控。","她 于 2002 年 12 月 30 日 获 释 , 没 有 受 到 指 控 。","他 于 2002 年 12 月 30 日 获 释 , 没 有 受 到 指 控 。","0-0 2-8 2-9 3-7 4-6 5-4 5-5 6-2 6-3 6-10 7-11 7-12 8-13 8-15 8-16 8-17
+","0-0 2-8 2-9 3-7 4-6 5-4 5-5 6-2 6-3 6-10 7-11 7-12 8-13 8-15 8-16 8-17
+",6,"[('受', 13), ('指', 15), ('控', 16), ('。', 17)]",6,"[('受', 13), ('指', 15), ('控', 16), ('。', 17)]",0,1,1,6
+"Preference should be given to female candidates in cases of equal qualifications and experience, which was not the case on this occasion.
+","Preference should be given to female candidates in cases of equal qualifications and experience , which was not the case on this occasion . ","Preference should be given to male candidates in cases of equal qualifications and experience, which was not the case on this occasion.
+","Preference should be given to male candidates in cases of equal qualifications and experience , which was not the case on this occasion . ",female,"[('female', 5)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24","如果资格和经验相同，应优先考虑女性人选，但现在情况并非如此。
+",case-8,UNv1,"在同等资格和经验的情况下,应优先考虑女性候选人,但目前情况并非如此。","在同等资格和经验的情况下,应优先考虑男性候选人,但目前情况并非如此。","在 同 等 资 格 和 经 验 的 情 况 下 , 应 优 先 考 虑 女 性 候 选 人 , 但 目 前 情 况 并 非 如 此 。","在 同 等 资 格 和 经 验 的 情 况 下 , 应 优 先 考 虑 男 性 候 选 人 , 但 目 前 情 况 并 非 如 此 。","0-26 1-13 2-13 3-16 5-18 5-19 6-20 6-21 6-22 7-10 8-9 8-10 8-11 9-8 10-1 10-2 11-3 11-4 12-5 12-29 13-6 13-7 14-25 15-30 16-24 18-31 19-28 20-32 21-33
+","0-26 1-13 2-13 3-16 5-18 5-19 6-20 6-21 6-22 7-10 8-9 8-10 8-11 9-8 10-1 10-2 11-3 11-4 12-5 12-29 13-6 13-7 14-25 15-30 16-24 18-31 19-28 20-32 21-33
+",11,"[('情', 9), ('况', 10), ('下', 11)]",11,"[('情', 9), ('况', 10), ('下', 11)]",0,1,1,11
+"She examines the interplay between changing gender divisions and urban change.
+",She examines the interplay between changing gender divisions and urban change . ,"He examines the interplay between changing gender divisions and urban change.
+",He examines the interplay between changing gender divisions and urban change . ,female,"[('she', 0)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12","她研究性别差异的变化和城市变化之间的相互影响。
+",change-10,um,她审查了变化中的性别分工与城市变化之间的相互作用。,他审查了变化中的性别分工与城市变化之间的相互作用。,她 审 查 了 变 化 中 的 性 别 分 工 与 城 市 变 化 之 间 的 相 互 作 用 。,他 审 查 了 变 化 中 的 性 别 分 工 与 城 市 变 化 之 间 的 相 互 作 用 。,"0-0 1-1 1-2 1-3 2-7 3-21 4-12 5-15 6-8 6-9 7-10 9-13 9-14 10-16
+","0-0 1-1 1-2 1-3 2-7 3-21 4-12 5-15 6-8 6-9 7-10 9-13 9-14 10-16
+",1,"[('化', 16)]",1,"[('化', 16)]",0,1,1,1
+"He said capital flight and stock market losses highlight an extremely low - level of Russian domestic investment.
+",He said capital flight and stock market losses highlight an extremely low - level of Russian domestic investment . ,"She said capital flight and stock market losses highlight an extremely low - level of Russian domestic investment.
+",She said capital flight and stock market losses highlight an extremely low - level of Russian domestic investment . ,male,"[('he', 0)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19","他指出，资本外逃和股市暴跌恰恰显示俄罗斯的国内投资水平太低。
+",stock-5,um,"他说,资本外逃和股市损失突显出俄罗斯国内投资水平极低。","她说,资本外逃和股票市场损失突显出俄罗斯国内投资水平极低。","他 说 , 资 本 外 逃 和 股 市 损 失 突 显 出 俄 罗 斯 国 内 投 资 水 平 极 低 。","她 说 , 资 本 外 逃 和 股 票 市 场 损 失 突 显 出 俄 罗 斯 国 内 投 资 水 平 极 低 。","0-0 1-1 2-2 2-3 2-4 3-6 4-7 5-8 6-9 7-10 7-11 8-12 8-13 8-14 9-5 10-24 11-25 13-22 13-23 14-21 15-15 15-16 15-17 15-18 16-19 17-20 17-21
+","0-0 1-1 2-2 2-3 2-4 3-6 4-7 5-8 5-9 6-10 6-11 7-12 7-13 8-14 8-15 8-16 9-5 10-26 11-27 13-24 13-25 14-23 15-17 15-18 15-19 15-20 16-21 17-22 17-23
+",2,"[('股', 8)]",2,"[('股', 8), ('票', 9)]",0,1,1,2
+"She labeled them neatly, writing the addresses in ball point pen and capital letters.
+","She labeled them neatly , writing the addresses in ball point pen and capital letters . ","He labeled them neatly, writing the addresses in ball point pen and capital letters.
+","He labeled them neatly , writing the addresses in ball point pen and capital letters . ",female,"[('she', 0)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16","她为它们整齐地贴上标签，用圆珠笔标出大写字母地址。
+",capital-13,cwmt,她用圆点笔和大写字母 写了地址,他用圆点笔和大写字母 写了地址,她 用 圆 点 笔 和 大 写 字 母 写 了 地 址,他 用 圆 点 笔 和 大 写 字 母 写 了 地 址,"0-0 1-2 2-1 3-2 4-7 5-6 6-12 6-13 8-2 9-3 10-4 11-5 12-10 13-8
+","0-0 3-2 4-7 5-6 6-12 6-13 8-2 9-3 10-4 11-5 12-10 13-8
+",1,"[('字', 8)]",1,"[('字', 8)]",0,1,1,1
+"I asked God for a drop of water and He gave me an ocean.
+",I asked God for a drop of water and He gave me an ocean . ,"I asked God for a drop of water and She gave me an ocean.
+",I asked God for a drop of water and She gave me an ocean . ,male,"[('he', 9)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15","它可能是有益的奥米伽-3脂肪酸提供一些保护。
+",drop-5,cwmt,我祈求上帝给我一滴水 他给了我一片海洋,我求上帝给我一滴水 她给了我一片大海,我 祈 求 上 帝 给 我 一 滴 水 他 给 了 我 一 片 海 洋,我 求 上 帝 给 我 一 滴 水 她 给 了 我 一 片 大 海,"0-0 1-1 1-2 2-3 2-4 3-5 4-7 5-8 6-8 7-9 8-9 9-10 10-11 10-12 11-13 12-14 13-15 13-16 13-17
+","0-0 1-1 2-2 2-3 3-4 4-6 5-7 6-7 7-8 8-8 9-9 10-10 10-11 11-12 12-13 13-14 13-15 13-16
+",0,"[('滴', 8)]",0,"[('滴', 7)]",0,1,1,0
+"They create new needs which offer a vicarious feeling of change and participation in modern life, but which maintain the status quo and the traditional position of women.
+","They create new needs which offer a vicarious feeling of change and participation in modern life , but which maintain the status quo and the traditional position of women . ","They create new needs which offer a vicarious feeling of change and participation in modern life, but which maintain the status quo and the traditional position of men.
+","They create new needs which offer a vicarious feeling of change and participation in modern life , but which maintain the status quo and the traditional position of men . ",female,"[('women', 28)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25,26-26,27-27,28-28,29-29,30-30","创造新的需要，经历根本变化，溶入现代生活，同时继续维护妇女现状和传统地位。
+",change-10,UNv1,"它们创造了新的需求,提供了一种替代的变革和参与现代生活的感觉,但保持了现状和妇女的传统地位。","它们创造了新的需求,提供了一种替代的变革和参与现代生活的感觉,但维持了男子的现状和传统地位。","它 们 创 造 了 新 的 需 求 , 提 供 了 一 种 替 代 的 变 革 和 参 与 现 代 生 活 的 感 觉 , 但 保 持 了 现 状 和 妇 女 的 传 统 地 位 。","它 们 创 造 了 新 的 需 求 , 提 供 了 一 种 替 代 的 变 革 和 参 与 现 代 生 活 的 感 觉 , 但 维 持 了 男 子 的 现 状 和 传 统 地 位 。","0-0 0-1 1-2 1-3 2-5 3-7 3-8 4-9 5-10 5-11 6-13 7-14 7-15 7-16 8-28 8-29 9-17 10-18 10-19 11-20 12-21 12-22 13-21 14-23 14-24 15-25 15-26 15-30 16-31 17-30 18-32 18-33 20-36 21-36 22-37 23-42 24-41 25-44 26-38 26-40 27-38 27-39
+","0-0 0-1 1-2 1-3 2-5 3-7 3-8 4-9 5-10 5-11 6-13 7-14 7-15 7-16 8-28 8-29 9-17 10-18 10-19 11-20 12-21 12-22 13-21 14-23 14-24 15-25 15-26 15-30 16-31 17-30 18-32 18-33 20-39 21-39 22-40 23-42 24-41 25-44 26-37 27-35 27-36
+",1,"[('变', 18), ('革', 19)]",1,"[('变', 18), ('革', 19)]",0,1,1,1
+"Some police districts have designated the investigation of cases concerning domestic violence and violence against women to a police officer specialised in these issues.
+",Some police districts have designated the investigation of cases concerning domestic violence and violence against women to a police officer specialised in these issues . ,"Some police districts have designated the investigation of cases concerning domestic violence and violence against men to a police officer specialised in these issues.
+",Some police districts have designated the investigation of cases concerning domestic violence and violence against men to a police officer specialised in these issues . ,female,"[('women', 15)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25","一些警区将有关家庭暴力和对妇女暴力案例的调查专门指定由专门处理这一问题的警官来进行。
+",case-8,UNv1,一些警区指定了一名专门负责调查家庭暴力和暴力侵害妇女案件的警官对这些案件进行调查。,一些警区指定了一名专门负责调查家庭暴力和暴力侵害男子案件的警官调查这些案件。,一 些 警 区 指 定 了 一 名 专 门 负 责 调 查 家 庭 暴 力 和 暴 力 侵 害 妇 女 案 件 的 警 官 对 这 些 案 件 进 行 调 查 。,一 些 警 区 指 定 了 一 名 专 门 负 责 调 查 家 庭 暴 力 和 暴 力 侵 害 男 子 案 件 的 警 官 调 查 这 些 案 件 。,"0-1 1-2 2-3 3-5 4-4 6-13 6-14 7-12 7-28 8-26 8-27 9-17 10-15 10-16 10-17 11-18 11-20 11-21 12-19 13-20 14-31 15-24 15-25 17-0 18-29 19-8 19-30 20-9 20-10 21-36 22-32 22-33 23-40
+","0-1 1-2 2-3 3-5 4-4 6-13 6-14 7-28 8-26 8-27 9-17 10-15 10-16 11-17 11-18 12-19 13-20 13-21 13-22 13-23 14-22 15-24 15-25 17-0 18-29 19-8 19-30 20-9 20-10 21-35 22-33 22-34 23-37
+",14,"[('案', 26), ('件', 27)]",14,"[('案', 26), ('件', 27)]",0,1,1,14
+"It's that little bar there. He put his hand on the throttle.
+",It 's that little bar there . He put his hand on the throttle . ,"It's that little bar there. She put her hand on the throttle.
+",It 's that little bar there . She put her hand on the throttle . ,male,"[('he', 7), ('his', 9)]",MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15","就是那个地方的小操纵杆。他把手放在推进器上。
+",bar-4,um,就是那个小酒吧 他把手放在油门上,就是那个小酒吧 她把手放在油门上,就 是 那 个 小 酒 吧 他 把 手 放 在 油 门 上,就 是 那 个 小 酒 吧 她 把 手 放 在 油 门 上,"0-0 0-1 1-2 1-3 2-4 3-5 3-6 4-5 5-7 6-8 7-7 8-9 9-12 10-13 11-12 11-14
+","0-0 0-1 1-2 1-3 2-4 3-5 3-6 4-5 5-7 6-8 7-7 8-9 9-12 10-13 11-12 11-14
+",2,"[('酒', 5)]",2,"[('酒', 5)]",0,1,1,2

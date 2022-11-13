@@ -132,7 +132,7 @@ do
 done
 ```
 
-Assign sense to the homograph.
+Assign sense to the aligned polysemes.
 ```bash
 # assign
 echo "Assigning datasets..."
@@ -141,15 +141,93 @@ do
     for m in "${models[@]}"
     do
         python scripts/assign.py --input_path result/$m/test-set-${t}_${m}_merged.csv --method bow --sense_inventory asset/sense_inventory/sense_dict.json --alignment_window_size 0
+        python scripts/assign.py --input_path result/$m/test-set-${t}_${m}_merged.csv --method bow --sense_inventory asset/sense_inventory/sense_dict.json --alignment_window_size 49
         python scripts/assign.py --input_path result/$m/test-set-${t}_${m}_merged.csv --method ftc --sense_inventory asset/sense_inventory/sense_dict.json --alignment_window_size 0
+        python scripts/assign.py --input_path result/$m/test-set-${t}_${m}_merged.csv --method ftc --sense_inventory asset/sense_inventory/sense_dict.json --alignment_window_size 49
+        python scripts/assign.py --input_path result/$m/test-set-${t}_${m}_merged.csv --method sbert --sense_inventory asset/sense_inventory/sense_dict.json --alignment_window_size 0
         python scripts/assign.py --input_path result/$m/test-set-${t}_${m}_merged.csv --method sbert --sense_inventory asset/sense_inventory/sense_dict.json --alignment_window_size 49
     done
 done
 ```
 
-
 ## Research Questions
 All scripts about RQs are saved under the path `./rq`.
+
+RQ1: 
+``` bash
+python rq/rq1.py
+```
+
+Sample and mark the golden dataset
+```bash
+python scripts/sample.py
+cp rq/golden_dataset/* rq/rq2/
+python scripts/sample_50v50.py
+```
+
+Then run RQ5 parameters searching first.
+
+RQ5:
+```bash
+cp rq/golden_dataset_marked/* rq/rq5/
+cp rq/golden_dataset_marked/* rq/rq5/
+
+for t in "${muttype[@]}"
+do
+    for m in "${models[@]}"
+    do
+        python scripts/assign.py --input_path rq/rq5/golden-dataset-${m}-${t}.csv --method bow --sense_inventory asset/sense_inventory/sense_dict.json --alignment_window_range "0-50"
+    done
+done
+
+for t in "${muttype[@]}"
+do
+    for m in "${models[@]}"
+    do
+        python scripts/assign.py --input_path rq/rq5/golden-dataset-${m}-${t}.csv --method ftc --sense_inventory asset/sense_inventory/sense_dict.json --alignment_window_range "0-50"
+    done
+done
+
+for t in "${muttype[@]}"
+do
+    for m in "${models[@]}"
+    do
+        python scripts/assign.py --input_path rq/rq5/golden-dataset-${m}-${t}.csv --method sbert --sense_inventory asset/sense_inventory/sense_dict.json --alignment_window_range "0-50"
+    done
+done
+python rq/rq5.py
+```
+
+RQ2:
+```bash
+for t in "${muttype[@]}"
+do
+    for m in "${models[@]}"
+    do
+        cp rq/rq5/golden-dataset-${m}-{$t}_bow_49.csv rq/rq2/golden-dataset-${m}-{$t}_bow_49.csv
+        cp rq/rq5/golden-dataset-${m}-{$t}_ftc_0.csv rq/rq2/golden-dataset-${m}-{$t}_ftc_0.csv
+        cp rq/rq5/golden-dataset-${m}-{$t}_sbert_49.csv rq/rq2/golden-dataset-${m}-{$t}_sbert_49.csv
+    done
+done
+
+python rq/rq2.py
+```
+
+RQ3:
+```bash
+python rq/rq3.py
+```
+
+RQ4: 
+```bash
+python rq/rq4.py
+```
+
+# discussion
+```bash
+python rq/discussion2.py
+python rq/discussion3.py
+```
 
 ## References
 

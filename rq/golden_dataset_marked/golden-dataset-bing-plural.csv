@@ -1,0 +1,801 @@
+ori.src,tok.ori.src,mut.src,tok.mut.src,mutkind,mutkind_word,tag,mut_align,ref,poly_word,corpus,ori.tgt,mut.tgt,tok.ori.tgt,tok.mut.tgt,ori.alignment,mut.alignment,ori.sc_id,ori.tgt_sense,mut.sc_id,mut.tgt_sense,unfair,ori.right,mut.right,sc_id
+"Men of letters mostly have a kind of love knot.
+",Men of letters mostly have a kind of love knot . ,"Men of letters mostly have kinds of love knot.
+",Men of letters mostly have kinds of love knot . ,singular,['kind '],MUTATED,"0-0,1-1,2-2,3-3,4-4,6-5,7-6,8-7,9-8,10-9,11-10","摘要古代文人墨客,大都有一种“月亮情结”.
+",letter-2,cwmt,"信的男人大多有一种爱情结。
+","文人大多有各种爱情结。
+",信 的 男 人 大 多 有 一 种 爱 情 结 。,文 人 大 多 有 各 种 爱 情 结 。,"0-2 0-3 1-1 2-0 3-4 3-5 4-6 5-7 6-8 7-8 8-9 9-10 9-11 9-12
+","0-1 2-0 3-2 3-3 4-4 5-5 5-6 6-6 7-7 8-8 8-9 8-10
+",0,"[('信', 0)]",2,"[('文', 0)]",1,0,1,2
+"In nine cases out of ten, I see instead a lookofboredom and discontent and an almost frantic longing forsomethingthat might tickle the jaded palate
+","In nine cases out of ten , I see instead a lookofboredom and discontent and an almost frantic longing forsomethingthat might tickle the jaded palate ","In nine cases out of ten, I see instead lookofboredoms and discontent and an almost frantic longing forsomethingthat might tickle the jaded palate
+","In nine cases out of ten , I see instead lookofboredoms and discontent and an almost frantic longing forsomethingthat might tickle the jaded palate ",singular,['lookofboredom '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24","相反，我看到十之八九的人却是满脸厌烦和不满，或者是极度的物欲渴望
+",case-2,cwmt,"在十分之九的案例中，我看到的是一种无聊的表情和不满，以及一种近乎疯狂的渴望，这些东西可能会挠痒痒的疲惫的味觉。
+","在十分之九的情况下，我看到的反而是无聊和不满的表情，以及一种近乎疯狂的渴望，渴望某种东西可能会使疲惫的味蕾发痒。
+",在 十 分 之 九 的 案 例 中 ， 我 看 到 的 是 一 种 无 聊 的 表 情 和 不 满 ， 以 及 一 种 近 乎 疯 狂 的 渴 望 ， 这 些 东 西 可 能 会 挠 痒 痒 的 疲 惫 的 味 觉 。,在 十 分 之 九 的 情 况 下 ， 我 看 到 的 反 而 是 无 聊 和 不 满 的 表 情 ， 以 及 一 种 近 乎 疯 狂 的 渴 望 ， 渴 望 某 种 东 西 可 能 会 使 疲 惫 的 味 蕾 发 痒 。,"0-0 1-4 2-6 2-7 4-8 5-9 6-10 7-11 7-12 8-14 9-28 10-29 11-22 12-23 12-24 13-27 14-29 15-30 15-31 16-32 16-33 17-35 17-36 18-40 18-41 19-42 19-43 19-44 20-45 20-46 20-47 21-48 22-49 22-50 22-54 23-52 23-53
+","0-0 1-4 2-6 2-7 2-8 3-8 5-9 6-10 7-11 7-12 8-14 8-15 8-16 9-13 9-22 10-19 11-20 11-21 12-27 13-28 13-29 14-30 14-31 15-32 15-33 16-38 16-39 17-40 17-41 17-42 17-43 18-44 18-45 18-46 19-54 20-50 21-48 21-49 22-51 22-52
+",14,"[('案', 6), ('例', 7)]",11,"[('情', 6), ('况', 7), ('下', 8)]",1,0,1,11
+"Tomorrow doctors will say that a fan will lose his sight in one eye. The police will claim a firecracker was responsible.
+",Tomorrow doctors will say that a fan will lose his sight in one eye . The police will claim a firecracker was responsible . ,"Tomorrow doctors will say that a fan will lose his sight in one eye. The police will claim firecrackers were responsible.
+",Tomorrow doctors will say that a fan will lose his sight in one eye . The police will claim firecrackers were responsible . ,singular,['firecracker '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,20-19,21-20,22-21,23-22,24-23","明天医生会说一个球迷一个眼睛失明了，然后警察就会说这是一个炮竹引起的。
+",fan-6,cwmt,"明天医生会说，球迷会失去一只眼睛的视力。警方将声称是鞭炮造成的。
+","明天医生会说风扇的一只眼睛会失明。警方将声称鞭炮是罪魁祸首。
+",明 天 医 生 会 说 ， 球 迷 会 失 去 一 只 眼 睛 的 视 力 。 警 方 将 声 称 是 鞭 炮 造 成 的 。,明 天 医 生 会 说 风 扇 的 一 只 眼 睛 会 失 明 。 警 方 将 声 称 鞭 炮 是 罪 魁 祸 首 。,"0-0 0-1 1-2 1-3 2-4 3-5 4-5 6-7 6-8 7-9 8-10 8-11 9-16 10-17 10-18 11-16 12-12 12-13 13-14 13-15 14-20 15-20 15-21 16-22 17-23 17-24 18-28 18-29 19-26 19-27 20-25 21-31
+","0-0 0-1 1-2 1-3 2-4 3-5 6-6 6-7 7-13 8-14 9-8 12-9 12-10 13-11 13-12 14-17 15-17 15-18 16-19 17-20 17-21 18-22 18-23 19-24 20-29
+",1,"[('球', 7), ('迷', 8)]",0,"[('风', 6), ('扇', 7)]",1,1,0,1
+"The guidelines also prohibit job advertisements which make race a criterion for application.
+",The guidelines also prohibit job advertisements which make race a criterion for application . ,"The guidelines also prohibit job advertisements which make race criteria for application.
+",The guidelines also prohibit job advertisements which make race criteria for application . ,singular,['criterion '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,10-9,11-10,12-11,13-12,14-13","""该指导方针还禁止以种族作为申请标准的招聘广告。
+",race-8,UNv1,"该指南还禁止将种族作为申请标准的招聘广告。
+","该指南还禁止将竞选标准作为申请标准的招聘广告。
+",该 指 南 还 禁 止 将 种 族 作 为 申 请 标 准 的 招 聘 广 告 。,该 指 南 还 禁 止 将 竞 选 标 准 作 为 申 请 标 准 的 招 聘 广 告 。,"0-1 1-1 1-2 2-3 3-4 3-5 4-9 5-17 5-18 5-19 6-0 7-9 8-7 8-8 9-15 10-13 10-14 11-10 12-11 12-12
+","0-1 1-1 1-2 2-3 3-4 3-5 4-11 5-19 5-20 5-21 6-0 8-7 8-8 9-9 9-10 9-15 9-16 10-12 11-13 11-14
+",0,"[('种', 7), ('族', 8)]",3,"[('竞', 7), ('选', 8)]",1,1,0,0
+"Hoods don't stop, they take a break.
+","Hoods do n't stop , they take a break . ","Hoods don't stop, they take breaks.
+","Hoods do n't stop , they take breaks . ",singular,['break'],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,8-7,9-8,10-9","兄弟从不罢手,只会先暂停
+",hood-0,os18,"兜帽不会停止，他们会休息一下。
+","引擎盖不会停止，他们会休息。
+",兜 帽 不 会 停 止 ， 他 们 会 休 息 一 下 。,引 擎 盖 不 会 停 止 ， 他 们 会 休 息 。,"0-0 0-1 1-2 2-4 2-5 2-6 3-7 3-8 4-9 5-12 6-10 6-11 6-13 6-14
+","0-1 0-2 1-3 2-5 2-6 2-7 3-8 3-9 4-10 5-11 5-12 5-13
+",4,"[('兜', 0), ('帽', 1)]",1,"[('擎', 1), ('盖', 2)]",1,0,0,3
+"He searched for and found a sheaf of papers in cabinet.
+",He searched for and found a sheaf of papers in cabinet . ,"He searched for and found sheafs of papers in cabinet.
+",He searched for and found sheafs of papers in cabinet . ,singular,['sheaf '],MUTATED,"0-0,1-1,2-2,3-3,4-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11","他在柜中寻找到一扎文件.
+",cabinet-10,cwmt,"他搜索并在内阁中发现了一堆文件。
+","他在柜子里寻找并找到了成捆的文件。
+",他 搜 索 并 在 内 阁 中 发 现 了 一 堆 文 件 。,他 在 柜 子 里 寻 找 并 找 到 了 成 捆 的 文 件 。,"0-0 1-1 1-2 2-1 3-3 4-8 4-9 5-11 6-12 7-12 8-13 8-14 9-4 9-7 10-5 10-6
+","0-0 1-5 2-5 3-7 4-6 4-8 4-9 5-12 6-11 6-13 7-14 7-15 8-1 8-3 8-4 9-2
+",5,"[('内', 5), ('阁', 6)]",0,"[('柜', 2)]",1,0,1,0
+"The exclusion clauses of the Convention relating to the Status of Refugees are irrelevant for cases in which there is a danger of exposing an individual to torture upon return.
+",The exclusion clauses of the Convention relating to the Status of Refugees are irrelevant for cases in which there is a danger of exposing an individual to torture upon return . ,"The exclusion clauses of the Convention relating to the Status of Refugees are irrelevant for cases in which there is a danger of exposing individuals to torture upon return.
+",The exclusion clauses of the Convention relating to the Status of Refugees are irrelevant for cases in which there is a danger of exposing individuals to torture upon return . ,singular,['individual '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,25-24,26-25,27-26,28-27,29-28,30-29,31-30","对于个人被遣返后面临酷刑风险的情况，《1951年难民公约》的除外条款并不适用。
+",case-15,UNv1,"《关于难民地位的公约》的排除条款与个人返回后有遭受酷刑危险的案件无关。
+","《关于难民地位的公约》的排除条款与个人返回后有遭受酷刑的危险的情况无关。
+",《 关 于 难 民 地 位 的 公 约 》 的 排 除 条 款 与 个 人 返 回 后 有 遭 受 酷 刑 危 险 的 案 件 无 关 。,《 关 于 难 民 地 位 的 公 约 》 的 排 除 条 款 与 个 人 返 回 后 有 遭 受 酷 刑 的 危 险 的 情 况 无 关 。,"1-12 1-13 2-14 2-15 5-0 5-8 5-9 5-10 6-1 9-5 9-6 11-3 11-4 12-18 13-32 15-30 15-31 16-16 18-22 21-27 21-28 22-29 23-28 25-17 27-24 27-25 27-26 28-21 28-23 29-19 29-20
+","1-12 1-13 2-14 2-15 5-0 5-8 5-9 5-10 6-1 9-5 9-6 11-3 11-4 12-18 13-33 15-32 18-22 21-28 21-29 22-27 24-17 26-24 26-25 26-26 27-21 27-23 28-19 28-20
+",14,"[('案', 30), ('件', 31)]",11,"[('况', 32)]",1,0,1,11
+"The case in point concerns a letter signed by 1,200 non-Roma individuals, entitled ""Objection against the Gypsies: Residents gathered signatures for their removal"".
+","The case in point concerns a letter signed by 1,200 non - Roma individuals , entitled "" Objection against the Gypsies : Residents gathered signatures for their removal "" . ","The case in point concerns letters signed by 1,200 non-Roma individuals, entitled ""Objection against the Gypsies: Residents gathered signatures for their removal"".
+","The case in point concerns letters signed by 1,200 non - Roma individuals , entitled "" Objection against the Gypsies : Residents gathered signatures for their removal "" . ",singular,['letter '],MUTATED,"0-0,1-1,2-2,3-3,4-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25,27-26,28-27,29-28,30-29","有关问题涉及：有1200名非罗姆人签名的信""共同反对吉普赛人：收集居民签名要求他们迁离""。
+",case-1,UNv1,"本案涉及1 200名非罗姆人签署的一封信，题为“反对吉卜赛人：居民为驱逐他们收集签名”。
+","这方面的例子涉及1，200名非罗姆人签署的题为“反对吉普赛人：居民收集签名要求驱逐吉普赛人的信件”。
+",本 案 涉 及 1 200 名 非 罗 姆 人 签 署 的 一 封 信 ， 题 为 “ 反 对 吉 卜 赛 人 ： 居 民 为 驱 逐 他 们 收 集 签 名 ” 。,这 方 面 的 例 子 涉 及 1 ， 200 名 非 罗 姆 人 签 署 的 题 为 “ 反 对 吉 普 赛 人 ： 居 民 收 集 签 名 要 求 驱 逐 吉 普 赛 人 的 信 件 ” 。,"0-0 1-1 2-2 3-18 4-2 4-3 5-14 6-15 6-16 7-11 7-12 8-12 9-4 9-5 10-20 11-20 12-20 13-23 13-24 13-25 14-21 14-22 16-31 16-32 17-28 17-29 18-35 18-36 19-37 19-38 20-30 21-33 21-34 22-39 22-40
+","0-0 1-4 1-5 2-6 4-6 4-7 5-44 6-16 6-17 7-17 8-10 9-21 10-21 11-21 12-24 12-26 13-22 13-23 14-1 15-37 15-38 16-29 16-30 17-31 17-32 18-33 18-34 19-36 20-43 21-46 21-47
+",14,"[('案', 1)]",11,"[('例', 4), ('子', 5)]",1,1,0,14
+"Young people came out in drills to lend a hand.
+",Young people came out in drills to lend a hand . ,"Young people came out in drills to lend hands.
+",Young people came out in drills to lend hands . ,singular,['hand'],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,9-8,10-9,11-10","年轻人纷纷伸出援手.
+",drill-5,cwmt,"年轻人出来钻头伸出援手。
+","年轻人在演习中出来伸出援手。
+",年 轻 人 出 来 钻 头 伸 出 援 手 。,年 轻 人 在 演 习 中 出 来 伸 出 援 手 。,"0-0 0-1 1-2 2-4 3-3 4-5 5-5 6-8 7-7 7-9 8-10 9-10 9-11
+","0-0 0-1 1-2 2-8 3-7 4-3 4-6 5-4 5-5 6-10 7-9 7-11 8-12 8-13
+",1,"[('钻', 5)]",3,"[('演', 4), ('习', 5)]",1,1,0,1
+"I can think of many cases where students obviously knew a lot of English words and expressions but couldn't write a good essay.
+",I can think of many cases where students obviously knew a lot of English words and expressions but could n't write a good essay . ,"I can think of many cases where students obviously knew lots of English words and expressions but couldn't write a good essay.
+",I can think of many cases where students obviously knew lots of English words and expressions but could n't write a good essay . ,singular,['lot '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24","天蝎座:本周很受欢迎,赶紧去和其他单身者聚会吧.
+",case-5,cwmt,"我能想到很多学生明明知道很多英语单词和表达方式，但写不出一篇好文章的情况。
+","我能想到很多案例，学生明明知道很多英语单词和表达方式，却写不出一篇好文章。
+",我 能 想 到 很 多 学 生 明 明 知 道 很 多 英 语 单 词 和 表 达 方 式 ， 但 写 不 出 一 篇 好 文 章 的 情 况 。,我 能 想 到 很 多 案 例 ， 学 生 明 明 知 道 很 多 英 语 单 词 和 表 达 方 式 ， 却 写 不 出 一 篇 好 文 章 。,"0-0 1-1 2-2 3-5 4-5 5-35 6-21 7-6 7-7 8-8 8-9 9-10 9-11 11-4 12-33 13-14 13-15 14-16 14-17 15-18 16-19 16-20 17-24 18-26 19-25 19-29 20-28 21-30 22-31 22-32
+","0-0 1-1 2-2 3-5 4-5 5-6 5-7 6-24 7-9 7-10 8-11 8-12 9-13 9-14 10-15 10-16 11-16 12-17 12-18 13-19 13-20 14-21 15-22 15-23 16-27 17-29 18-28 18-32 19-31 20-33 21-34 21-35 21-36
+",11,"[('况', 35)]",14,"[('案', 6), ('例', 7)]",1,1,0,11
+"industrial hood incorporating a fan with maximum horizontal side not exceeding 120cm
+",industrial hood incorporating a fan with maximum horizontal side not exceeding 120 cm ,"Industrial hood incorporating fans with maximum horizontal side not exceeding 120cm
+",Industrial hood incorporating fans with maximum horizontal side not exceeding 120 cm ,singular,['fan '],MUTATED,"0-0,1-1,2-2,4-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12","工业用排气罩,装有风扇,最大水平面不超过120cm
+",hood-1,um,"工业抽油烟机，内置最大水平边不超过120cm的风扇
+","工业罩，最大水平边不超过120cm的风扇
+",工 业 抽 油 烟 机 ， 内 置 最 大 水 平 边 不 超 过 120cm 的 风 扇,工 业 罩 ， 最 大 水 平 边 不 超 过 120cm 的 风 扇,"0-0 0-1 1-3 1-4 1-5 2-5 2-6 2-7 3-5 4-20 5-8 6-9 6-10 7-8 7-11 7-12 8-13 9-14 10-15 10-16 11-17
+","0-0 0-1 1-2 2-2 2-3 3-15 4-6 5-4 5-5 6-6 6-7 7-8 8-9 9-10 9-11 10-12
+",7,"[('油', 3), ('烟', 4), ('机', 5)]",1,"[('罩', 2)]",1,1,0,7
+"Take out a piece of A in A letters along the diagonal nail row, by a concave-convex feeling.
+","Take out a piece of A in A letters along the diagonal nail row , by a concave - convex feeling . ","Take out pieces of A in A letters along the diagonal nail row, by a concave-convex feeling.
+","Take out pieces of A in A letters along the diagonal nail row , by a concave - convex feeling . ",singular,['piece '],MUTATED,"0-0,1-1,3-2,4-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21","拿出一张A在A的字母上顺着斜线用指甲一划，就由凹凸感了。
+",nail-12,cwmt,"取出一块A字在A字母沿对角线钉排，由凹凸的感觉。
+","沿着对角指甲行取出A字母中的A片段，通过凹凸的感觉。
+",取 出 一 块 A 字 在 A 字 母 沿 对 角 线 钉 排 ， 由 凹 凸 的 感 觉 。,沿 着 对 角 指 甲 行 取 出 A 字 母 中 的 A 片 段 ， 通 过 凹 凸 的 感 觉 。,"0-0 1-1 2-2 3-3 4-3 5-4 5-7 6-6 7-7 8-8 8-9 9-10 10-13 11-11 11-12 12-14 13-15 13-16 13-18 14-17 15-18 16-19 17-19
+","0-7 1-8 2-15 2-16 3-13 5-12 6-9 7-10 7-11 8-6 10-0 10-1 10-2 10-3 11-4 11-5 12-17 13-18 13-19 14-20 15-21 16-21
+",2,"[('钉', 14)]",1,"[('指', 4), ('甲', 5)]",1,0,1,1
+"One subject made up a game of listing, according to the alphabet, each chemical reaction that bore the name of the discoverer.
+","One subject made up a game of listing , according to the alphabet , each chemical reaction that bore the name of the discoverer . ","One subject made up games of listing, according to the alphabet, each chemical reaction that bore the name of the discoverer.
+","One subject made up games of listing , according to the alphabet , each chemical reaction that bore the name of the discoverer . ",singular,['game '],MUTATED,"0-0,1-1,2-2,3-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24","宁愿生活在实实在在的地球上，也不要向往虚无缥缈的天堂。
+",subject-1,cwmt,"根据字母表，一个受试者组成了一个列表游戏，每个化学反应都以发现者的名字命名。
+","根据字母表，一个主题组成了列表游戏，每个化学反应都以发现者的名字命名。
+",根 据 字 母 表 ， 一 个 受 试 者 组 成 了 一 个 列 表 游 戏 ， 每 个 化 学 反 应 都 以 发 现 者 的 名 字 命 名 。,根 据 字 母 表 ， 一 个 主 题 组 成 了 列 表 游 戏 ， 每 个 化 学 反 应 都 以 发 现 者 的 名 字 命 名 。,"0-6 1-8 1-9 1-10 2-12 2-13 3-6 4-7 5-18 5-19 6-11 7-16 8-0 8-1 11-4 12-21 13-23 13-24 14-25 14-26 15-28 16-29 18-33 18-34 19-32 20-31 21-35
+","0-6 1-8 1-9 2-11 2-12 4-15 4-16 5-10 6-13 7-0 7-1 10-19 11-18 12-20 12-21 13-22 13-23 14-25 16-26 17-30 17-31 18-29 19-28 20-32
+",6,"[('受', 8), ('试', 9), ('者', 10)]",0,"[('主', 8), ('题', 9)]",1,1,0,4
+"Fur caps and fluffy stoles with ribbon ties (luxurious in white) added a feeling of opulence.
+",Fur caps and fluffy stoles with ribbon ties ( luxurious in white ) added a feeling of opulence . ,"Fur caps and fluffy stoles with ribbon ties (luxurious in white) added feelings of opulence.
+",Fur caps and fluffy stoles with ribbon ties ( luxurious in white ) added feelings of opulence . ,singular,['feeling '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,15-14,16-15,17-16,18-17,19-18","皮帽和蓬松的有缎带的披肩[白色显得很奢华]则添加了富贵的感觉。
+",tie-7,cwmt,"毛皮帽和带蝴蝶结的蓬松披肩（豪华的白色）增添了一种富裕的感觉。
+","毛皮帽和蓬松的披肩搭配丝带（白色奢华），增添了奢华感。
+",毛 皮 帽 和 带 蝴 蝶 结 的 蓬 松 披 肩 （ 豪 华 的 白 色 ） 增 添 了 一 种 富 裕 的 感 觉 。,毛 皮 帽 和 蓬 松 的 披 肩 搭 配 丝 带 （ 白 色 奢 华 ） ， 增 添 了 奢 华 感 。,"0-0 0-1 1-2 2-3 3-9 3-10 4-9 4-11 4-12 5-3 6-4 6-5 6-6 7-6 7-7 8-15 9-20 10-19 10-20 10-21 11-21 11-22 12-23 13-24 13-28 13-29 14-24 14-25 14-27 15-26
+","0-0 0-1 1-2 2-3 3-4 3-5 4-7 4-8 5-9 5-10 6-11 6-12 7-12 8-13 8-14 8-15 9-20 10-16 11-22 12-25 13-6 14-26
+",3,"[('蝶', 6), ('结', 7)]",5,"[('带', 12)]",1,0,1,5
+"Chips was rent between the impulse to laugh wildly and a bitterness that threatened hot tears.
+",Chips was rent between the impulse to laugh wildly and a bitterness that threatened hot tears . ,"Chips was rent between the impulse to laugh wildly and bitternesses that threatened hot tears.
+",Chips was rent between the impulse to laugh wildly and bitternesses that threatened hot tears . ,singular,['bitterness '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16","钱在使人狂笑的冲动和预示热泪盈眶的苦涩之间被撕得粉碎。
+",chip-0,cwmt,"薯条是在疯狂大笑的冲动和威胁着热泪的痛苦之间租用的。
+","筹码在狂笑的冲动和威胁热泪的苦涩之间徘徊。
+",薯 条 是 在 疯 狂 大 笑 的 冲 动 和 威 胁 着 热 泪 的 痛 苦 之 间 租 用 的 。,筹 码 在 狂 笑 的 冲 动 和 威 胁 热 泪 的 苦 涩 之 间 徘 徊 。,"0-0 0-1 1-2 1-3 2-22 3-21 4-8 5-9 5-10 6-11 7-6 7-7 8-4 8-5 9-11 10-17 11-18 11-19 12-20 13-12 13-13 14-15 15-16
+","0-0 0-1 1-2 3-17 4-5 5-6 5-7 6-8 7-4 8-3 9-8 10-14 10-15 11-16 12-9 12-10 13-11 14-12
+",2,"[('薯', 0), ('条', 1)]",1,"[('筹', 0), ('码', 1)]",1,0,1,1
+"The case in point concerns a letter signed by 1,200 non-Roma individuals, entitled ""Objection against the Gypsies: Residents gathered signatures for their removal"".
+","The case in point concerns a letter signed by 1,200 non - Roma individuals , entitled "" Objection against the Gypsies : Residents gathered signatures for their removal "" . ","The case in point concerns letters signed by 1,200 non-Roma individuals, entitled ""Objection against the Gypsies: Residents gathered signatures for their removal"".
+","The case in point concerns letters signed by 1,200 non - Roma individuals , entitled "" Objection against the Gypsies : Residents gathered signatures for their removal "" . ",singular,['letter '],MUTATED,"0-0,1-1,2-2,3-3,4-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25,27-26,28-27,29-28,30-29","有关问题涉及：有1200名非罗姆人签名的信""共同反对吉普赛人：收集居民签名要求他们迁离""。
+",case-1,UNv1,"本案涉及1 200名非罗姆人签署的一封信，题为“反对吉卜赛人：居民为驱逐他们收集签名”。
+","这方面的例子涉及1，200名非罗姆人签署的题为“反对吉普赛人：居民收集签名要求驱逐吉普赛人的信件”。
+",本 案 涉 及 1 200 名 非 罗 姆 人 签 署 的 一 封 信 ， 题 为 “ 反 对 吉 卜 赛 人 ： 居 民 为 驱 逐 他 们 收 集 签 名 ” 。,这 方 面 的 例 子 涉 及 1 ， 200 名 非 罗 姆 人 签 署 的 题 为 “ 反 对 吉 普 赛 人 ： 居 民 收 集 签 名 要 求 驱 逐 吉 普 赛 人 的 信 件 ” 。,"0-0 1-1 2-2 3-18 4-2 4-3 5-14 6-15 6-16 7-11 7-12 8-12 9-4 9-5 10-20 11-20 12-20 13-23 13-24 13-25 14-21 14-22 16-31 16-32 17-28 17-29 18-35 18-36 19-37 19-38 20-30 21-33 21-34 22-39 22-40
+","0-0 1-4 1-5 2-6 4-6 4-7 5-44 6-16 6-17 7-17 8-10 9-21 10-21 11-21 12-24 12-26 13-22 13-23 14-1 15-37 15-38 16-29 16-30 17-31 17-32 18-33 18-34 19-36 20-43 21-46 21-47
+",14,"[('案', 1)]",11,"[('例', 4), ('子', 5)]",1,1,0,14
+"The subject of interrogation concerned a murder at Mr. Namithanje's workplace.
+",The subject of interrogation concerned a murder at Mr. Namithanje 's workplace . ,"The subject of interrogation concerned murders at Mr. Namithanje's workplace.
+",The subject of interrogation concerned murders at Mr. Namithanje 's workplace . ,singular,['murder '],MUTATED,"0-0,1-1,2-2,3-3,4-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12","讯问主题涉及Namithanje先生工作场所的一宗谋杀案。
+",subject-1,UNv1,"审讯对象涉及纳米森杰先生工作场所的一起谋杀案。
+","审讯的主题涉及Namithanje先生工作场所的谋杀案。
+",审 讯 对 象 涉 及 纳 米 森 杰 先 生 工 作 场 所 的 一 起 谋 杀 案 。,审 讯 的 主 题 涉 及 Namithanje 先 生 工 作 场 所 的 谋 杀 案 。,"0-6 1-2 1-3 2-13 3-0 3-1 4-4 4-5 5-17 6-18 6-19 6-20 7-12 8-7 8-8 8-9 8-10 8-11 9-21 10-14
+","1-3 1-4 2-2 3-0 3-1 3-7 4-5 4-6 5-15 5-16 6-10 7-8 7-9 8-17 9-12
+",4,"[('对', 2), ('象', 3)]",0,"[('主', 3), ('题', 4)]",1,0,1,0
+"The paper does a summary of the twelve elements of business English letter. At the same time , it explains the writing principles of each part.
+","The paper does a summary of the twelve elements of business English letter . At the same time , it explains the writing principles of each part . ","The paper does summaries of the twelve elements of business English letter. At the same time , it explains the writing principles of each part.
+","The paper does summaries of the twelve elements of business English letter . At the same time , it explains the writing principles of each part . ",singular,['summary '],MUTATED,"0-0,1-1,2-2,4-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25,27-26,28-27","崔迪太太阴恻恻地说，「出来就是派。」
+",letter-12,cwmt,"本文总结了商务英语字母的十二个要素。同时，它解释了每个部分的写作原则。
+","本文总结了商务英语信件的十二个要素。同时，它解释了每个部分的写作原则。
+",本 文 总 结 了 商 务 英 语 字 母 的 十 二 个 要 素 。 同 时 ， 它 解 释 了 每 个 部 分 的 写 作 原 则 。,本 文 总 结 了 商 务 英 语 信 件 的 十 二 个 要 素 。 同 时 ， 它 解 释 了 每 个 部 分 的 写 作 原 则 。,"0-0 1-1 2-2 3-14 4-3 4-15 7-12 7-13 8-16 9-11 10-5 10-6 11-7 11-8 12-10 13-19 14-18 15-18 16-19 17-20 18-21 19-22 19-23 20-27 21-30 21-31 22-32 22-33 23-29 24-25 25-34
+","0-0 1-1 2-2 3-3 6-12 6-13 6-14 7-16 8-11 9-5 9-6 10-7 10-8 11-9 12-19 13-18 14-18 15-19 16-20 17-21 18-22 18-23 19-27 20-30 20-31 21-32 21-33 22-29 23-25 24-34
+",2,"[('母', 10)]",0,"[('信', 9)]",1,0,1,0
+"Indeed, in most cases, an ex officio lawyer was appointed and was only present when the suspect was brought before the prosecutor to make a statement.
+","Indeed , in most cases , an ex officio lawyer was appointed and was only present when the suspect was brought before the prosecutor to make a statement . ","Indeed, in most cases, an ex officio lawyer was appointed and was only present when the suspect was brought before the prosecutor to make statements.
+","Indeed , in most cases , an ex officio lawyer was appointed and was only present when the suspect was brought before the prosecutor to make statements . ",singular,['statement'],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25,27-26,28-27,29-28","实际上，在多数案件中都是指定一位职务律师，他只是在嫌疑人被送交检察官作出陈述出时才出场。
+",case-4,UNv1,"事实上，在大多数情况下，都指定了一名依职权律师，只有在嫌疑人被带到检察官面前作证时才在场。
+","事实上，在多数案件中，指定了一名依职权律师，只有在嫌疑人被带见检察官作证时才在场。
+",事 实 上 ， 在 大 多 数 情 况 下 ， 都 指 定 了 一 名 依 职 权 律 师 ， 只 有 在 嫌 疑 人 被 带 到 检 察 官 面 前 作 证 时 才 在 场 。,事 实 上 ， 在 多 数 案 件 中 ， 指 定 了 一 名 依 职 权 律 师 ， 只 有 在 嫌 疑 人 被 带 见 检 察 官 作 证 时 才 在 场 。,"0-0 0-1 0-2 0-3 1-4 2-5 2-6 2-7 3-8 3-9 3-10 4-9 5-18 6-18 6-19 6-20 7-21 7-22 9-13 9-14 12-24 12-25 14-40 15-26 16-27 16-28 16-29 17-30 18-31 19-37 20-34 21-33 21-35 22-32 23-38 23-39 24-43 25-44
+","0-0 0-1 0-2 0-3 1-4 2-5 2-6 3-7 3-8 4-8 5-16 6-16 6-17 6-18 7-19 7-20 9-11 9-12 12-22 12-23 13-39 14-36 15-24 16-25 16-26 16-27 17-28 18-29 19-37 20-32 21-31 21-33 23-34 23-35 24-40
+",11,"[('况', 9)]",14,"[('件', 8)]",1,0,1,14
+"China shall establish a mechanism under which individuals and enterprises can bring to the attention of the national authorities cases of non-uniform application of the trade regime.
+",China shall establish a mechanism under which individuals and enterprises can bring to the attention of the national authorities cases of non - uniform application of the trade regime . ,"China shall establish mechanisms under which individuals and enterprises can bring to the attention of the national authorities cases of non-uniform application of the trade regime.
+",China shall establish mechanisms under which individuals and enterprises can bring to the attention of the national authorities cases of non - uniform application of the trade regime . ,singular,['mechanism '],MUTATED,"0-0,1-1,2-2,4-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25,27-26,28-27,29-28,30-29","4．中国应建立一种机制，使个人和企业可据以提请国家主管机关注意贸易制度未统一适用的情况。
+",case-19,cwmt,"中国应建立一种机制，使个人和企业能够提请国家当局注意不统一适用贸易制度的案件。
+","中国应建立机制，使个人和企业能够提请国家当局注意贸易制度不统一适用的情况。
+",中 国 应 建 立 一 种 机 制 ， 使 个 人 和 企 业 能 够 提 请 国 家 当 局 注 意 不 统 一 适 用 贸 易 制 度 的 案 件 。,中 国 应 建 立 机 制 ， 使 个 人 和 企 业 能 够 提 请 国 家 当 局 注 意 贸 易 制 度 不 统 一 适 用 的 情 况 。,"0-0 0-1 1-2 2-3 2-4 3-5 4-6 4-7 4-8 5-8 6-10 7-11 7-12 8-13 9-14 9-15 10-16 10-17 11-18 12-18 14-24 14-25 17-20 17-21 18-22 18-23 19-36 19-37 20-33 21-26 22-19 23-35 25-31 25-32 26-34
+","0-0 0-1 1-2 2-3 2-4 3-5 3-6 4-6 5-8 6-9 6-10 7-11 8-12 8-13 9-14 9-15 10-16 11-16 13-22 13-23 16-18 16-19 17-20 17-21 18-34 18-35 20-31 21-32 22-33 23-33 24-24 24-25 25-27
+",14,"[('案', 36), ('件', 37)]",11,"[('情', 34), ('况', 35)]",1,0,1,11
+"An exchange of letters forming part of the agreement took place on the same day.
+",An exchange of letters forming part of the agreement took place on the same day . ,"Exchanges of letters forming part of the agreement took place on the same day.
+",Exchanges of letters forming part of the agreement took place on the same day . ,singular,['exchange '],MUTATED,"1-0,2-1,3-2,4-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15","同一天还互换了作为《协定》一部分的照会。
+",letter-3,UNv1,"同一天进行了作为协议一部分的换文。
+","同一天，双方交换了构成协议一部分的信件。
+",同 一 天 进 行 了 作 为 协 议 一 部 分 的 换 文 。,同 一 天 ， 双 方 交 换 了 构 成 协 议 一 部 分 的 信 件 。,"0-1 1-14 3-15 5-11 5-12 6-11 6-13 7-9 8-8 9-5 11-3 13-0 14-16
+","0-6 0-7 1-1 2-17 2-18 3-9 3-10 4-14 4-15 5-16 7-11 7-12 8-8 9-5 10-13 11-14 12-13 13-19
+",2,"[('文', 15)]",0,"[('信', 17), ('件', 18)]",1,0,0,0
+"From an official point of view there does not seem to have been a case where a woman has been unable on account of her sex to represent her country abroad or work in international organizations.
+",From an official point of view there does not seem to have been a case where a woman has been unable on account of her sex to represent her country abroad or work in international organizations . ,"From an official point of view there does not seem to have been a case where women have been unable on account of her sex to represent her country abroad or work in international organizations.
+",From an official point of view there does not seem to have been a case where women have been unable on account of her sex to represent her country abroad or work in international organizations . ,singular,['woman '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25,27-26,28-27,29-28,30-29,31-30,32-31,33-32,34-33,35-34,36-35,37-36","从政府方面看，没有妇女因为其性别不能在国外代表国家或在国际组织工作的先例。
+",case-14,UNv1,"从官方观点来看，似乎没有一个妇女由于性别而无法在国外代表其国家或在国际组织工作的情况。
+","从官方观点来看，似乎没有一个案例表明妇女由于性别而无法在国外代表其国家或在国际组织工作。
+",从 官 方 观 点 来 看 ， 似 乎 没 有 一 个 妇 女 由 于 性 别 而 无 法 在 国 外 代 表 其 国 家 或 在 国 际 组 织 工 作 的 情 况 。,从 官 方 观 点 来 看 ， 似 乎 没 有 一 个 案 例 表 明 妇 女 由 于 性 别 而 无 法 在 国 外 代 表 其 国 家 或 在 国 际 组 织 工 作 。,"0-0 1-3 2-1 2-2 3-3 3-4 4-3 5-3 7-9 8-10 9-8 11-11 12-12 13-12 13-13 14-40 14-41 16-13 17-14 17-15 18-24 19-23 20-21 20-22 21-23 23-28 25-18 25-19 27-26 27-27 29-30 30-25 31-31 32-37 32-38 33-32 34-33 34-34 35-35 35-36
+","0-0 1-3 2-1 2-2 3-3 3-4 4-3 5-3 7-9 8-10 9-8 11-11 12-12 13-12 13-13 14-14 14-15 16-18 16-19 18-27 19-25 19-26 20-27 21-26 22-21 24-22 24-23 26-30 26-31 28-34 29-29 30-35 31-41 31-42 32-36 33-37 33-38 34-39 34-40
+",11,"[('情', 40), ('况', 41)]",14,"[('案', 14), ('例', 15)]",1,1,0,11
+"A defeated gladiator would lower his arms a sign of surrender.
+",A defeated gladiator would lower his arms a sign of surrender . ,"A defeated gladiator would lower his arms signs of surrender.
+",A defeated gladiator would lower his arms signs of surrender . ,singular,['sign '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,8-7,9-8,10-9,11-10,12-11","观众决定斗士的生死.败阵斗士垂下双臂表示投降.
+",arm-6,cwmt,"战败的角斗士会放下双臂，表示投降。
+","一个被击败的角斗士会放下他的武器表示投降。
+",战 败 的 角 斗 士 会 放 下 双 臂 ， 表 示 投 降 。,一 个 被 击 败 的 角 斗 士 会 放 下 他 的 武 器 表 示 投 降 。,"0-0 1-1 2-3 2-4 2-5 3-6 4-7 4-8 5-10 6-9 6-10 7-12 8-13 9-12 10-14 10-15 10-16
+","0-0 0-1 1-2 1-3 1-4 2-6 2-7 2-8 3-9 4-10 4-11 5-12 5-13 6-14 6-15 7-16 7-17 8-16 9-18 9-19 9-20
+",0,"[('双', 9), ('臂', 10)]",2,"[('武', 14), ('器', 15)]",1,1,0,0
+"In this case, the Working Group has requested a copy of the death certificate.
+","In this case , the Working Group has requested a copy of the death certificate . ","In this case, the Working Group has requested copies of the death certificate.
+","In this case , the Working Group has requested copies of the death certificate . ",singular,['copy '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15","关于此案，工作组要求看到死亡证书的复印件。
+",case-2,UNv1,"在本案中，工作组要求提供死亡证明的副本。
+","在这种情况下，工作组要求提供死亡证明的副本。
+",在 本 案 中 ， 工 作 组 要 求 提 供 死 亡 证 明 的 副 本 。,在 这 种 情 况 下 ， 工 作 组 要 求 提 供 死 亡 证 明 的 副 本 。,"0-0 1-1 2-2 2-4 3-3 4-5 4-6 5-7 6-7 7-8 7-9 7-10 7-11 8-10 9-17 9-18 10-16 11-16 12-12 12-13 13-14 13-15
+","0-0 1-1 2-2 2-3 2-4 2-5 2-6 3-5 4-7 4-8 5-9 6-9 7-10 7-11 7-12 7-13 8-19 8-20 9-18 10-18 11-14 11-15 12-16 12-17
+",14,"[('案', 2), ('，', 4)]",11,"[('种', 2), ('情', 3), ('况', 4), ('下', 5), ('，', 6)]",1,1,0,14
+"Given the difficulty in finding matches for Indians abroad, some matchmakers are now charging them more. Mr.
+","Given the difficulty in finding matches for Indians abroad , some matchmakers are now charging them more . Mr. ","Given the difficulty in finding matches for Indians abroad, a matchmaker is now charging them more. Mr.
+","Given the difficulty in finding matches for Indians abroad , a matchmaker is now charging them more . Mr. ",plural,['matchmakers '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19","那么黄金是在通胀时表现更好，还是在通缩时表现更好呢？
+",match-5,cwmt,"鉴于在国外为印度人寻找比赛的困难，一些媒人现在正在向他们收取更多费用。先生。
+","鉴于在国外为印度人寻找匹配的困难，媒人现在向他们收取更多费用。先生。
+",鉴 于 在 国 外 为 印 度 人 寻 找 比 赛 的 困 难 ， 一 些 媒 人 现 在 正 在 向 他 们 收 取 更 多 费 用 。 先 生 。,鉴 于 在 国 外 为 印 度 人 寻 找 匹 配 的 困 难 ， 媒 人 现 在 向 他 们 收 取 更 多 费 用 。 先 生 。,"0-0 0-1 2-14 2-15 3-2 4-9 4-10 5-11 5-12 6-5 7-6 7-7 8-3 8-4 8-16 9-17 9-18 10-19 10-20 11-24 12-21 12-22 12-24 13-23 13-25 13-28 13-29 14-26 14-27 15-30 15-31 15-34 15-37 16-35 16-36
+","0-0 0-1 2-14 2-15 3-2 4-9 4-10 5-11 5-12 6-5 7-6 7-7 7-8 8-3 8-4 10-17 11-20 12-19 13-21 13-24 13-25 14-22 14-23 15-26 15-27 15-30 15-33 16-31 16-32
+",2,"[('比', 11), ('赛', 12)]",4,"[('匹', 11), ('配', 12)]",1,0,1,4
+"I can think of many cases where students obviously knew a lot of English words and expressions but couldn't write a good essay.
+",I can think of many cases where students obviously knew a lot of English words and expressions but could n't write a good essay . ,"I can think of many cases where students obviously knew lots of English words and expressions but couldn't write a good essay.
+",I can think of many cases where students obviously knew lots of English words and expressions but could n't write a good essay . ,singular,['lot '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24","哦，亲爱的，这简直比从椅子上掉下来还要容易。
+",case-5,cwmt,"我能想到很多学生明明知道很多英语单词和表达方式，但写不出一篇好文章的情况。
+","我能想到很多案例，学生明明知道很多英语单词和表达方式，却写不出一篇好文章。
+",我 能 想 到 很 多 学 生 明 明 知 道 很 多 英 语 单 词 和 表 达 方 式 ， 但 写 不 出 一 篇 好 文 章 的 情 况 。,我 能 想 到 很 多 案 例 ， 学 生 明 明 知 道 很 多 英 语 单 词 和 表 达 方 式 ， 却 写 不 出 一 篇 好 文 章 。,"0-0 1-1 2-2 3-5 4-5 5-35 6-21 7-6 7-7 8-8 8-9 9-10 9-11 11-4 12-33 13-14 13-15 14-16 14-17 15-18 16-19 16-20 17-24 18-26 19-25 19-29 20-28 21-30 22-31 22-32
+","0-0 1-1 2-2 3-5 4-5 5-6 5-7 6-24 7-9 7-10 8-11 8-12 9-13 9-14 10-15 10-16 11-16 12-17 12-18 13-19 13-20 14-21 15-22 15-23 16-27 17-29 18-28 18-32 19-31 20-33 21-34 21-35 21-36
+",11,"[('况', 35)]",14,"[('案', 6), ('例', 7)]",1,1,0,11
+"I just got an answer about the stock we hxdye on hand.
+",I just got an answer about the stock we hxdye on hand . ,"I just got answers about the stock we hxdye on hand.
+",I just got answers about the stock we hxdye on hand . ,singular,['answer '],MUTATED,"0-0,1-1,2-2,4-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12","我刚刚接获通知我们现有库存量.
+",stock-7,cwmt,"我刚刚得到了关于我们手头上的股票的答案。
+","我刚刚得到了关于我们手头库存的答案。
+",我 刚 刚 得 到 了 关 于 我 们 手 头 上 的 股 票 的 答 案 。,我 刚 刚 得 到 了 关 于 我 们 手 头 库 存 的 答 案 。,"0-0 1-1 1-2 2-3 2-4 2-5 4-17 4-18 5-6 5-7 6-13 6-16 7-14 7-15 8-9 10-12 11-10 11-11 11-19
+","0-0 1-1 1-2 2-3 2-4 2-5 3-15 3-16 4-6 4-7 5-7 5-14 6-12 6-13 7-9 8-15 9-16 10-17
+",2,"[('股', 14), ('票', 15)]",7,"[('库', 12), ('存', 13)]",1,0,1,7
+"China shall establish a mechanism under which individuals and enterprises can bring to the attention of the national authorities cases of non-uniform application of the trade regime.
+",China shall establish a mechanism under which individuals and enterprises can bring to the attention of the national authorities cases of non - uniform application of the trade regime . ,"China shall establish mechanisms under which individuals and enterprises can bring to the attention of the national authorities cases of non-uniform application of the trade regime.
+",China shall establish mechanisms under which individuals and enterprises can bring to the attention of the national authorities cases of non - uniform application of the trade regime . ,singular,['mechanism '],MUTATED,"0-0,1-1,2-2,4-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25,27-26,28-27,29-28,30-29","4．中国应建立一种机制，使个人和企业可据以提请国家主管机关注意贸易制度未统一适用的情况。
+",case-19,cwmt,"中国应建立一种机制，使个人和企业能够提请国家当局注意不统一适用贸易制度的案件。
+","中国应建立机制，使个人和企业能够提请国家当局注意贸易制度不统一适用的情况。
+",中 国 应 建 立 一 种 机 制 ， 使 个 人 和 企 业 能 够 提 请 国 家 当 局 注 意 不 统 一 适 用 贸 易 制 度 的 案 件 。,中 国 应 建 立 机 制 ， 使 个 人 和 企 业 能 够 提 请 国 家 当 局 注 意 贸 易 制 度 不 统 一 适 用 的 情 况 。,"0-0 0-1 1-2 2-3 2-4 3-5 4-6 4-7 4-8 5-8 6-10 7-11 7-12 8-13 9-14 9-15 10-16 10-17 11-18 12-18 14-24 14-25 17-20 17-21 18-22 18-23 19-36 19-37 20-33 21-26 22-19 23-35 25-31 25-32 26-34
+","0-0 0-1 1-2 2-3 2-4 3-5 3-6 4-6 5-8 6-9 6-10 7-11 8-12 8-13 9-14 9-15 10-16 11-16 13-22 13-23 16-18 16-19 17-20 17-21 18-34 18-35 20-31 21-32 22-33 23-33 24-24 24-25 25-27
+",14,"[('案', 36), ('件', 37)]",11,"[('情', 34), ('况', 35)]",1,0,1,11
+"These two cases are connected, because it seems difficult to admit that a State could use countermeasures against an organization without at the same time admitting that the latter could do likewise.
+","These two cases are connected , because it seems difficult to admit that a State could use countermeasures against an organization without at the same time admitting that the latter could do likewise . ","These two cases are connected, because it seems difficult to admit that States could use countermeasures against an organization without at the same time admitting that the latter could do likewise.
+","These two cases are connected , because it seems difficult to admit that States could use countermeasures against an organization without at the same time admitting that the latter could do likewise . ",singular,['State '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25,27-26,28-27,29-28,30-29,31-30,32-31,33-32,34-33","这两种情况有关联，因为似乎很难允许一国对一国际组织采取反措施而不允许后者也可以这样做。
+",case-2,UNv1,"这两个案例是相互关联的，因为似乎很难承认一国可以对一个组织采取反措施，同时又不承认后者也可以这样做。
+","这两种情况是相互关联的，因为似乎很难承认国家可以对一个组织采取反措施，同时又不承认后者也可以这样做。
+",这 两 个 案 例 是 相 互 关 联 的 ， 因 为 似 乎 很 难 承 认 一 国 可 以 对 一 个 组 织 采 取 反 措 施 ， 同 时 又 不 承 认 后 者 也 可 以 这 样 做 。,这 两 种 情 况 是 相 互 关 联 的 ， 因 为 似 乎 很 难 承 认 国 家 可 以 对 一 个 组 织 采 取 反 措 施 ， 同 时 又 不 承 认 后 者 也 可 以 这 样 做 。,"0-0 1-1 1-2 2-3 2-4 3-5 4-6 4-7 4-8 4-9 5-12 5-13 7-14 7-15 8-16 8-17 9-18 10-18 10-19 11-19 12-20 13-21 14-22 14-23 15-23 16-31 16-32 16-33 17-31 18-26 19-27 19-28 20-38 21-36 22-35 23-35 24-36 25-40 27-42 28-41 28-42 29-44 29-45 30-48 31-47 31-49
+","0-0 1-1 2-3 2-4 3-5 4-6 4-7 4-8 4-9 5-12 5-13 7-14 7-15 8-16 8-17 9-18 10-18 10-19 11-19 12-20 12-21 13-22 13-23 14-23 15-31 15-32 15-33 16-31 17-26 18-27 18-28 19-38 20-36 21-35 22-35 23-36 24-40 26-42 27-41 27-42 28-44 28-45 29-48 30-47 30-49
+",14,"[('案', 3), ('例', 4)]",11,"[('情', 3), ('况', 4)]",1,0,1,11
+"He had prepared a map for his mine defense.
+",He had prepared a map for his mine defense . ,"He had prepared maps for his mine defense.
+",He had prepared maps for his mine defense . ,singular,['map '],MUTATED,"0-0,1-1,2-2,4-3,5-4,6-5,7-6,8-7,9-8,10-9","他已准备好一张布雷要图.
+",mine-7,cwmt,"他为他的矿山防御准备了一张地图。
+","他为他的地雷防御准备了地图。
+",他 为 他 的 矿 山 防 御 准 备 了 一 张 地 图 。,他 为 他 的 地 雷 防 御 准 备 了 地 图 。,"0-0 1-10 2-7 2-8 2-9 3-11 4-12 4-13 4-14 5-1 6-2 7-3 7-4 7-5 8-6
+","0-0 1-10 2-7 2-8 2-9 3-11 3-12 4-1 5-2 6-5 7-6
+",4,"[('的', 3), ('矿', 4), ('山', 5)]",2,"[('雷', 5)]",1,0,1,2
+"Many females return to a mini - cycle several times while weaning kittens.
+",Many females return to a mini - cycle several times while weaning kittens . ,"A female returns to a mini - cycle several times while weaning kittens.
+",A female returns to a mini - cycle several times while weaning kittens . ,plural,['females '],MUTATED,"1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14","一些母猫在给小猫断奶的时候会出现几次小的发情期.
+",cycle-7,cwmt,"许多雌性在断奶时会多次回到迷你自行车。
+","雌性在断奶小猫时多次返回迷你周期。
+",许 多 雌 性 在 断 奶 时 会 多 次 回 到 迷 你 自 行 车 。,雌 性 在 断 奶 小 猫 时 多 次 返 回 迷 你 周 期 。,"0-0 0-1 1-2 1-3 2-11 2-12 3-15 5-13 5-14 7-16 7-17 8-9 9-10 10-4 10-7 10-8 11-5 11-6 12-18
+","0-0 1-0 1-1 2-10 2-11 3-10 4-5 5-12 5-13 7-14 7-15 8-8 9-9 10-7 11-3 12-16
+",3,"[('行', 16), ('车', 17)]",2,"[('周', 14), ('期', 15)]",1,0,1,2
+"I photograph a work easy China photograph a big match top to acquire in the net 3 etc. prize.
+",I photograph a work easy China photograph a big match top to acquire in the net 3 etc . prize . ,"I photograph works easy China photograph a big match top to acquire in the net 3 etc. prize.
+",I photograph works easy China photograph a big match top to acquire in the net 3 etc . prize . ,singular,['work '],MUTATED,"0-0,1-1,3-2,4-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20","我的摄影作品在网易中国摄影大赛上获得3等奖。
+",match-9,um,"拍摄容易中国拍摄大火柴顶端的作品，在净3等奖获得。
+","我拍摄作品容易中国拍摄一个大的比赛顶部获得在净 3 等奖。
+",拍 摄 容 易 中 国 拍 摄 大 火 柴 顶 端 的 作 品 ， 在 净 3 等 奖 获 得 。,我 拍 摄 作 品 容 易 中 国 拍 摄 一 个 大 的 比 赛 顶 部 获 得 在 净 3 等 奖 。,"1-0 1-1 3-14 4-2 4-3 5-4 5-5 6-6 6-7 8-8 9-9 9-10 10-11 10-12 12-22 12-23 13-17 14-17 15-18 16-19 17-20 18-21
+","0-0 1-1 1-2 2-3 3-5 3-6 4-7 4-8 5-9 5-10 6-11 6-12 7-13 8-15 8-16 9-17 9-18 10-20 11-19 12-21 14-22 15-23 16-24 17-25 17-26
+",1,"[('火', 9), ('柴', 10)]",2,"[('比', 15), ('赛', 16)]",1,0,1,2
+"The azaleas create a pink the spring and blends well with the clear waterfall the area.
+",The azaleas create a pink the spring and blends well with the clear waterfall the area . ,"The azaleas create pinks the spring and blends well with the clear waterfall the area.
+",The azaleas create pinks the spring and blends well with the clear waterfall the area . ,singular,['pink '],MUTATED,"0-0,1-1,2-2,4-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16","然后，用流动的水漂洗干净。
+",spring-6,cwmt,"杜鹃花在泉水中营造出粉红色的景色，并与该地区清澈的瀑布融为一体。
+","杜鹃花使春天变成粉红色，并与该地区清澈的瀑布融为一体。
+",杜 鹃 花 在 泉 水 中 营 造 出 粉 红 色 的 景 色 ， 并 与 该 地 区 清 澈 的 瀑 布 融 为 一 体 。,杜 鹃 花 使 春 天 变 成 粉 红 色 ， 并 与 该 地 区 清 澈 的 瀑 布 融 为 一 体 。,"0-1 1-0 1-1 1-2 2-7 2-8 2-9 3-8 4-10 4-11 4-12 5-3 5-6 5-13 6-4 6-14 7-17 8-18 8-27 9-30 11-24 12-22 12-23 13-25 13-26 15-19 15-20 15-21
+","0-1 1-0 1-1 1-2 2-3 2-6 2-7 3-8 3-9 3-10 4-10 5-4 5-5 6-11 6-12 7-13 7-22 8-25 9-24 10-19 11-17 11-18 12-20 12-21 14-14 14-15 14-16
+",4,"[('泉', 4), ('景', 14)]",3,"[('春', 4), ('天', 5)]",1,1,0,4
+"The Emperor leapt to his feet and taking a lance from a stand of arms he threw it at me.
+",The Emperor leapt to his feet and taking a lance from a stand of arms he threw it at me . ,"The Emperor leapt to his feet and taking lances from a stand of arms he threw it at me.
+",The Emperor leapt to his feet and taking lances from a stand of arms he threw it at me . ,singular,['lance '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20","在工程上也是用多个循环的转速波动通过标定来确定失火诊断的故障阈值。
+",arm-14,cwmt,"皇帝跳起来，从一个手臂上拿起一把长矛，他把它扔向我。
+","皇帝跳起来，从武器架上拿起长矛向我扔来。
+",皇 帝 跳 起 来 ， 从 一 个 手 臂 上 拿 起 一 把 长 矛 ， 他 把 它 扔 向 我 。,皇 帝 跳 起 来 ， 从 武 器 架 上 拿 起 长 矛 向 我 扔 来 。,"0-0 1-0 1-1 2-2 2-3 3-4 7-12 8-7 8-8 9-16 9-17 10-6 11-14 12-13 13-14 14-9 14-10 15-19 16-20 16-22 16-23 17-21 18-22 19-24 19-25
+","0-0 1-0 1-1 2-2 3-4 5-3 6-5 7-11 8-12 8-13 8-14 9-6 10-9 11-9 13-7 13-8 14-15 15-17 16-17 17-17 18-16 18-19
+",0,"[('手', 9), ('臂', 10)]",2,"[('武', 7), ('器', 8)]",1,0,1,2
+"In nine cases out of ten, I see instead a lookofboredom and discontent and an almost frantic longing forsomethingthat might tickle the jaded palate.
+","In nine cases out of ten , I see instead a lookofboredom and discontent and an almost frantic longing forsomethingthat might tickle the jaded palate . ","In nine cases out of ten, I see instead lookofboredoms and discontent and an almost frantic longing forsomethingthat might tickle the jaded palate.
+","In nine cases out of ten , I see instead lookofboredoms and discontent and an almost frantic longing forsomethingthat might tickle the jaded palate . ",singular,['lookofboredom '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25","相反，我看到十之八九的人却是满脸厌烦和不满，或者是极度的物欲渴望。
+",case-2,cwmt,"在十个案例中的九个案例中，我看到的是一种无聊的表情和不满，以及一种近乎疯狂的渴望，这些东西可能会挠痒痒疲惫的味觉。
+","在十分之九的情况下，我看到的反而是无聊和不满，以及对可能使疲惫的味蕾发痒的某种东西的近乎疯狂的渴望。
+",在 十 个 案 例 中 的 九 个 案 例 中 ， 我 看 到 的 是 一 种 无 聊 的 表 情 和 不 满 ， 以 及 一 种 近 乎 疯 狂 的 渴 望 ， 这 些 东 西 可 能 会 挠 痒 痒 疲 惫 的 味 觉 。,在 十 分 之 九 的 情 况 下 ， 我 看 到 的 反 而 是 无 聊 和 不 满 ， 以 及 对 可 能 使 疲 惫 的 味 蕾 发 痒 的 某 种 东 西 的 近 乎 疯 狂 的 渴 望 。,"0-0 1-7 2-9 2-10 4-11 5-12 6-13 7-14 7-15 8-17 9-18 10-19 11-25 12-26 12-27 13-30 14-2 15-34 16-35 16-36 17-38 17-39 18-43 18-44 19-45 19-46 19-47 20-48 20-49 20-50 21-53 22-51 22-52 23-50
+","0-0 1-4 2-6 2-7 2-8 3-8 4-3 5-9 6-10 7-11 7-12 8-14 8-15 8-16 9-13 10-19 11-20 11-21 12-24 13-28 14-43 15-44 15-45 16-47 16-48 17-32 18-26 18-27 19-35 20-46 21-29 21-30 22-42
+",14,"[('案', 9), ('例', 10)]",11,"[('情', 6), ('况', 7), ('下', 8)]",1,0,1,11
+"Lantos said that "" covering up such a despicable practice when Congress seeks an explanation is a serious offense. ""
+","Lantos said that "" covering up such a despicable practice when Congress seeks an explanation is a serious offense . "" ","Lantos said that "" covering up such a despicable practice when Congress seeks explanations is a serious offense. ""
+","Lantos said that "" covering up such a despicable practice when Congress seeks explanations is a serious offense . "" ",singular,['explanation '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20","兰托斯说，“掩盖这种卑劣做法时，美国国会要求解释，是一个严重的进攻”
+",offense-18,cwmt,"兰托斯说：“当国会寻求解释时，掩盖这种卑鄙的做法是一种严重的罪行。
+","兰托斯说，“当国会寻求解释时，掩盖这种卑鄙的做法是一种严重的冒犯。
+",兰 托 斯 说 ： “ 当 国 会 寻 求 解 释 时 ， 掩 盖 这 种 卑 鄙 的 做 法 是 一 种 严 重 的 罪 行 。,兰 托 斯 说 ， “ 当 国 会 寻 求 解 释 时 ， 掩 盖 这 种 卑 鄙 的 做 法 是 一 种 严 重 的 冒 犯 。,"0-0 0-1 0-2 1-3 2-3 3-4 4-15 4-16 5-15 6-17 6-18 7-18 8-19 8-20 9-22 9-23 10-6 10-13 11-7 11-8 12-9 12-10 14-11 14-12 15-24 16-25 17-27 17-28 17-29 18-30 18-31 18-32
+","0-0 0-1 0-2 1-3 2-3 3-5 4-15 4-16 5-15 6-17 6-18 7-18 8-19 8-20 9-22 9-23 10-6 10-13 11-7 11-8 12-9 12-10 13-11 13-12 14-24 15-25 16-27 16-28 16-29 17-30 17-31 17-32
+",3,"[('罪', 30), ('行', 31), ('。', 32)]",1,"[('冒', 30), ('犯', 31), ('。', 32)]",1,0,0,0
+"Horse riding nail a book bound in a way action such as a horse.
+",Horse riding nail a book bound in a way action such as a horse . ,"Horse riding nail books bound in a way action such as a horse.
+",Horse riding nail books bound in a way action such as a horse . ,singular,['book '],MUTATED,"0-0,1-1,2-2,4-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14","骑马钉:册不梢装订的一种办法,动息如跨上马背.
+",nail-2,cwmt,"骑马钉一本书装订在像马这样的方式动作。
+","骑马指甲书装订在马等方式动作。
+",骑 马 钉 一 本 书 装 订 在 像 马 这 样 的 方 式 动 作 。,骑 马 指 甲 书 装 订 在 马 等 方 式 动 作 。,"0-1 1-0 2-2 3-3 4-4 4-5 5-6 5-7 6-8 7-9 8-14 8-15 9-16 9-17 10-11 10-12 13-18
+","0-1 1-0 2-2 2-3 3-4 4-5 4-6 5-7 6-6 7-10 7-11 8-12 8-13 9-11 12-14
+",2,"[('钉', 2)]",1,"[('指', 2), ('甲', 3)]",1,1,0,2
+"In several cases, it has allocated a sum of money as compensation for non-pecuniary damages resulting from an unlawful expulsion.
+","In several cases , it has allocated a sum of money as compensation for non - pecuniary damages resulting from an unlawful expulsion . ","In several cases, it has allocated sums of money as compensation for non-pecuniary damages resulting from an unlawful expulsion.
+","In several cases , it has allocated sums of money as compensation for non - pecuniary damages resulting from an unlawful expulsion . ",singular,['sum '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23","该法院在多个案件中裁定为非法驱逐导致的精神损害提供现金赔偿。
+",case-2,UNv1,"在一些情况下，它拨出一笔钱，作为对非法驱逐造成的非金钱损失的赔偿。
+","在若干案件中，它拨出一笔款项作为对非法驱逐造成的非金钱损失的补偿。
+",在 一 些 情 况 下 ， 它 拨 出 一 笔 钱 ， 作 为 对 非 法 驱 逐 造 成 的 非 金 钱 损 失 的 赔 偿 。,在 若 干 案 件 中 ， 它 拨 出 一 笔 款 项 作 为 对 非 法 驱 逐 造 成 的 非 金 钱 损 失 的 补 偿 。,"0-0 1-2 2-3 2-4 2-5 2-6 3-7 4-7 5-8 6-10 7-11 8-23 9-12 10-14 11-30 11-31 12-15 12-16 13-17 14-27 14-28 15-27 16-9 17-22 18-18 19-19 19-20
+","0-0 1-1 1-2 2-3 2-4 2-6 3-7 5-8 6-11 6-12 6-13 7-13 8-26 9-14 10-30 10-31 11-15 11-16 12-17 13-27 13-28 14-21 14-22 15-20 16-10 17-18 18-19 18-20
+",11,"[('情', 3), ('况', 4), ('下', 5), ('，', 6)]",14,"[('案', 3), ('件', 4), ('，', 6)]",1,0,1,14
+"One clear case appears to be that of a claim in respect of the treatment of an individual by an international organization while administering a territory.
+",One clear case appears to be that of a claim in respect of the treatment of an individual by an international organization while administering a territory . ,"One clear case appears to be that of a claim in respect of the treatment of an individual by an international organization while administering territories.
+",One clear case appears to be that of a claim in respect of the treatment of an individual by an international organization while administering territories . ,singular,['territory'],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,25-24,26-25,27-26","看来一种明确的情况是，关于一个国际组织在管理一个领土时个人待遇方面的要求。
+",case-2,UNv1,"一个明显的案例似乎是国际组织在管理领土时对个人待遇的索赔。
+","一个明显的例子似乎是，一个国际组织在管理领土时对个人的待遇提出索赔。
+",一 个 明 显 的 案 例 似 乎 是 国 际 组 织 在 管 理 领 土 时 对 个 人 待 遇 的 索 赔 。,一 个 明 显 的 例 子 似 乎 是 ， 一 个 国 际 组 织 在 管 理 领 土 时 对 个 人 的 待 遇 提 出 索 赔 。,"0-0 1-2 2-5 2-6 3-7 3-8 4-7 5-7 6-7 7-4 8-9 9-26 9-27 10-14 11-20 14-23 14-24 15-25 16-21 17-21 17-22 20-10 20-11 21-12 21-13 22-19 23-15 23-16 25-17
+","0-0 1-2 2-5 2-6 3-7 3-8 4-7 5-7 6-9 7-4 8-12 9-31 9-32 10-17 11-23 13-20 14-27 14-28 15-26 16-24 17-24 17-25 20-13 20-14 21-15 21-16 22-22 23-18 23-19 23-21 24-21
+",14,"[('案', 5), ('例', 6)]",11,"[('例', 5), ('子', 6)]",1,1,0,14
+"Half a cigarette should give us two or three minutes to get the frak out of there Any longer and we risk them finding the charges before they go off.
+",Half a cigarette should give us two or three minutes to get the frak out of there Any longer and we risk them finding the charges before they go off . ,"Half cigarettes should give us two or three minutes to get the frak out of there Any longer and we risk them finding the charges before they go off.
+",Half cigarettes should give us two or three minutes to get the frak out of there Any longer and we risk them finding the charges before they go off . ,singular,['cigarette '],MUTATED,"0-0,2-1,3-2,4-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25,27-26,28-27,29-28,30-29,31-30","半根烟有两三分钟的时间，够我们离开这里了如果时间久了，他们可能会在爆炸前发现引爆器。
+",charge-25,cwmt,"半支香烟应该给我们两到三分钟的时间让frag离开那里 再长一点，我们就冒着在他们熄灭之前找到收费的风险。
+","半支香烟应该给我们两三分钟的时间让Frak离开那里 再有一段时间，我们冒着在他们熄灭之前找到指控的风险。
+",半 支 香 烟 应 该 给 我 们 两 到 三 分 钟 的 时 间 让 frag 离 开 那 里 再 长 一 点 ， 我 们 就 冒 着 在 他 们 熄 灭 之 前 找 到 收 费 的 风 险 。,半 支 香 烟 应 该 给 我 们 两 三 分 钟 的 时 间 让 Frak 离 开 那 里 再 有 一 段 时 间 ， 我 们 冒 着 在 他 们 熄 灭 之 前 找 到 指 控 的 风 险 。,"0-0 1-1 2-2 2-3 3-4 3-5 4-6 5-7 5-8 6-9 7-9 8-11 9-12 9-13 10-17 13-18 14-19 14-20 15-25 16-21 16-22 17-23 18-23 18-24 19-32 20-35 21-31 23-40 23-41 25-42 25-43 26-38 26-39 27-34 28-36 29-47
+","0-0 1-1 1-2 1-3 2-4 2-5 3-6 4-7 4-8 5-9 6-9 7-10 8-11 8-12 9-16 12-17 13-18 13-19 14-25 15-20 15-21 16-23 17-22 18-32 19-30 20-31 21-35 22-40 22-41 24-42 24-43 25-38 25-39 26-34 27-36 28-47
+",12,"[('收', 42), ('费', 43)]",6,"[('指', 42), ('控', 43)]",1,0,0,4
+"I think they might find a way to make it work in your case.
+",I think they might find a way to make it work in your case . ,"I think they might find waies to make it work in your case.
+",I think they might find waies to make it work in your case . ,singular,['way '],MUTATED,"0-0,1-1,2-2,3-3,4-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14","针对你的个案，说不定他们\xB7 想办法引渡
+",case-13,um,"我认为他们可能会找到一种方法让它在你的案例中发挥作用。
+","我认为他们可能会找到豁免来使其在您的情况下起作用。
+",我 认 为 他 们 可 能 会 找 到 一 种 方 法 让 它 在 你 的 案 例 中 发 挥 作 用 。,我 认 为 他 们 可 能 会 找 到 豁 免 来 使 其 在 您 的 情 况 下 起 作 用 。,"0-0 1-1 1-2 2-3 2-4 3-5 3-6 3-7 4-8 4-9 5-10 6-11 6-12 6-13 7-14 8-14 9-15 10-23 10-24 10-25 11-16 11-21 12-17 12-18 13-19 13-20
+","0-0 1-1 1-2 2-3 2-4 3-5 3-6 3-7 4-8 4-9 5-10 5-11 6-13 7-13 8-12 8-14 9-22 9-23 10-15 11-16 11-17 12-18 12-19
+",14,"[('案', 19), ('例', 20)]",11,"[('情', 18), ('况', 19)]",1,1,0,14
+"When they activated this drill, they struck an underground well they didn't know was there.
+","When they activated this drill , they struck an underground well they did n't know was there . ","When they activated this drill, they struck undergrounds well they didn't know was there.
+","When they activated this drill , they struck undergrounds well they did n't know was there . ",singular,['underground '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17","他们过去钻井的时候 钻到一个没有想到的地下井
+",drill-4,os18,"当他们启动这个钻头时，他们击中了一口他们不知道的井。
+","当他们启动这个演习时，他们袭击了他们不知道的地下。
+",当 他 们 启 动 这 个 钻 头 时 ， 他 们 击 中 了 一 口 他 们 不 知 道 的 井 。,当 他 们 启 动 这 个 演 习 时 ， 他 们 袭 击 了 他 们 不 知 道 的 地 下 。,"0-0 1-1 1-2 2-3 2-4 3-5 4-7 4-8 4-10 5-11 5-12 6-13 6-14 6-15 7-13 7-16 8-24 9-17 9-24 10-18 10-19 11-20 12-21 12-22 13-23 14-25
+","0-0 1-1 1-2 2-3 2-4 3-5 3-6 4-7 4-8 4-10 5-11 5-12 6-13 6-14 6-15 7-13 8-15 9-16 9-17 10-18 11-19 11-20 12-21 13-24
+",1,"[('钻', 7), ('头', 8), ('，', 10)]",3,"[('演', 7), ('习', 8), ('，', 10)]",1,1,0,1
+"500 years in the spirit realm, you pick up a thing or two.
+","500 years in the spirit realm , you pick up a thing or two . ","500 years in the spirit realm, you pick up things or two.
+","500 years in the spirit realm , you pick up things or two . ",singular,['thing '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,11-10,12-11,13-12,14-13,15-14","拻啃爛鍾賜腔党褻 祥岆啞褶腔
+",spirit-4,os18,"在精神领域500年，你拿起一两件东西。
+","在灵界500年，你捡到一两件东西。
+",在 精 神 领 域 500 年 ， 你 拿 起 一 两 件 东 西 。,在 灵 界 500 年 ， 你 捡 到 一 两 件 东 西 。,"0-5 1-6 2-4 3-4 4-1 4-2 6-8 7-9 8-10 9-11 10-13 10-14 10-15 11-12 12-12
+","0-3 1-4 2-0 3-2 4-1 5-5 5-7 6-6 7-7 8-7 9-11 9-12 9-13 10-10 11-9 11-10
+",3,"[('精', 1), ('神', 2)]",2,"[('灵', 1)]",1,1,0,3
+"The paper drew a distinction between access to planned and to unplanned bands and services.
+",The paper drew a distinction between access to planned and to unplanned bands and services . ,"The paper drew distinctions between access to planned and to unplanned bands and services.
+",The paper drew distinctions between access to planned and to unplanned bands and services . ,singular,['distinction '],MUTATED,"0-0,1-1,2-2,4-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15","文件对使用计划中的和尚未计划的波段和服务作了区分。
+",band-12,UNv1,"该文件区分了获得计划内和计划外乐队和服务的机会。
+","该文件区分了获得计划频段和计划外频段和服务的机会。
+",该 文 件 区 分 了 获 得 计 划 内 和 计 划 外 乐 队 和 服 务 的 机 会 。,该 文 件 区 分 了 获 得 计 划 频 段 和 计 划 外 频 段 和 服 务 的 机 会 。,"0-0 1-1 1-2 2-5 4-3 4-4 6-6 7-7 8-8 8-9 8-12 8-13 9-11 9-17 10-17 11-14 12-15 12-16 13-17 14-18 14-19
+","0-0 1-1 1-2 2-5 3-3 3-4 4-3 5-6 6-7 7-8 7-9 7-13 7-14 8-12 8-18 9-18 10-15 11-16 11-17 12-18 13-19 13-20
+",8,"[('乐', 15), ('队', 16)]",1,"[('频', 16), ('段', 17)]",1,0,1,1
+"Most of these terms entail a form of solidarity, which may encompass its North-South but also its South-South dimension.
+","Most of these terms entail a form of solidarity , which may encompass its North - South but also its South - South dimension . ","Most of these terms entail forms of solidarity, which may encompass its North-South but also its South-South dimension.
+","Most of these terms entail forms of solidarity , which may encompass its North - South but also its South - South dimension . ",singular,['form '],MUTATED,"0-0,1-1,2-2,3-3,4-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24","大多数术语都含有团结合作的形式，这可能包括南北合作，但也可能包括南南合作。
+",term-3,UNv1,"其中大多数术语都包含一种形式的团结，其中既包括南北层面，也包括南南层面。
+","其中大多数涉及各种形式的团结，其中可能包括南北层面，但也包括南南层面。
+",其 中 大 多 数 术 语 都 包 含 一 种 形 式 的 团 结 ， 其 中 既 包 括 南 北 层 面 ， 也 包 括 南 南 层 面 。,其 中 大 多 数 涉 及 各 种 形 式 的 团 结 ， 其 中 可 能 包 括 南 北 层 面 ， 但 也 包 括 南 南 层 面 。,"0-2 0-3 0-4 1-4 3-5 3-6 4-8 5-10 6-11 6-12 6-13 7-11 7-14 8-15 8-16 8-17 9-18 9-19 11-21 11-22 12-18 13-24 14-28 15-28 17-31 17-32 18-33 18-34 18-35
+","0-2 0-3 0-4 1-4 3-6 4-5 5-7 5-8 5-9 5-10 6-11 7-12 7-13 7-14 8-16 9-17 9-18 10-19 10-20 11-15 12-22 13-26 14-27 16-30 16-31 17-32 17-33 17-34
+",0,"[('术', 5), ('语', 6)]",3,"[('及', 6)]",1,1,0,0
+"It is an offense to drive a car at night without lights.
+",It is an offense to drive a car at night without lights . ,"It is an offense to drive cars at night without lights.
+",It is an offense to drive cars at night without lights . ,singular,['car '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12","夜晚行车不开灯是违章的。
+",offense-3,um,"在没有灯光的情况下在晚上驾驶汽车是一种冒犯。
+","在没有灯光的夜间驾驶汽车是一种违法行为。
+",在 没 有 灯 光 的 情 况 下 在 晚 上 驾 驶 汽 车 是 一 种 冒 犯 。,在 没 有 灯 光 的 夜 间 驾 驶 汽 车 是 一 种 违 法 行 为 。,"1-16 2-18 3-19 3-20 4-8 5-12 5-13 6-17 7-14 7-15 8-9 9-10 9-11 10-1 10-2 11-3
+","1-12 2-13 2-14 3-15 3-16 3-17 4-18 5-8 5-9 6-10 6-11 7-0 8-6 8-7 9-1 9-2 10-3
+",1,"[('冒', 19), ('犯', 20)]",3,"[('违', 15), ('法', 16), ('行', 17)]",1,0,1,3
+"In both cases, the arbitral tribunal rendered an award in favour of the third party (collectively, the ""Foreign Arbitral Awards"").
+","In both cases , the arbitral tribunal rendered an award in favour of the third party ( collectively , the "" Foreign Arbitral Awards "" ) . ","In both cases, the arbitral tribunal rendered awards in favour of the third party (collectively, the ""Foreign Arbitral Awards"").
+","In both cases , the arbitral tribunal rendered awards in favour of the third party ( collectively , the "" Foreign Arbitral Awards "" ) . ",singular,['award '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25,27-26","在两宗案件中，仲裁庭做出的裁决都判第三方胜诉（合称""外国仲裁裁决""）。
+",case-2,UNv1,"在这两起案件中，仲裁庭都作出了有利于第三方的裁决（统称为“外国仲裁裁决”）。
+","在这两种情况下，仲裁庭都作出了有利于第三方的裁决（统称为“外国仲裁裁决”）。
+",在 这 两 起 案 件 中 ， 仲 裁 庭 都 作 出 了 有 利 于 第 三 方 的 裁 决 （ 统 称 为 “ 外 国 仲 裁 裁 决 ” ） 。,在 这 两 种 情 况 下 ， 仲 裁 庭 都 作 出 了 有 利 于 第 三 方 的 裁 决 （ 统 称 为 “ 外 国 仲 裁 裁 决 ” ） 。,"0-0 1-2 1-3 2-4 2-5 2-7 3-6 4-8 5-8 5-10 6-9 7-8 8-22 9-17 10-16 11-21 13-18 13-19 14-20 15-25 16-30 17-32 17-33 17-34 18-33 18-35 19-33 19-36
+","0-0 1-2 2-3 2-4 2-5 2-6 2-7 3-9 4-8 5-8 5-10 6-9 7-9 8-17 9-22 10-21 11-22 12-18 12-19 13-20 14-25 15-30 16-32 16-33 16-34 17-33 17-35 18-33 18-36
+",14,"[('案', 4), ('件', 5), ('，', 7)]",11,"[('种', 3), ('情', 4), ('况', 5), ('下', 6), ('，', 7)]",1,1,0,11
+"The sack cushioned the line and he had found a way of leaning forward against the bow so that he was almost comfortable.
+",The sack cushioned the line and he had found a way of leaning forward against the bow so that he was almost comfortable . ,"The sack cushioned the line and he had found waies of leaning forward against the bow so that he was almost comfortable.
+",The sack cushioned the line and he had found waies of leaning forward against the bow so that he was almost comfortable . ,singular,['way '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23","有了袋子垫在鱼线下，再加上他找到了可以依靠着船头的方法，他几乎可说还过得蛮舒服的。
+",bow-16,cwmt,"麻袋缓冲了线条，他找到了一种向前靠在弓上的方法，这样他就几乎舒服了。
+","麻袋缓冲了绳索，他发现身体前倾靠在船头上，这样他几乎舒服了。
+",麻 袋 缓 冲 了 线 条 ， 他 找 到 了 一 种 向 前 靠 在 弓 上 的 方 法 ， 这 样 他 就 几 乎 舒 服 了 。,麻 袋 缓 冲 了 绳 索 ， 他 发 现 身 体 前 倾 靠 在 船 头 上 ， 这 样 他 几 乎 舒 服 了 。,"1-1 2-0 2-2 2-3 3-5 4-5 4-6 5-7 6-8 8-9 8-10 9-12 10-13 10-21 10-22 11-13 11-20 12-14 12-16 12-17 13-15 14-16 15-19 16-18 17-25 18-24 18-25 19-26 20-27 21-28 21-29 21-32 22-30 22-31 22-33
+","1-1 2-0 2-2 2-3 3-5 4-6 5-7 6-8 7-9 8-9 8-10 9-9 10-12 11-11 11-12 11-14 11-15 11-16 12-13 14-19 15-17 15-18 16-22 17-21 17-22 18-23 19-23 20-24 20-25 20-28 21-26 21-27 21-29
+",0,"[('弓', 18)]",5,"[('船', 17), ('头', 18)]",1,0,1,5
+"Without the basic stock, you don't have a stew.
+","Without the basic stock , you do n't have a stew . ","Without the basic stock, you don't have stews.
+","Without the basic stock , you do n't have stews . ",singular,['stew'],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,10-9,11-10,12-11","但是如果没有炖的汤底，它就不是一个炖肉
+",stock-3,os18,"没有基本汤，你就没有炖菜。
+","没有基本库存，你就没有炖菜。
+",没 有 基 本 汤 ， 你 就 没 有 炖 菜 。,没 有 基 本 库 存 ， 你 就 没 有 炖 菜 。,"0-0 0-1 1-2 2-2 2-3 3-4 3-5 4-6 5-8 6-9 7-9 8-10 8-11 8-12
+","0-0 0-1 1-2 2-2 2-3 3-4 3-5 3-6 4-7 5-9 6-10 7-11 7-12 7-13
+",12,"[('汤', 4), ('，', 5)]",7,"[('库', 4), ('存', 5), ('，', 6)]",1,1,0,12
+"The advisory opinion of the International Court of Justice legally confirmed that the independence of Kosovo remains a sui generis case that does not set a precedent for situations in other countries.
+",The advisory opinion of the International Court of Justice legally confirmed that the independence of Kosovo remains a sui generis case that does not set a precedent for situations in other countries . ,"The advisory opinion of the International Court of Justice legally confirmed that the independence of Kosovo remains a sui generis case that does not set precedents for situations in other countries.
+",The advisory opinion of the International Court of Justice legally confirmed that the independence of Kosovo remains a sui generis case that does not set precedents for situations in other countries . ,singular,['precedent '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,26-25,27-26,28-27,29-28,30-29,31-30,32-31,33-32","国际法院的咨询意见在法律上确认科索沃的独立仍然属于特殊案例，并不对其他国家的情况构成先例。
+",case-20,UNv1,"国际法院的咨询意见在法律上证实，科索沃的独立仍然是一个独特的案例，没有为其他国家的局势开创先例。
+","国际法院的咨询意见从法律上确认，科索沃独立仍然是一个独特的情况，不能为其他国家的局势开创先例。
+",国 际 法 院 的 咨 询 意 见 在 法 律 上 证 实 ， 科 索 沃 的 独 立 仍 然 是 一 个 独 特 的 案 例 ， 没 有 为 其 他 国 家 的 局 势 开 创 先 例 。,国 际 法 院 的 咨 询 意 见 从 法 律 上 确 认 ， 科 索 沃 独 立 仍 然 是 一 个 独 特 的 情 况 ， 不 能 为 其 他 国 家 的 局 势 开 创 先 例 。,"1-5 1-6 2-7 2-8 3-4 5-0 5-1 6-3 7-10 8-10 9-11 9-12 10-13 10-14 11-13 12-19 13-20 13-21 14-19 15-16 15-17 15-18 16-22 16-23 17-25 17-26 18-27 19-27 20-30 22-34 23-33 26-43 26-44 26-45 26-46 27-35 28-41 28-42 29-42 30-36 30-37 31-38 31-39
+","1-5 1-6 2-7 2-8 3-4 5-0 5-1 6-3 7-10 8-10 9-9 9-11 9-12 10-13 10-14 11-14 13-20 15-16 15-17 15-18 16-21 16-22 17-24 17-25 18-26 19-26 20-30 23-32 24-43 25-42 25-44 25-45 26-34 27-40 27-41 28-41 29-35 29-36 30-37 30-38
+",14,"[('案', 30)]",11,"[('况', 30)]",1,1,0,14
+"The Government had taken due note of the recommendation to establish an institution in line with the Paris Principles.
+",The Government had taken due note of the recommendation to establish an institution in line with the Paris Principles . ,"The Government had taken due note of the recommendation to establish institutions in line with the Paris Principles.
+",The Government had taken due note of the recommendation to establish institutions in line with the Paris Principles . ,singular,['institution '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19","政府充分注意到按照《巴黎原则》建立一机构的建议。
+",note-5,UNv1,"政府适当注意到关于根据《巴黎原则》设立一个机构的建议。
+","政府适当注意到关于建立符合《巴黎原则》的机构的建议。
+",政 府 适 当 注 意 到 关 于 根 据 《 巴 黎 原 则 》 设 立 一 个 机 构 的 建 议 。,政 府 适 当 注 意 到 关 于 建 立 符 合 《 巴 黎 原 则 》 的 机 构 的 建 议 。,"0-0 1-1 2-3 3-4 4-2 4-3 4-8 5-4 5-5 6-23 7-15 8-9 9-6 10-17 10-18 11-19 11-20 12-21 12-22 17-12 17-13 18-25 18-26
+","0-0 1-1 2-3 3-4 4-8 5-11 6-19 9-6 10-9 10-10 11-20 11-21 14-7 15-17 16-14 16-15 17-24 17-25
+",6,"[('注', 4), ('意', 5)]",1,"[('符', 11)]",0,0,0,6
+"550. On the subject of collective bargaining, the special situation in the public sector deserves a mention.
+","550 . On the subject of collective bargaining , the special situation in the public sector deserves a mention . ","550. On the subject of collective bargaining, the special situation in the public sector deserves mentions.
+","550 . On the subject of collective bargaining , the special situation in the public sector deserves mentions . ",singular,['mention'],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,18-17,19-18,20-19","在集体谈判的问题上，不能忽略公共部门的特殊情况。
+",subject-4,UNv1,"550.关于集体谈判问题，公共部门的特殊情况值得一提。
+","550.关于集体谈判问题，公共部门的特殊情况值得一提。
+",550 . 关 于 集 体 谈 判 问 题 ， 公 共 部 门 的 特 殊 情 况 值 得 一 提 。,550 . 关 于 集 体 谈 判 问 题 ， 公 共 部 门 的 特 殊 情 况 值 得 一 提 。,"0-0 0-1 0-2 1-3 2-3 3-9 4-5 5-4 6-6 8-16 8-17 9-18 9-19 12-11 12-12 13-13 13-14 14-20 14-21 15-22 16-23 16-24
+","0-0 0-1 0-2 1-3 2-3 3-9 4-15 5-4 5-5 6-6 6-7 6-8 8-16 8-17 9-18 9-19 10-19 12-11 12-12 13-13 13-14 14-20 14-21 15-23 15-24
+",6,"[('体', 5)]",3,"[('的', 15)]",0,1,1,0
+"The exercise of the power, however, has been nullified by the Court in cases involving a company which is in the business of producing telephone directories and an enterprise which produces matches factory.
+","The exercise of the power , however , has been nullified by the Court in cases involving a company which is in the business of producing telephone directories and an enterprise which produces matches factory . ","The exercise of the power, however, has been nullified by the Court in cases involving companies which is in the business of producing telephone directories and an enterprise which produces matches factory.
+","The exercise of the power , however , has been nullified by the Court in cases involving companies which is in the business of producing telephone directories and an enterprise which produces matches factory . ",singular,['company '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25,27-26,28-27,29-28,30-29,31-30,32-31,33-32,34-33,35-34,36-35","但在案件涉及电话号码簿或火柴生产企业的情况下，法院将这种接管权裁定为无效。
+",case-15,UNv1,"但是，在涉及一家从事电话簿制作业务的公司和一家生产火柴厂的企业的案件中，法院取消了这项权力的行使。
+","但是，在涉及生产电话簿业务的公司和生产火柴工厂的企业的案件中，法院取消了行使这一权力。
+",但 是 ， 在 涉 及 一 家 从 事 电 话 簿 制 作 业 务 的 公 司 和 一 家 生 产 火 柴 厂 的 企 业 的 案 件 中 ， 法 院 取 消 了 这 项 权 力 的 行 使 。,但 是 ， 在 涉 及 生 产 电 话 簿 业 务 的 公 司 和 生 产 火 柴 工 厂 的 企 业 的 案 件 中 ， 法 院 取 消 了 行 使 这 一 权 力 。,"1-42 4-43 5-2 6-8 7-8 8-12 9-13 11-36 11-37 12-3 13-32 13-33 14-4 14-5 15-6 15-21 16-7 16-18 16-19 16-22 18-1 21-9 23-14 24-10 24-11 25-34 26-20 28-29 28-30 30-23 30-24 31-25 31-26 32-27
+","1-36 1-37 4-40 5-0 6-6 7-3 8-10 11-31 11-32 12-29 13-27 13-28 14-4 14-5 15-14 15-15 17-1 20-12 23-8 23-9 25-16 26-39 27-24 27-25 29-17 29-18 30-19 30-20 31-21 31-22
+",12,"[('一', 6), ('一', 21)]",14,"[('公', 14), ('司', 15)]",0,1,1,14
+"He took a microphone in his left hand and help up his right arm to ask for quiet.
+",He took a microphone in his left hand and help up his right arm to ask for quiet . ,"He took microphones in his left hand and help up his right arm to ask for quiet.
+",He took microphones in his left hand and help up his right arm to ask for quiet . ,singular,['microphone '],MUTATED,"0-0,1-1,3-2,4-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18","他左手拿起麦克风，然后举起右臂示意大家静下来。
+",arm-13,um,"他左手拿着麦克风，扶起右臂要求安静。
+","他左手拿着话筒，右手扶着小声。
+",他 左 手 拿 着 麦 克 风 ， 扶 起 右 臂 要 求 安 静 。,他 左 手 拿 着 话 筒 ， 右 手 扶 着 小 声 。,"0-0 1-3 2-2 3-5 3-6 3-7 4-4 5-0 6-1 7-2 8-8 9-9 10-10 11-12 12-11 13-12 14-13 15-14 16-14 17-15 17-16 17-17
+","0-0 1-3 2-5 2-6 3-4 4-0 5-1 6-2 7-7 8-10 9-10 10-9 11-8 12-10 13-11 15-12 16-14
+",0,"[('臂', 12)]",6,"[('扶', 10)]",0,1,1,0
+"A study on this subject is in progress at the International Academy of Astronautics.
+",A study on this subject is in progress at the International Academy of Astronautics . ,"Studies on this subject are in progress at the International Academy of Astronautics.
+",Studies on this subject are in progress at the International Academy of Astronautics . ,singular,['study '],MUTATED,"1-0,2-1,3-2,4-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14","国际宇宙航行科学院对这一问题的研究正在取得进展。
+",subject-4,UNv1,"国际宇航科学院正在就这一主题进行一项研究。
+","国际宇航科学院正在对这一主题进行研究。
+",国 际 宇 航 科 学 院 正 在 就 这 一 主 题 进 行 一 项 研 究 。,国 际 宇 航 科 学 院 正 在 对 这 一 主 题 进 行 研 究 。,"0-11 1-17 3-10 4-12 4-13 5-7 5-9 6-8 7-14 7-15 10-0 10-1 10-2 10-3 11-5 11-6 13-20
+","0-9 2-10 3-4 4-8 5-8 6-7 6-14 6-15 7-8 8-12 9-0 9-1 9-2 9-3 10-5 10-6 11-11 12-18
+",0,"[('主', 12), ('题', 13)]",5,"[('科', 4)]",0,1,1,0
+"In this context my delegation would like to place on record a number of comments.
+",In this context my delegation would like to place on record a number of comments . ,"In this context my delegation would like to place on record numbers of comments.
+",In this context my delegation would like to place on record numbers of comments . ,singular,['number '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,12-11,13-12,14-13,15-14,16-15","为此我国代表团要正式发表一些意见。
+",record-10,UNv1,"在这方面，我国代表团谨正式提出一些意见。
+","在这方面，我国代表团谨提出记录在案的评论。
+",在 这 方 面 ， 我 国 代 表 团 谨 正 式 提 出 一 些 意 见 。,在 这 方 面 ， 我 国 代 表 团 谨 提 出 记 录 在 案 的 评 论 。,"0-0 1-1 2-2 2-3 3-5 4-6 4-7 4-8 4-9 4-10 5-10 6-10 7-10 8-2 9-11 10-12 11-15 12-16 13-16 14-17 14-18 14-19
+","0-0 1-1 2-2 2-3 3-5 4-6 4-7 4-8 4-9 4-10 5-10 6-10 7-11 8-2 9-15 10-13 10-14 10-16 11-16 12-18 13-18 13-19 13-20
+",2,"[('式', 12)]",7,"[('记', 13), ('录', 14), ('案', 16)]",0,1,1,2
+"Research has show that a block of text in all capitals is harder to read than the same block in mixed capitals and lower-case letters.
+",Research has show that a block of text in all capitals is harder to read than the same block in mixed capitals and lower - case letters . ,"Research has show that blocks of text in all capitals are harder to read than the same block in mixed capitals and lower-case letters.
+",Research has show that blocks of text in all capitals are harder to read than the same block in mixed capitals and lower - case letters . ,singular,['block '],MUTATED,"0-0,1-1,2-2,3-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25,27-26,28-27","我也得搞明白草地上是否有蛇洞。
+",capital-10,cwmt,"研究表明，所有大写字母的文本块比混合大写字母和小写字母的同一块更难阅读。
+","研究表明，所有大写字母的文本块都比混合大写字母和小写字母的同一块更难阅读。
+",研 究 表 明 ， 所 有 大 写 字 母 的 文 本 块 比 混 合 大 写 字 母 和 小 写 字 母 的 同 一 块 更 难 阅 读 。,研 究 表 明 ， 所 有 大 写 字 母 的 文 本 块 都 比 混 合 大 写 字 母 和 小 写 字 母 的 同 一 块 更 难 阅 读 。,"0-0 0-1 1-6 2-2 2-3 3-3 5-14 6-11 7-12 7-13 8-12 9-5 10-10 12-31 14-34 15-15 17-28 17-29 18-30 19-27 20-16 20-17 22-22 23-24 23-33 24-25 24-26
+","0-0 0-1 1-6 2-2 2-3 3-3 4-14 5-11 6-12 6-13 7-11 8-5 9-15 11-32 13-35 14-16 16-29 16-30 17-31 18-28 19-17 19-18 21-23 22-25 22-34 23-26 23-27
+",1,"[('母', 10)]",3,"[('都', 15)]",0,1,1,1
+"His Office was nevertheless thinking of drafting a bill allowing the interruption of pregnancy in cases of foetuses born anencephalic.
+",His Office was nevertheless thinking of drafting a bill allowing the interruption of pregnancy in cases of foetuses born anencephalic . ,"His Office was nevertheless thinking of drafting bills allowing the interruption of pregnancy in cases of foetuses born anencephalic.
+",His Office was nevertheless thinking of drafting bills allowing the interruption of pregnancy in cases of foetuses born anencephalic . ,singular,['bill '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20","然而，执行秘书处正在考虑起草一个当发现无脑畸型的胎儿的病例时准许中断怀孕的法案。
+",case-15,UNv1,"不过，他的办公室正在考虑起草一项法案，允许在胎儿出生时无脑的情况下中止妊娠。
+","不过，他的办公室正在考虑起草法案，允许在出生时患有无脑畸形的胎儿中中止妊娠。
+",不 过 ， 他 的 办 公 室 正 在 考 虑 起 草 一 项 法 案 ， 允 许 在 胎 儿 出 生 时 无 脑 的 情 况 下 中 止 妊 娠 。,不 过 ， 他 的 办 公 室 正 在 考 虑 起 草 法 案 ， 允 许 在 出 生 时 患 有 无 脑 畸 形 的 胎 儿 中 中 止 妊 娠 。,"0-3 0-4 1-5 1-6 1-7 2-8 3-7 4-10 4-11 5-15 6-12 6-13 6-15 7-14 8-16 9-19 9-20 10-17 14-33 15-30 15-31 15-32 16-33 17-22 17-23 18-24 18-25 19-34 19-35 19-36 19-37
+","0-3 0-4 1-5 1-6 1-7 2-8 3-7 4-10 4-11 5-11 6-12 6-13 8-17 8-18 9-19 10-27 10-28 13-9 14-15 15-32 16-30 17-20 18-34 18-35 18-36 18-37
+",11,"[('情', 30), ('况', 31), ('下', 32)]",14,"[('案', 15)]",0,1,1,11
+"Many cases before the Human Rights Committee in which it had to take a decision on admissibility ratione temporis concerned allegedly arbitrary detention that started prior to the date of entry into force but continued after that date.
+",Many cases before the Human Rights Committee in which it had to take a decision on admissibility ratione temporis concerned allegedly arbitrary detention that started prior to the date of entry into force but continued after that date . ,"Many cases before the Human Rights Committee in which it had to take decisions on admissibility ratione temporis concerned allegedly arbitrary detention that started prior to the date of entry into force but continued after that date.
+",Many cases before the Human Rights Committee in which it had to take decisions on admissibility ratione temporis concerned allegedly arbitrary detention that started prior to the date of entry into force but continued after that date . ,singular,['decision '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25,27-26,28-27,29-28,30-29,31-30,32-31,33-32,34-33,35-34,36-35,37-36,38-37,39-38","你妹妹早就从这个市镇搬走了,时隔多年了我不知道你去哪儿能找到她.
+",date-28,cwmt,"人权事务委员会受理的许多案件，根据属时理由必须就可否受理问题作出决定，这些案件涉及据称在生效之日之前开始但在生效之日之后继续的任意拘留。
+","人权事务委员会收到的许多案件中，它必须基于属时理由就可否受理问题作出决定，据称在《公约》生效之日之前开始，但在该日期之后继续存在的任意拘留。
+",人 权 事 务 委 员 会 受 理 的 许 多 案 件 ， 根 据 属 时 理 由 必 须 就 可 否 受 理 问 题 作 出 决 定 ， 这 些 案 件 涉 及 据 称 在 生 效 之 日 之 前 开 始 但 在 生 效 之 日 之 后 继 续 的 任 意 拘 留 。,人 权 事 务 委 员 会 收 到 的 许 多 案 件 中 ， 它 必 须 基 于 属 时 理 由 就 可 否 受 理 问 题 作 出 决 定 ， 据 称 在 《 公 约 》 生 效 之 日 之 前 开 始 ， 但 在 该 日 期 之 后 继 续 存 在 的 任 意 拘 留 。,"0-10 0-11 1-12 1-13 4-0 5-1 5-3 6-4 6-5 6-6 7-43 8-15 10-21 10-22 11-22 14-30 14-31 14-32 14-33 16-24 16-25 16-26 16-27 17-17 19-40 20-39 20-41 20-42 21-63 21-64 22-65 22-66 23-35 24-50 24-51 25-48 25-49 27-48 28-47 28-57 29-56 30-55 33-52 34-60 34-61 35-59 37-67
+","0-10 0-11 1-12 1-13 4-0 5-1 5-3 6-4 6-5 6-6 7-14 8-14 9-16 10-17 10-18 11-18 12-7 13-32 13-33 13-34 13-35 14-20 15-26 15-27 15-28 15-29 16-21 18-37 19-38 20-65 20-66 21-67 21-68 23-50 23-51 24-48 24-49 27-42 28-58 29-45 30-8 32-53 33-60 33-61 34-59 36-57
+",10,"[('日', 47), ('日', 57)]",0,"[('约', 42)]",0,1,1,10
+"69. In another case, a mother beat her daughter.
+","69 . In another case , a mother beat her daughter . ","69. In another case, mothers beat her daughter.
+","69 . In another case , mothers beat her daughter . ",singular,['mother '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,7-6,8-7,9-8,10-9,11-10,12-11","69. 另有一起母亲殴打女儿的案件。
+",case-4,UNv1,"69. 在另一起案件中，一位母亲殴打了她的女儿。
+","69. 在另一起案件中，母亲殴打了她的女儿。
+",69 . 在 另 一 起 案 件 中 ， 一 位 母 亲 殴 打 了 她 的 女 儿 。,69 . 在 另 一 起 案 件 中 ， 母 亲 殴 打 了 她 的 女 儿 。,"0-0 0-1 1-2 2-3 2-4 3-6 3-7 3-9 4-10 4-11 5-12 5-13 6-14 6-15 7-17 8-19 8-20 8-21
+","0-0 0-1 1-2 2-3 2-4 3-6 3-7 3-9 4-10 4-11 5-12 5-13 6-15 7-17 7-18 7-19
+",12,"[('一', 10), ('位', 11)]",0,"[('母', 10), ('亲', 11)]",0,1,1,14
+"In cases where violence has occurred, the `lia nain' or traditional leader in the village conducts a ceremony, at which the extended families of both parties participate.
+","In cases where violence has occurred , the ` lia nain ' or traditional leader in the village conducts a ceremony , at which the extended families of both parties participate . ","In cases where violence has occurred, the `lia nain' or traditional leader in the village conducts ceremonies, at which the extended families of both parties participate.
+","In cases where violence has occurred , the ` lia nain ' or traditional leader in the village conducts ceremonies , at which the extended families of both parties participate . ",singular,['ceremony'],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25,27-26,28-27,29-28,30-29,31-30,32-31","在发生暴力案件时，村中传统的领导者会举行一种仪式，双方当事人的大家族都要参加。
+",case-1,UNv1,"在发生暴力的情况下，村里的“lia nain”或传统领袖举行仪式，双方的大家庭都参加。
+","在发生暴力事件时，村里的“lia nain”或传统领袖举行仪式，双方的大家庭都参加。
+",在 发 生 暴 力 的 情 况 下 ， 村 里 的 “ lia nain ” 或 传 统 领 袖 举 行 仪 式 ， 双 方 的 大 家 庭 都 参 加 。,在 发 生 暴 力 事 件 时 ， 村 里 的 “ lia nain ” 或 传 统 领 袖 举 行 仪 式 ， 双 方 的 大 家 庭 都 参 加 。,"0-0 1-6 1-7 1-8 2-11 3-3 3-4 5-1 7-15 8-13 9-17 10-18 10-19 11-20 11-21 14-10 15-23 17-24 17-25 19-16 21-30 21-32 22-31 22-32 23-29 24-33 25-27 25-28 26-34 26-35 26-36
+","0-0 1-6 2-10 3-3 3-4 5-1 7-14 8-12 9-16 10-17 10-18 11-19 11-20 14-9 15-22 16-23 17-7 18-15 20-29 20-31 21-30 21-31 22-28 23-32 24-26 24-27 25-33 25-34 25-35
+",11,"[('情', 6), ('况', 7), ('下', 8)]",14,"[('件', 6)]",0,1,1,11
+"2.2 On 27 May 2008, the justice of the peace of the 33rd district of Velikie Luki issued a decision to terminate the court case against the author based on the absence of corpus delicti of the crime.
+","2.2 On 27 May 2008 , the justice of the peace of the 33rd district of Velikie Luki issued a decision to terminate the court case against the author based on the absence of corpus delicti of the crime . ","2.2 On 27 May 2008, the justice of the peace of the 33rd district of Velikie Luki issued decisions to terminate the court case against the author based on the absence of corpus delicti of the crime.
+","2.2 On 27 May 2008 , the justice of the peace of the 33rd district of Velikie Luki issued decisions to terminate the court case against the author based on the absence of corpus delicti of the crime . ",singular,['decision '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25,27-26,28-27,29-28,30-29,31-30,32-31,33-32,34-33,35-34,36-35,37-36,38-37,39-38,40-39","2.2 2008年5月27日，大卢基第33区治安法官基于犯罪事实的缺失签发了一项裁定，终止审理针对提交人的诉讼案件。
+",case-25,UNv1,"2.2 2008年5月27日，大卢基第33区的治安法官以没有犯罪事实为由，决定终止对提交人的法庭诉讼。
+","2.2 2008年5月27日，大卢基第33区治安法官以没有犯罪事实为由作出裁决，终止对提交人的法院案件。
+",2.2 2008 年 5 月 27 日 ， 大 卢 基 第 33 区 的 治 安 法 官 以 没 有 犯 罪 事 实 为 由 ， 决 定 终 止 对 提 交 人 的 法 庭 诉 讼 。,2.2 2008 年 5 月 27 日 ， 大 卢 基 第 33 区 治 安 法 官 以 没 有 犯 罪 事 实 为 由 作 出 裁 决 ， 终 止 对 提 交 人 的 法 院 案 件 。,"0-0 1-0 2-5 3-3 3-4 4-1 4-2 6-17 7-8 9-15 9-16 10-14 11-11 12-12 13-13 14-14 16-18 17-6 19-29 19-30 21-31 21-32 23-38 23-39 23-40 23-41 24-41 25-41 27-34 27-35 28-10 31-27 32-37 33-36 34-24 37-22 37-23
+","0-0 1-0 2-5 3-3 3-4 4-1 4-2 6-16 7-8 9-14 9-15 11-13 12-11 12-12 13-13 16-17 17-29 18-28 18-30 20-32 20-33 22-39 22-40 23-41 23-42 24-34 26-35 26-36 27-10 30-19 31-38 32-37 33-23 36-21 36-22
+",14,"[('讼', 41)]",15,"[('对', 34)]",0,1,1,14
+"The State party explains that in a case of a refusal by the respective political party to include him in the federal list of candidates, the author could have challenged such a refusal before the national courts.
+","The State party explains that in a case of a refusal by the respective political party to include him in the federal list of candidates , the author could have challenged such a refusal before the national courts . ","The State party explains that in a case of a refusal by the respective political party to include him in the federal list of candidates, the author could have challenged such refusals before the national courts.
+","The State party explains that in a case of a refusal by the respective political party to include him in the federal list of candidates , the author could have challenged such refusals before the national courts . ",singular,['refusal '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25,26-26,27-27,28-28,29-29,30-30,31-31,33-32,34-33,35-34,36-35,37-36,38-37,39-38","缔约国解释称，在某政党拒绝将提交人列入联邦候选人名单的情况下，提交人可以对此向国内法院提出质疑。
+",case-7,UNv1,"缔约国解释说，如果有关政党拒绝将他列入联邦候选人名单，提交人本来可以在国家法院对这种拒绝提出质疑。
+","缔约国解释说，在各政党拒绝将他列入联邦候选人名单的情况下，提交人本可以向国家法院对这种拒绝提出质疑。
+",缔 约 国 解 释 说 ， 如 果 有 关 政 党 拒 绝 将 他 列 入 联 邦 候 选 人 名 单 ， 提 交 人 本 来 可 以 在 国 家 法 院 对 这 种 拒 绝 提 出 质 疑 。,缔 约 国 解 释 说 ， 在 各 政 党 拒 绝 将 他 列 入 联 邦 候 选 人 名 单 的 情 况 下 ， 提 交 人 本 可 以 向 国 家 法 院 对 这 种 拒 绝 提 出 质 疑 。,"0-2 1-0 1-1 2-0 3-3 3-4 3-5 4-5 7-8 10-13 10-14 13-10 14-11 15-12 17-15 17-17 17-18 18-16 19-34 21-19 21-20 22-24 22-25 24-21 24-22 24-23 26-27 26-28 27-32 27-33 28-9 29-46 29-47 30-40 30-41 31-41 32-42 32-43 33-44 34-44 35-35 35-36 36-37 36-38
+","0-2 1-0 1-1 2-0 3-3 3-4 3-5 4-5 5-7 7-25 7-26 10-12 13-8 14-9 15-10 16-35 17-13 17-15 17-16 18-14 21-17 21-18 22-22 22-23 24-19 24-20 24-21 26-29 26-30 26-32 27-33 27-34 28-32 29-47 29-48 30-41 30-42 31-43 31-44 32-45 33-45 34-36 34-37 35-38 35-39
+",14,"[('果', 8)]",11,"[('情', 25), ('况', 26)]",0,1,1,11
+"The guests were in high spirits. His sour spirits put a damper on the gathering.
+",The guests were in high spirits . His sour spirits put a damper on the gathering . ,"The guests were in high spirits. His sour spirits put dampers on the gathering.
+",The guests were in high spirits . His sour spirits put dampers on the gathering . ,singular,['damper '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,12-11,13-12,14-13,15-14,16-15,17-16","客人们的兴致都很高。他低落的情绪使聚会变得令人扫兴
+",spirit-5,cwmt,"客人们兴致勃勃。他的酸涩精神阻碍了聚会。
+","客人们兴高采烈。他酸溜溜的烈酒给聚会带来了阻碍。
+",客 人 们 兴 致 勃 勃 。 他 的 酸 涩 精 神 阻 碍 了 聚 会 。,客 人 们 兴 高 采 烈 。 他 酸 溜 溜 的 烈 酒 给 聚 会 带 来 了 阻 碍 。,"0-0 1-0 1-1 2-2 3-4 5-12 5-13 6-8 6-9 7-10 7-11 8-12 11-14 11-15 12-16 13-15 14-15
+","0-0 1-0 1-1 2-2 3-5 4-4 5-6 5-13 5-14 6-8 6-12 7-9 7-10 7-11 9-15 10-18 10-21 10-22 11-19 13-7
+",3,"[('精', 12), ('神', 13)]",1,"[('烈', 6), ('烈', 13), ('酒', 14)]",0,1,1,3
+"127. Of the two outstanding cases, one concerns a person who was arrested in June 1984 in Santo Domingo and subsequently disappeared.
+","127 . Of the two outstanding cases , one concerns a person who was arrested in June 1984 in Santo Domingo and subsequently disappeared . ","127. Of the two outstanding cases, one concerns people who was arrested in June 1984 in Santo Domingo and subsequently disappeared.
+","127 . Of the two outstanding cases , one concerns people who was arrested in June 1984 in Santo Domingo and subsequently disappeared . ",singular,['person '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24","127. 在两项悬而未决的案件中，有一项涉及到一位于1984年6月在圣地亚哥遭逮捕、随后失踪的人员。
+",case-6,UNv1,"127. 在两起未决案件中，一起涉及一名1984年6月在圣多明各被捕并随后失踪的人。
+","127. 在两起悬而未决的案件中，一起涉及 1984 年 6 月在圣多明各被捕并随后失踪的人。
+",127 . 在 两 起 未 决 案 件 中 ， 一 起 涉 及 一 名 1984 年 6 月 在 圣 多 明 各 被 捕 并 随 后 失 踪 的 人 。,127 . 在 两 起 悬 而 未 决 的 案 件 中 ， 一 起 涉 及 1984 年 6 月 在 圣 多 明 各 被 捕 并 随 后 失 踪 的 人 。,"0-0 0-1 3-3 4-4 4-5 4-6 5-7 5-8 5-10 6-11 7-13 7-14 8-15 9-34 11-26 12-27 13-21 14-19 14-20 15-17 15-18 16-21 17-22 18-23 18-24 18-25 19-28 20-29 20-30 21-31 21-32
+","0-0 0-1 3-3 4-4 4-5 4-7 4-8 5-10 5-11 6-11 7-16 7-17 8-35 11-27 11-28 12-22 13-20 13-21 14-18 14-19 15-22 16-23 17-24 17-25 17-26 18-29 19-30 19-31 20-32 20-33
+",12,"[('一', 11)]",14,"[('件', 11)]",0,1,1,14
+"Research has show that a block of text in all capitals is harder to read than the same block in mixed capitals and lower-case letters.
+",Research has show that a block of text in all capitals is harder to read than the same block in mixed capitals and lower - case letters . ,"Research has show that blocks of text in all capitals are harder to read than the same block in mixed capitals and lower-case letters.
+",Research has show that blocks of text in all capitals are harder to read than the same block in mixed capitals and lower - case letters . ,singular,['block '],MUTATED,"0-0,1-1,2-2,3-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25,27-26,28-27","研究表明，一段文本全部大写比同样文本大小写混合使用，更难读。
+",capital-10,um,"研究表明，所有大写字母的文本块比混合大写字母和小写字母的同一块更难阅读。
+","研究表明，所有大写字母的文本块都比混合大写字母和小写字母的同一块更难阅读。
+",研 究 表 明 ， 所 有 大 写 字 母 的 文 本 块 比 混 合 大 写 字 母 和 小 写 字 母 的 同 一 块 更 难 阅 读 。,研 究 表 明 ， 所 有 大 写 字 母 的 文 本 块 都 比 混 合 大 写 字 母 和 小 写 字 母 的 同 一 块 更 难 阅 读 。,"0-0 0-1 1-6 2-2 2-3 3-3 5-14 6-11 7-12 7-13 8-12 9-5 10-10 12-31 14-34 15-15 17-28 17-29 18-30 19-27 20-16 20-17 22-22 23-24 23-33 24-25 24-26
+","0-0 0-1 1-6 2-2 2-3 3-3 4-14 5-11 6-12 6-13 7-11 8-5 9-15 11-32 13-35 14-16 16-29 16-30 17-31 18-28 19-17 19-18 21-23 22-25 22-34 23-26 23-27
+",1,"[('母', 10)]",3,"[('都', 15)]",0,1,1,1
+"It should be noted that, in some cases, a part of these outstanding balances result from bank charges levied but not budgeted for by States parties when making payment.
+","It should be noted that , in some cases , a part of these outstanding balances result from bank charges levied but not budgeted for by States parties when making payment . ","It should be noted that, in some cases, parts of these outstanding balances result from bank charges levied but not budgeted for by States parties when making payment.
+","It should be noted that , in some cases , parts of these outstanding balances result from bank charges levied but not budgeted for by States parties when making payment . ",singular,['part '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25,27-26,28-27,29-28,30-29,31-30,32-31","应指出，某些情况下，部分未清余额是银行收取的手续费，但缔约国在交付摊款时，未将此数额编入预算。
+",case-8,UNv1,"应当指出，在有些情况下，这些未清余额的一部分是缔约国在付款时征收但未编入预算的银行手续费。
+","应当指出，在有些情况下，这些未清余额的一部分是由于缔约国在付款时征收但未编入预算的银行手续费造成的。
+",应 当 指 出 ， 在 有 些 情 况 下 ， 这 些 未 清 余 额 的 一 部 分 是 缔 约 国 在 付 款 时 征 收 但 未 编 入 预 算 的 银 行 手 续 费 。,应 当 指 出 ， 在 有 些 情 况 下 ， 这 些 未 清 余 额 的 一 部 分 是 由 于 缔 约 国 在 付 款 时 征 收 但 未 编 入 预 算 的 银 行 手 续 费 造 成 的 。,"0-0 1-0 2-0 3-2 3-3 4-4 5-5 6-6 6-7 7-8 7-9 7-10 8-19 9-20 9-21 11-12 11-13 12-14 12-15 13-16 13-17 14-17 16-39 16-40 17-43 18-30 18-31 19-32 20-33 21-34 21-35 21-36 21-37 24-25 25-23 25-24 26-29 28-27 28-28
+","0-0 1-0 2-0 3-2 3-3 4-4 5-5 6-6 7-8 7-9 7-10 8-20 8-21 9-18 10-12 10-13 11-14 11-15 12-16 12-17 13-23 13-24 14-23 15-41 15-42 16-45 17-32 17-33 18-34 19-35 20-36 20-37 20-38 20-39 23-27 24-25 24-26 25-31 26-46 27-29 27-30
+",12,"[('一', 19)]",14,"[('部', 20), ('分', 21)]",0,1,1,11
+"Take some people and hide near the break in the wall.
+",Take some people and hide near the break in the wall . ,"Take a person and hide near the break in the wall.
+",Take a person and hide near the break in the wall . ,plural,['people '],MUTATED,"0-0,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12","你们正在吃中饭吗？不。
+",break-7,cwmt,"带一些人躲在墙的断口附近。
+","带一个人躲在墙的断裂附近。
+",带 一 些 人 躲 在 墙 的 断 口 附 近 。,带 一 个 人 躲 在 墙 的 断 裂 附 近 。,"0-0 1-1 1-2 2-3 3-4 4-4 5-10 5-11 6-7 7-8 7-9 8-10 9-10 10-6
+","0-0 1-1 1-2 2-3 3-4 4-4 5-10 5-11 6-7 7-8 7-9 8-10 9-10 10-6
+",6,"[('断', 8), ('口', 9)]",0,"[('断', 8), ('裂', 9)]",0,1,1,7
+"And in the case he was sacrificed, no one would shed a tear for him.
+","And in the case he was sacrificed , no one would shed a tear for him . ","And in the case he was sacrificed, no one would shed tears for him.
+","And in the case he was sacrificed , no one would shed tears for him . ",singular,['tear '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,13-12,14-13,15-14,16-15,17-16","我并不是特别在乎我的诞辰，但是听起来很让人兴奋，不是吗？
+",case-3,cwmt,"在他被牺牲的情况下，没有人会为他流泪。
+","如果他被牺牲，没有人会为他流泪。
+",在 他 被 牺 牲 的 情 况 下 ， 没 有 人 会 为 他 流 泪 。,如 果 他 被 牺 牲 ， 没 有 人 会 为 他 流 泪 。,"0-1 1-0 2-5 3-6 3-7 4-1 5-2 6-3 6-4 7-10 7-11 8-12 9-13 10-16 12-17 13-14 14-18
+","3-0 3-1 4-2 5-3 6-4 6-5 7-7 7-8 8-9 9-10 10-13 11-14 12-11 13-15
+",11,"[('情', 6), ('况', 7)]",14,"[('如', 0), ('果', 1)]",0,1,1,11
+"Many States parties were not able to enforce a foreign sentence in cases where they rejected a request for extradition (made for enforcement purposes) on the grounds of nationality.
+",Many States parties were not able to enforce a foreign sentence in cases where they rejected a request for extradition ( made for enforcement purposes ) on the grounds of nationality . ,"Many States parties were not able to enforce a foreign sentence in cases where they rejected requests for extradition (made for enforcement purposes) on the grounds of nationality.
+",Many States parties were not able to enforce a foreign sentence in cases where they rejected requests for extradition ( made for enforcement purposes ) on the grounds of nationality . ,singular,['request '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25,27-26,28-27,29-28,30-29,31-30,32-31","20. 许多缔约国以国籍理由拒绝（为执行判决目的而提出的）引渡请求后，不能执行外国判决。
+",case-12,UNv1,"许多缔约国在以国籍为由拒绝引渡请求（为执行目的）的案件中无法执行外国判决。
+","许多缔约国在以国籍为由拒绝引渡请求（为执行目的）的情况下无法执行外国判决。
+",许 多 缔 约 国 在 以 国 籍 为 由 拒 绝 引 渡 请 求 （ 为 执 行 目 的 ） 的 案 件 中 无 法 执 行 外 国 判 决 。,许 多 缔 约 国 在 以 国 籍 为 由 拒 绝 引 渡 请 求 （ 为 执 行 目 的 ） 的 情 况 下 无 法 执 行 外 国 判 决 。,"0-0 0-1 1-2 1-4 2-2 2-3 5-6 7-19 9-32 10-34 10-35 11-5 11-27 12-25 12-26 15-11 15-12 17-15 17-16 18-18 19-13 19-14 19-17 22-29 22-30 23-30 23-31 24-31 25-33 26-10 28-8
+","0-0 0-1 1-2 1-4 2-2 2-3 5-6 7-19 9-32 10-34 10-35 11-5 12-25 12-26 12-27 13-26 15-11 15-12 16-15 16-16 17-18 18-13 18-14 18-17 21-29 21-30 22-30 22-31 23-31 24-33 25-10 27-8
+",14,"[('案', 25), ('件', 26)]",11,"[('情', 25), ('况', 26), ('下', 27)]",0,1,1,14
+"I shed a tear when I saw tear in my clothes.
+",I shed a tear when I saw tear in my clothes . ,"I shed tears when I saw tear in my clothes.
+",I shed tears when I saw tear in my clothes . ,singular,['tear '],MUTATED,"0-0,1-1,3-2,4-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11","我看到衣服上撕破的口子时,流下了眼泪.
+",tear-7,cwmt,"当我看到衣服上的撕裂时，我流下了眼泪。
+","当我看到衣服上的撕裂时，我流下了眼泪。
+",当 我 看 到 衣 服 上 的 撕 裂 时 ， 我 流 下 了 眼 泪 。,当 我 看 到 衣 服 上 的 撕 裂 时 ， 我 流 下 了 眼 泪 。,"0-1 1-13 3-8 3-9 4-10 5-12 6-2 7-16 8-6 9-7 10-4
+","0-1 1-17 2-16 2-17 3-10 4-12 5-2 5-3 6-8 6-9 7-6 8-7 9-4
+",1,"[('眼', 16)]",3,"[('撕', 8), ('裂', 9)]",0,1,1,1
+"""judge"" (法官) means a judge of the High Court or the District Court, as the case may be; (Amended 25 of 1998 s. 2)
+",""" judge "" ( 法官 ) means a judge of the High Court or the District Court , as the case may be ; ( Amended 25 of 1998 s. 2 ) ","""judge"" (法官) means judges of the High Court or the District Court, as the case may be; (Amended 25 of 1998 s. 2)
+",""" judge "" ( 法官 ) means judges of the High Court or the District Court , as the case may be ; ( Amended 25 of 1998 s. 2 ) ",singular,['judge '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25,27-26,28-27,29-28,30-29,31-30,32-31","“法官”(judge) 指高等法院法官或区域法院法官(视属何情况而定); (由1998年第25号第2条修订)
+",case-20,um,"「法官」指高等法院或区域法院（视乎情况而定）的法官;（1998年第25号修正案第2条）
+","「法官」指高等法院或区域法院的法官（视乎情况而定）;（1998年第25号修正案第2条）
+",「 法 官 」 指 高 等 法 院 或 区 域 法 院 （ 视 乎 情 况 而 定 ） 的 法 官 ; （ 1998 年 第 25 号 修 正 案 第 2 条 ）,「 法 官 」 指 高 等 法 院 或 区 域 法 院 的 法 官 （ 视 乎 情 况 而 定 ） ; （ 1998 年 第 25 号 修 正 案 第 2 条 ）,"0-0 0-1 1-3 1-4 2-4 4-2 7-5 7-6 9-9 11-10 11-11 12-13 13-16 15-34 16-25 17-25 18-26 18-31 18-32 18-33 19-30 20-22 21-27 21-28 22-29 22-35 22-37 22-38 23-36
+","0-0 0-1 1-3 1-4 2-4 3-2 4-14 5-8 6-5 6-6 8-9 10-10 10-11 11-13 12-19 14-20 14-21 15-21 16-22 16-23 16-25 17-26 17-31 17-32 17-33 18-30 19-34 20-27 20-28 21-29 21-35 21-37 21-38 22-36
+",0,"[('的', 22)]",14,"[('案', 34)]",0,1,1,14
+"In similar fashion EBRD and the World Bank have an understanding whereby EBRD is taking the lead on rail infrastructure projects.
+",In similar fashion EBRD and the World Bank have an understanding whereby EBRD is taking the lead on rail infrastructure projects . ,"In similar fashion EBRD and the World Bank have understandings whereby EBRD is taking the lead on rail infrastructure projects.
+",In similar fashion EBRD and the World Bank have understandings whereby EBRD is taking the lead on rail infrastructure projects . ,singular,['understanding '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21","俄国人继续把能源供应当成他们军械库中的一个武器.
+",lead-16,cwmt,"同样，欧洲复兴开发银行和世界银行也达成了一项谅解，即欧洲复兴开发银行正在牵头开展铁路基础设施项目。
+","同样，欧洲复兴开发银行和世界银行也达成了共识，即欧洲复兴开发银行正在铁路基础设施项目上发挥领导作用。
+",同 样 ， 欧 洲 复 兴 开 发 银 行 和 世 界 银 行 也 达 成 了 一 项 谅 解 ， 即 欧 洲 复 兴 开 发 银 行 正 在 牵 头 开 展 铁 路 基 础 设 施 项 目 。,同 样 ， 欧 洲 复 兴 开 发 银 行 和 世 界 银 行 也 达 成 了 共 识 ， 即 欧 洲 复 兴 开 发 银 行 正 在 铁 路 基 础 设 施 项 目 上 发 挥 领 导 作 用 。,"1-0 1-1 2-4 3-3 3-4 3-5 3-6 3-7 3-8 4-11 5-13 6-12 6-13 7-14 7-15 8-20 9-21 10-22 10-23 11-24 11-25 12-26 12-27 12-28 12-29 12-30 12-31 13-34 14-34 15-35 16-36 16-37 18-40 18-41 19-39 19-42 19-43 19-44 19-45 20-46 20-47 20-48
+","0-33 1-0 1-1 2-4 3-3 3-4 3-5 3-6 3-7 3-8 4-11 5-13 6-12 6-13 7-14 7-15 8-20 9-21 10-22 10-23 11-24 11-25 11-26 11-27 11-28 11-29 12-32 13-32 15-44 15-45 15-46 16-42 17-34 17-35 18-36 18-37 18-38 18-39 19-40 19-41
+",12,"[('牵', 36), ('头', 37)]",13,"[('挥', 44), ('领', 45), ('导', 46)]",0,1,1,13
+"5. The Working Group believes that it is in a position to render an opinion on the facts and circumstances of the case, in the light of the allegations made and the response of the Government thereto.
+","5 . The Working Group believes that it is in a position to render an opinion on the facts and circumstances of the case , in the light of the allegations made and the response of the Government thereto . ","5. The Working Group believes that it is in a position to render opinions on the facts and circumstances of the case, in the light of the allegations made and the response of the Government thereto.
+","5 . The Working Group believes that it is in a position to render opinions on the facts and circumstances of the case , in the light of the allegations made and the response of the Government thereto . ",singular,['opinion '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25,27-26,28-27,29-28,30-29,31-30,32-31,33-32,34-33,35-34,36-35,37-36,38-37,39-38,40-39","5. 工作组认为，它能够按照所提出的指控和政府对此作出的答复，并基于事实和案情提出意见。
+",case-23,UNv1,"5. 工作组认为，它能够根据所提出的指控和政府对此的答复，就案件的事实和情节提出意见。
+","5. 工作组认为，它能够根据所提出的指控和政府对此的答复，就案件的事实和情节提出意见。
+",5 . 工 作 组 认 为 ， 它 能 够 根 据 所 提 出 的 指 控 和 政 府 对 此 的 答 复 ， 就 案 件 的 事 实 和 情 节 提 出 意 见 。,5 . 工 作 组 认 为 ， 它 能 够 根 据 所 提 出 的 指 控 和 政 府 对 此 的 答 复 ， 就 案 件 的 事 实 和 情 节 提 出 意 见 。,"0-0 0-1 1-4 2-2 2-3 3-4 4-5 4-6 5-5 6-8 9-11 10-10 11-14 12-13 12-14 12-15 13-14 14-39 17-32 17-33 18-19 19-35 22-29 22-30 23-29 24-29 26-31 28-17 28-18 29-37 30-34 32-25 32-26 33-38 35-20 35-21 36-36
+","0-0 0-1 1-4 2-2 2-3 3-4 4-5 4-6 5-5 6-8 9-11 10-10 11-14 12-13 12-14 12-15 13-14 16-32 16-33 17-19 18-35 21-29 21-30 22-24 25-31 27-17 27-18 28-37 29-34 31-25 31-26 32-38 34-20 34-21 35-36
+",14,"[('案', 29)]",0,"[('的', 24)]",0,1,1,14
+"There have been cases where couples from foreign countries have paid large amounts of money to adopt a child, but such instances appear to be rare.
+","There have been cases where couples from foreign countries have paid large amounts of money to adopt a child , but such instances appear to be rare . ","There have been cases where couples from foreign countries have paid large amounts of money to adopt children, but such instances appear to be rare.
+","There have been cases where couples from foreign countries have paid large amounts of money to adopt children , but such instances appear to be rare . ",singular,['child'],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25,27-26,28-27","曾经虽有过一些外国夫妻支付大笔款项以领养儿童的情况，但这种情况毕竟罕见。
+",case-3,UNv1,"曾经有过外国夫妇支付大笔钱收养孩子的案例，但这种情况似乎很少见。
+","曾经有过外国夫妇支付大笔钱收养孩子的情况，但这种情况似乎很少见。
+",曾 经 有 过 外 国 夫 妇 支 付 大 笔 钱 收 养 孩 子 的 案 例 ， 但 这 种 情 况 似 乎 很 少 见 。,曾 经 有 过 外 国 夫 妇 支 付 大 笔 钱 收 养 孩 子 的 情 况 ， 但 这 种 情 况 似 乎 很 少 见 。,"0-2 1-2 2-0 2-1 3-18 4-5 5-6 5-7 6-4 7-4 8-5 10-8 10-9 11-10 12-11 13-17 14-12 16-13 16-14 18-15 18-16 18-20 19-21 20-22 20-23 21-24 21-25 22-26 22-27 23-26 24-28 25-29 25-30 25-31
+","0-2 1-2 2-0 2-1 3-19 4-5 5-6 5-7 7-4 8-5 10-8 10-9 11-10 12-11 13-17 14-12 16-13 16-14 17-15 17-16 17-20 18-21 19-22 19-23 20-24 20-25 21-26 21-27 22-26 23-28 24-29 24-30 24-31
+",14,"[('案', 18)]",11,"[('况', 19)]",0,1,1,11
+"First, from the capital of Ukraine, where many people want closer ties with Europe than with Russia.
+","First , from the capital of Ukraine , where many people want closer ties with Europe than with Russia . ","First, from the capital of Ukraine, where a person wants closer ties with Europe than with Russia.
+","First , from the capital of Ukraine , where a person wants closer ties with Europe than with Russia . ",plural,['people '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20","首先是乌克兰的首都,很多人希望与欧洲建立更紧密的联系。
+",capital-4,um,"首先，来自乌克兰首都，那里的许多人希望与欧洲建立更紧密的联系，而不是与俄罗斯的联系。
+","首先，从乌克兰首都，一个人希望与欧洲的联系比与俄罗斯的关系更紧密。
+",首 先 ， 来 自 乌 克 兰 首 都 ， 那 里 的 许 多 人 希 望 与 欧 洲 建 立 更 紧 密 的 联 系 ， 而 不 是 与 俄 罗 斯 的 联 系 。,首 先 ， 从 乌 克 兰 首 都 ， 一 个 人 希 望 与 欧 洲 的 联 系 比 与 俄 罗 斯 的 关 系 更 紧 密 。,"0-0 0-1 0-2 1-3 1-4 2-8 3-9 4-13 5-5 5-6 5-7 6-11 6-12 7-14 7-15 8-16 9-17 9-18 10-24 11-28 11-29 13-20 13-21 14-31 15-34 16-35 16-36 16-37
+","0-0 0-1 0-2 1-3 2-4 3-7 3-8 4-7 5-4 5-5 5-6 7-10 7-11 8-12 9-13 9-14 10-21 11-19 11-20 11-22 12-22 13-16 13-17 14-21 15-22 16-23 16-24 16-25
+",1,"[('的', 13)]",3,"[('首', 7)]",0,1,1,3
+"Ties should reach the belt buckle to avoid a gap. A smaller knot for the tie works better than the wider one.
+",Ties should reach the belt buckle to avoid a gap . A smaller knot for the tie works better than the wider one . ,"Ties should reach the belt buckle to avoid gaps. A smaller knot for the tie works better than the wider one.
+",Ties should reach the belt buckle to avoid gaps . A smaller knot for the tie works better than the wider one . ,singular,['gap'],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23","领带的长度以达到皮带头为佳，小一点的领带结效果比大的好。
+",tie-0,cwmt,"领带应触及皮带扣，以避免出现间隙。领带的较小结比较宽的结效果更好。
+","系带应到达皮带扣，以避免间隙。领带的较小结比较宽的结效果更好。
+",领 带 应 触 及 皮 带 扣 ， 以 避 免 出 现 间 隙 。 领 带 的 较 小 结 比 较 宽 的 结 效 果 更 好 。,系 带 应 到 达 皮 带 扣 ， 以 避 免 间 隙 。 领 带 的 较 小 结 比 较 宽 的 结 效 果 更 好 。,"0-0 1-2 2-3 2-4 3-4 4-5 4-6 5-7 6-10 7-9 7-10 7-11 8-14 9-15 10-21 11-20 12-22 13-19 15-17 16-28 16-29 17-30 17-31 18-23 19-27 20-25 21-32
+","0-0 1-2 2-3 2-4 3-3 4-5 4-6 5-7 6-10 7-9 7-10 7-11 8-13 9-19 10-18 11-20 12-17 14-15 15-26 15-27 16-28 16-29 17-21 18-25 19-23 20-30
+",5,"[('领', 0)]",3,"[('系', 0)]",0,1,1,5
+"Does every subject taught at school have a syllabus?
+",Does every subject taught at school have a syllabus ? ,"Does every subject taught at school have syllabi?
+",Does every subject taught at school have syllabi ? ,singular,['syllabus'],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,8-7,9-8,10-9","他们的诗赞颂香港的美景。
+",subject-2,cwmt,"学校教授的每个科目都有教学大纲吗？
+","学校教的每门课都有教学大纲吗？
+",学 校 教 授 的 每 个 科 目 都 有 教 学 大 纲 吗 ？,学 校 教 的 每 门 课 都 有 教 学 大 纲 吗 ？,"0-2 1-5 1-9 2-7 2-8 3-11 5-12 6-10 7-13 8-14 8-15 8-16
+","0-4 1-4 1-7 2-5 2-6 3-9 4-10 4-11 5-10 6-8 7-12 7-13 7-14
+",5,"[('科', 7), ('目', 8)]",0,"[('门', 5), ('课', 6)]",0,1,1,5
+"A change in color obviously makes a considerable change in the appearance of a garment.
+",A change in color obviously makes a considerable change in the appearance of a garment . ,"Changes in color obviously make a considerable change in the appearance of a garment.
+",Changes in color obviously make a considerable change in the appearance of a garment . ,singular,['change '],MUTATED,"1-0,2-1,3-2,4-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15","很显然，颜色的变化会引起服装外观的极大变化。
+",change-8,cwmt,"颜色的变化显然会使服装的外观发生相当大的变化。
+","颜色的变化显然会使服装的外观发生相当大的变化。
+",颜 色 的 变 化 显 然 会 使 服 装 的 外 观 发 生 相 当 大 的 变 化 。,颜 色 的 变 化 显 然 会 使 服 装 的 外 观 发 生 相 当 大 的 变 化 。,"1-3 2-4 3-0 3-1 4-5 4-6 5-7 5-8 7-13 8-20 9-16 10-14 11-10 11-12 12-11 12-19 13-20 14-21 14-22
+","0-3 1-4 2-0 2-1 3-5 3-6 4-7 4-8 6-13 7-9 8-16 9-14 10-10 10-12 11-11 11-19 12-20 13-21 13-22
+",1,"[('变', 20)]",3,"[('服', 9)]",0,1,1,1
+"And in the case he was sacrificed, no one would shed a tear for him.
+","And in the case he was sacrificed , no one would shed a tear for him . ","And in the case he was sacrificed, no one would shed tears for him.
+","And in the case he was sacrificed , no one would shed tears for him . ",singular,['tear '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,13-12,14-13,15-14,16-15,17-16","在这里，他被牺牲掉，没有人为他落一滴眼泪。
+",case-3,um,"在他被牺牲的情况下，没有人会为他流泪。
+","如果他被牺牲，没有人会为他流泪。
+",在 他 被 牺 牲 的 情 况 下 ， 没 有 人 会 为 他 流 泪 。,如 果 他 被 牺 牲 ， 没 有 人 会 为 他 流 泪 。,"0-1 1-0 2-5 3-6 3-7 4-1 5-2 6-3 6-4 7-10 7-11 8-12 9-13 10-16 12-17 13-14 14-18
+","3-0 3-1 4-2 5-3 6-4 6-5 7-7 7-8 8-9 9-10 10-13 11-14 12-11 13-15
+",11,"[('情', 6), ('况', 7)]",14,"[('如', 0), ('果', 1)]",0,1,1,11
+"Prudence requires that we shall pitch our scale of living a degree below our means, rather than up to them.
+","Prudence requires that we shall pitch our scale of living a degree below our means , rather than up to them . ","Prudence requires that we shall pitch our scale of living degrees below our means, rather than up to them.
+","Prudence requires that we shall pitch our scale of living degrees below our means , rather than up to them . ",singular,['degree '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21","节俭地过日子，要求我们生活标准应低于经济能力，而不应超出它的许可。
+",scale-7,cwmt,"审慎要求我们将我们的生活规模提高到低于我们能力的一度，而不是达到他们。
+","审慎要求我们将生活水平置于入不敷出的水平之下，而不是达到入不敷出的水平。
+",审 慎 要 求 我 们 将 我 们 的 生 活 规 模 提 高 到 低 于 我 们 能 力 的 一 度 ， 而 不 是 达 到 他 们 。,审 慎 要 求 我 们 将 生 活 水 平 置 于 入 不 敷 出 的 水 平 之 下 ， 而 不 是 达 到 入 不 敷 出 的 水 平 。,"0-0 0-1 1-2 1-3 3-4 3-5 3-7 3-8 4-6 5-14 5-15 7-12 7-13 8-9 8-14 9-10 9-11 10-24 11-25 12-17 12-18 13-20 14-26 15-27 15-28 16-27 17-31 18-31 19-32 19-34
+","0-0 0-1 1-2 1-3 3-4 3-5 4-6 5-13 7-10 8-17 9-7 9-8 10-18 11-21 12-20 13-19 13-22 13-30 14-23 14-24 14-29 15-30 16-31 17-27 18-35
+",1,"[('规', 12), ('模', 13)]",16,"[('平', 10)]",0,1,1,1
+"Most movie fans would settle for an autograph, but when it comes to celebrity ink, some people draw their own lines.
+","Most movie fans would settle for an autograph , but when it comes to celebrity ink , some people draw their own lines . ","Most movie fans would settle for an autograph, but when it comes to celebrity ink, a person draws their own lines.
+","Most movie fans would settle for an autograph , but when it comes to celebrity ink , a person draws their own lines . ",plural,['people '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,18-18,19-19,20-20,21-21,22-22,23-23,24-24","许多影迷都想渴望得到影星的签名，但有些人更渴望他们自己来画。
+",fan-2,cwmt,"大多数影迷会满足于签名，但当谈到名人墨水时，有些人会画出自己的线条。
+","大多数影迷会满足于签名，但当谈到名人墨水时，一个人会画出自己的线条。
+",大 多 数 影 迷 会 满 足 于 签 名 ， 但 当 谈 到 名 人 墨 水 时 ， 有 些 人 会 画 出 自 己 的 线 条 。,大 多 数 影 迷 会 满 足 于 签 名 ， 但 当 谈 到 名 人 墨 水 时 ， 一 个 人 会 画 出 自 己 的 线 条 。,"0-0 0-1 0-2 1-3 2-4 3-5 4-6 4-7 5-8 6-10 7-9 8-12 9-13 10-15 11-14 13-16 14-18 14-19 15-22 15-23 16-24 17-26 17-27 18-29 18-30 19-28 19-29 20-31 20-32 20-33
+","0-0 0-1 0-2 1-3 2-4 3-5 4-6 4-7 5-8 6-10 7-9 8-12 9-13 10-15 11-14 13-16 14-18 14-19 15-22 15-23 16-24 17-26 18-29 18-30 19-28 19-29 20-31 20-32 20-33
+",1,"[('迷', 4)]",1,"[('迷', 4)]",0,1,1,1
+"Over the years the General Assembly has adopted a host of resolutions calling for further measures to prevent an arms race in outer space.
+",Over the years the General Assembly has adopted a host of resolutions calling for further measures to prevent an arms race in outer space . ,"Over the years the General Assembly has adopted hosts of resolutions calling for further measures to prevent an arms race in outer space.
+",Over the years the General Assembly has adopted hosts of resolutions calling for further measures to prevent an arms race in outer space . ,singular,['host '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24","多年来，联大反复通过决议，强调采取进一步措施防止外空军备竞赛。
+",race-20,UNv1,"多年来，大会通过了一系列决议，呼吁采取进一步措施防止外层空间的军备竞赛。
+","多年来，大会通过了一系列决议，呼吁采取进一步措施防止外层空间军备竞赛。
+",多 年 来 ， 大 会 通 过 了 一 系 列 决 议 ， 呼 吁 采 取 进 一 步 措 施 防 止 外 层 空 间 的 军 备 竞 赛 。,多 年 来 ， 大 会 通 过 了 一 系 列 决 议 ， 呼 吁 采 取 进 一 步 措 施 防 止 外 层 空 间 军 备 竞 赛 。,"2-0 2-1 4-31 5-4 7-6 8-9 9-11 10-11 11-12 11-13 12-15 12-16 13-16 14-21 15-22 15-23 16-25 17-24 18-26 19-33 20-34 21-19 22-33 23-32 23-33
+","2-0 2-1 4-30 5-4 7-6 8-10 9-11 10-12 10-13 11-15 11-16 12-16 13-21 14-22 14-23 15-23 16-24 16-25 17-26 18-32 19-33 20-19 21-32 22-31 22-32
+",3,"[('赛', 34)]",3,"[('赛', 33)]",0,1,1,3
+"In the film Air Dairy, Super Girl Xu Fei plays a singer.
+","In the film Air Dairy , Super Girl Xu Fei plays a singer . ","In the film Air Dairy, Super Girl Xu Fei plays singers.
+","In the film Air Dairy , Super Girl Xu Fei plays singers . ",singular,['singer'],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,12-11,13-12,14-13","在电影《飞行日志》中, 超女许飞出演一名歌手.
+",film-2,cwmt,"在电影《空气乳业》中，超女徐飞饰演歌手。
+","在电影《空气乳业》中，超级女声徐飞饰演歌手。
+",在 电 影 《 空 气 乳 业 》 中 ， 超 女 徐 飞 饰 演 歌 手 。,在 电 影 《 空 气 乳 业 》 中 ， 超 级 女 声 徐 飞 饰 演 歌 手 。,"0-0 1-3 2-1 2-2 3-4 3-5 4-6 4-7 4-8 5-11 6-12 7-13 8-14 9-15 9-16 10-17 11-17 11-18 11-19
+","0-0 1-3 2-1 2-2 3-4 3-5 4-6 4-7 4-8 5-11 5-12 6-13 7-15 8-16 9-17 9-18 10-19 10-20 10-21
+",0,"[('电', 1), ('影', 2)]",0,"[('电', 1), ('影', 2)]",0,1,1,0
+"A State party should not authorize a transfer of arms as defined by the treaty if there is a substantial risk that those arms would:
+",A State party should not authorize a transfer of arms as defined by the treaty if there is a substantial risk that those arms would : ,"A State party should not authorize transfers of arms as defined by the treaty if there is a substantial risk that those arms would:
+",A State party should not authorize transfers of arms as defined by the treaty if there is a substantial risk that those arms would : ,singular,['transfer '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25","缔约国不得批准条约界定的很有以下可能的武器转让：
+",arm-23,UNv1,"缔约国不应批准条约所界定的武器转让，如果这些武器存在下列情况的重大风险：
+","缔约国不应批准条约所界定的武器转让，如果这些武器存在下列情况的重大风险：
+",缔 约 国 不 应 批 准 条 约 所 界 定 的 武 器 转 让 ， 如 果 这 些 武 器 存 在 下 列 情 况 的 重 大 风 险 ：,缔 约 国 不 应 批 准 条 约 所 界 定 的 武 器 转 让 ， 如 果 这 些 武 器 存 在 下 列 情 况 的 重 大 风 险 ：,"0-0 1-0 2-0 3-4 4-3 5-5 5-6 6-7 7-15 8-12 9-13 9-14 11-10 11-11 12-9 13-23 14-7 14-8 15-18 15-19 16-25 19-31 19-32 20-33 20-34 21-20 22-21 23-22 24-35
+","0-0 1-0 2-0 3-4 4-3 5-5 5-6 6-15 7-12 8-13 8-14 10-10 10-11 11-9 13-7 13-8 14-18 14-19 15-25 18-31 18-32 19-33 19-34 20-20 21-21 22-22 23-35
+",2,"[('武', 22)]",2,"[('武', 22)]",0,1,1,2
+"You can see a bed, a bookcase, a table, and a chair in my room.
+","You can see a bed , a bookcase , a table , and a chair in my room . ","You can see beds, a bookcase, a table, and a chair in my room.
+","You can see beds , a bookcase , a table , and a chair in my room . ",singular,['bed'],MUTATED,"0-0,1-1,2-2,4-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18","在我的房间你能看到一张床，一个书柜，一张桌子和一把椅子。
+",chair-14,cwmt,"在我的房间里，你可以看到一张床、一个书柜、一张桌子和一把椅子。
+","你可以在我的房间里看到床，书柜，桌子和椅子。
+",在 我 的 房 间 里 ， 你 可 以 看 到 一 张 床 、 一 个 书 柜 、 一 张 桌 子 和 一 把 椅 子 。,你 可 以 在 我 的 房 间 里 看 到 床 ， 书 柜 ， 桌 子 和 椅 子 。,"0-7 1-8 1-9 2-10 2-11 3-12 4-13 4-14 4-15 5-12 6-18 6-19 7-16 7-17 8-23 9-25 10-21 10-26 11-27 11-28 11-29 12-28 13-29 14-28 14-30
+","0-0 1-1 1-2 2-9 2-10 3-11 4-7 5-13 7-15 7-16 8-18 9-17 10-19 10-20 11-19 12-20 13-19 13-21
+",3,"[('椅', 28), ('。', 30)]",3,"[('椅', 19), ('。', 21)]",0,1,1,3
+"Cooking pots and baking pans / It's such a perfect place /Would you like a cup of tea / Or a piece of cake?
+",Cooking pots and baking pans / It 's such a perfect place /Would you like a cup of tea / Or a piece of cake ? ,"Cooking pots and baking pans / It's such a perfect place /Would you like cups of tea / Or a piece of cake?
+",Cooking pots and baking pans / It 's such a perfect place /Would you like cups of tea / Or a piece of cake ? ,singular,['cup '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25","煮锅和烤盘/这地方多完美/你是想来杯茶/还是块蛋糕？
+",pot-1,um,"烹饪锅和烤盘/这是一个完美的地方/你想要一杯茶/还是一块蛋糕？
+","烹饪锅和烤盘/这是一个如此完美的地方/你想要一杯茶/还是一块蛋糕？
+",烹 饪 锅 和 烤 盘 / 这 是 一 个 完 美 的 地 方 / 你 想 要 一 杯 茶 / 还 是 一 块 蛋 糕 ？,烹 饪 锅 和 烤 盘 / 这 是 一 个 如 此 完 美 的 地 方 / 你 想 要 一 杯 茶 / 还 是 一 块 蛋 糕 ？,"0-0 0-1 1-2 2-3 3-4 4-2 4-5 5-6 6-8 7-7 8-9 8-10 9-11 9-12 10-14 10-15 11-16 12-17 13-18 14-20 15-21 16-23 17-22 18-23 19-24 20-26 21-27 23-28 23-29 23-30
+","0-0 0-1 1-2 2-3 3-4 4-2 4-5 5-6 6-8 7-7 7-11 7-12 8-9 8-10 9-13 9-14 10-16 10-17 11-18 12-19 13-20 14-23 15-25 16-24 17-25 18-26 19-28 20-29 22-30 22-31 22-32
+",0,"[('锅', 2)]",0,"[('锅', 2)]",0,1,1,0
+"to upload files from a specific directory, type the path in the default local directory field. press next if you do not wish to choose a directory at this time.
+","to upload files from a specific directory , type the path in the default local directory field . press next if you do not wish to choose a directory at this time . ","To upload files from a specific directory, type the path in the default local directory field. press next if you do not wish to choose directories at this time.
+","To upload files from a specific directory , type the path in the default local directory field . press next if you do not wish to choose directories at this time . ",singular,['directory '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21,22-22,23-23,24-24,25-25,26-26,28-27,29-28,30-29,31-30,32-31,33-32","若要用明确的路径上传文件,在缺省路径域中输入路径.如果此时你不想选择路径请按下一步继续.
+",file-2,um,"要从特定目录上传文件，请在默认本地目录字段中键入路径。如果此时不想选择目录，请按下一步。
+","要从特定目录上传文件，请在默认本地目录字段中键入路径。如果此时不想选择目录，请按下一步。
+",要 从 特 定 目 录 上 传 文 件 ， 请 在 默 认 本 地 目 录 字 段 中 键 入 路 径 。 如 果 此 时 不 想 选 择 目 录 ， 请 按 下 一 步 。,要 从 特 定 目 录 上 传 文 件 ， 请 在 默 认 本 地 目 录 字 段 中 键 入 路 径 。 如 果 此 时 不 想 选 择 目 录 ， 请 按 下 一 步 。,"0-0 1-6 1-7 2-8 2-9 3-1 5-2 5-3 6-4 7-19 9-24 9-25 10-12 10-23 12-13 12-14 13-15 13-16 14-17 14-18 16-38 16-39 17-40 18-27 18-28 19-28 20-32 21-31 22-32 23-32 24-33 24-34 25-41 26-35 26-36 27-35 28-29 29-30 29-43
+","0-0 1-6 1-7 2-8 2-9 3-1 4-41 5-2 5-3 6-4 7-19 9-24 9-25 10-12 10-23 12-13 12-14 13-15 13-16 14-17 14-18 16-38 16-39 17-40 18-27 18-28 19-28 20-32 21-31 22-32 23-32 24-33 24-34 25-36 26-35 27-29 28-30 28-43
+",0,"[('文', 8), ('件', 9)]",0,"[('文', 8), ('件', 9)]",0,1,1,0
+"At present, the Government provides a total of 15 963 day training and vocational rehabilitation places for PWDs in need.
+","At present , the Government provides a total of 15 963 day training and vocational rehabilitation places for PWDs in need . ","At present, the Government provides totals of 15 963 day training and vocational rehabilitation places for PWDs in need.
+","At present , the Government provides totals of 15 963 day training and vocational rehabilitation places for PWDs in need . ",singular,['total '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21","政府现时共提供15,963个日间训练和职业康复服务名额予有需要的残疾人士。
+",present-1,cwmt,"现时，政府共为有需要的残疾人提供15 963个日间训练及职业康复名额。
+","现时，政府为有需要的残疾人士提供合共15 963个日间训练及职业复康名额。
+",现 时 ， 政 府 共 为 有 需 要 的 残 疾 人 提 供 15 963 个 日 间 训 练 及 职 业 康 复 名 额 。,现 时 ， 政 府 为 有 需 要 的 残 疾 人 士 提 供 合 共 15 963 个 日 间 训 练 及 职 业 复 康 名 额 。,"0-1 1-0 1-2 1-3 2-3 3-4 4-14 4-15 5-7 6-5 7-10 8-16 9-17 10-19 10-20 11-21 11-22 12-23 13-24 13-25 14-26 14-27 16-6 17-28 18-29 19-30
+","0-1 1-0 1-2 1-3 2-4 3-4 4-14 4-15 5-17 6-9 7-18 8-19 9-21 10-23 10-24 11-25 12-26 12-27 13-28 13-29 14-31 15-5 16-30 17-22 18-32
+",2,"[('现', 0), ('，', 2), ('政', 3)]",2,"[('现', 0), ('，', 2), ('政', 3)]",0,1,1,2
+"She has a fortune stashed away in various bank accounts.
+",She has a fortune stashed away in various bank accounts . ,"She has fortunes stashed away in various bank accounts.
+",She has fortunes stashed away in various bank accounts . ,singular,['fortune '],MUTATED,"0-0,1-1,3-2,4-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10","她在不同的银行账户上秘密储存了一大笔钱.
+",bank-8,cwmt,"她有一笔财富藏在各种银行账户里。
+","她的财富藏在各种银行账户中。
+",她 有 一 笔 财 富 藏 在 各 种 银 行 账 户 里 。,她 的 财 富 藏 在 各 种 银 行 账 户 中 。,"0-0 1-1 2-2 3-3 3-4 3-5 4-6 5-6 6-7 7-8 7-9 8-10 8-11 9-12 9-13
+","0-0 1-1 2-2 2-3 3-4 4-4 5-5 5-12 6-6 6-7 7-8 7-9 8-10 8-11
+",5,"[('银', 10), ('行', 11)]",5,"[('银', 8), ('行', 9)]",0,1,1,5
+"A slumber did my spirit seal; I had no human fears:
+",A slumber did my spirit seal ; I had no human fears : ,"Slumbers did my spirit seal; I had no human fears:
+",Slumbers did my spirit seal ; I had no human fears : ,singular,['slumber '],MUTATED,"1-0,2-1,3-2,4-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12","昏睡曾蒙住我的心灵,我没有人类的恐惧;
+",spirit-4,um,"一夜睡着了，我的精神封印了。我没有人类的恐惧：
+","沉睡是我的精神封印;我没有人类的恐惧：
+",一 夜 睡 着 了 ， 我 的 精 神 封 印 了 。 我 没 有 人 类 的 恐 惧 ：,沉 睡 是 我 的 精 神 封 印 ; 我 没 有 人 类 的 恐 惧 ：,"0-0 1-1 1-2 2-4 3-7 4-8 4-9 5-10 5-11 6-14 7-16 8-15 9-17 9-18 10-20 10-21 10-22
+","0-0 0-1 1-2 2-4 3-5 3-6 4-7 4-8 4-9 5-10 6-12 7-11 8-13 8-14 9-16 9-17 9-18
+",3,"[('精', 8), ('神', 9)]",3,"[('精', 5), ('神', 6)]",0,1,1,3
+"Some Parties allocate part of the revenues derived from the pollution charges to pay for “environment friendly” measures.
+",Some Parties allocate part of the revenues derived from the pollution charges to pay for “ environment friendly ” measures . ,"A Party allocates part of the revenues derived from the pollution charges to pay for “environment friendly” measures.
+",A Party allocates part of the revenues derived from the pollution charges to pay for “ environment friendly ” measures . ,plural,['Parties '],MUTATED,"1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,10-10,11-11,12-12,13-13,14-14,15-15,16-16,17-17,18-18,19-19,20-20,21-21","有些缔约方把从污染费得到一些收入用于支付""环境友好""措施。
+",charge-11,UNv1,"一些缔约方将污染收费收入的一部分用于支付“无害环境”措施。
+","一缔约方将污染收费所得的部分收入用于支付“环境友好型”措施。
+",一 些 缔 约 方 将 污 染 收 费 收 入 的 一 部 分 用 于 支 付 “ 无 害 环 境 ” 措 施 。,一 缔 约 方 将 污 染 收 费 所 得 的 部 分 收 入 用 于 支 付 “ 环 境 友 好 型 ” 措 施 。,"0-0 0-1 1-2 1-3 1-4 1-5 2-15 3-14 4-12 4-14 5-11 6-10 7-10 10-6 10-7 11-9 12-17 13-18 13-19 14-19 15-23 15-24 16-25 17-26 17-27 17-28
+","0-0 1-1 1-2 1-3 2-16 3-12 3-13 4-11 5-12 6-14 6-15 7-14 8-14 9-15 10-5 10-6 11-8 12-17 13-18 13-19 14-19 15-25 16-26 17-27 17-28 17-29
+",12,"[('费', 9)]",12,"[('费', 8)]",0,1,1,12
+"The bank is justified in dishonoring a cheque for insufficiency (inadequacy, shortage, shortfall) of funds in his customer's account.
+","The bank is justified in dishonoring a cheque for insufficiency ( inadequacy , shortage , shortfall ) of funds in his customer 's account . ","The bank is justified in dishonoring cheques for insufficiency (inadequacy, shortage, shortfall) of funds in his customer's account.
+","The bank is justified in dishonoring cheques for insufficiency ( inadequacy , shortage , shortfall ) of funds in his customer 's account . ",singular,['cheque '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24","因为客户帐户上的资金（寸头）不足，银行拒付支票款项是合法的。
+",bank-1,cwmt,"银行有理由因客户账户资金不足（不足、短缺、短缺）而拒付支票。
+","银行有理由因客户账户资金不足（不足、短缺、短缺）而拒付支票。
+",银 行 有 理 由 因 客 户 账 户 资 金 不 足 （ 不 足 、 短 缺 、 短 缺 ） 而 拒 付 支 票 。,银 行 有 理 由 因 客 户 账 户 资 金 不 足 （ 不 足 、 短 缺 、 短 缺 ） 而 拒 付 支 票 。,"0-0 1-0 1-1 2-4 3-3 5-5 6-2 7-26 8-24 9-15 9-16 10-14 10-17 11-13 11-16 11-18 12-19 13-22 14-10 14-11 17-6 17-9 18-7 18-8
+","0-0 1-0 1-1 2-4 3-2 3-3 5-5 6-27 7-24 8-12 9-17 10-16 10-18 11-18 11-19 12-22 13-10 13-11 16-6 16-9 17-7 17-8
+",5,"[('银', 0), ('行', 1)]",5,"[('银', 0), ('行', 1)]",0,1,1,5
+"The Chairman made a statement in response to the letter from the President of the General Assembly (A/C.2/52/10).
+",The Chairman made a statement in response to the letter from the President of the General Assembly ( A / C.2/52/10 ) . ,"The Chairman made statements in response to the letter from the President of the General Assembly (A/C.2/52/10).
+",The Chairman made statements in response to the letter from the President of the General Assembly ( A / C.2/52/10 ) . ,singular,['statement '],MUTATED,"0-0,1-1,2-2,4-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22","主席针对大会主席的来信（A/C.2/52/10）发言。
+",letter-9,UNv1,"主席针对大会主席的信（A/C.2/52/10）发了言。
+","主席针对大会主席的信（A/C.2/52/10）发了言。
+",主 席 针 对 大 会 主 席 的 信 （ A / C . 2 / 52 / 10 ） 发 了 言 。,主 席 针 对 大 会 主 席 的 信 （ A / C . 2 / 52 / 10 ） 发 了 言 。,"0-0 1-1 2-1 3-4 4-15 6-2 6-3 8-12 9-9 12-7 13-18 14-18 15-18 16-18 16-19 16-20 17-16 17-17 17-18
+","0-0 1-1 2-1 3-10 5-2 5-3 7-12 8-9 11-7 12-18 13-18 14-18 15-18 15-19 16-16 16-17 16-18
+",0,"[('信', 9)]",0,"[('信', 9)]",0,1,1,0
+"Many big Western banks have a rule of thumb that traders be required to take holiday for at least five workdays in a row, and often 10.
+","Many big Western banks have a rule of thumb that traders be required to take holiday for at least five workdays in a row , and often 10 . ","Many big Western banks have rules of thumb that traders be required to take holiday for at least five workdays in a row, and often 10.
+","Many big Western banks have rules of thumb that traders be required to take holiday for at least five workdays in a row , and often 10 . ",singular,['rule '],MUTATED,"0-0,1-1,2-2,3-3,4-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25,27-26,28-27,29-28","西方许多大银行都有一个规定，要求交易员一定阶段至少要连续休假五个工作日，很多银行规定是十个工作日。
+",bank-3,cwmt,"许多大型西方银行都有一个经验法则，即交易员必须至少连续五个工作日休假，通常是10个工作日。
+","许多西方大银行都有经验法则，要求交易员至少连续五个工作日休假，通常是10个工作日。
+",许 多 大 型 西 方 银 行 都 有 一 个 经 验 法 则 ， 即 交 易 员 必 须 至 少 连 续 五 个 工 作 日 休 假 ， 通 常 是 10 个 工 作 日 。,许 多 西 方 大 银 行 都 有 经 验 法 则 ， 要 求 交 易 员 至 少 连 续 五 个 工 作 日 休 假 ， 通 常 是 10 个 工 作 日 。,"0-0 0-1 1-2 1-3 2-4 2-5 3-6 3-7 4-9 5-10 5-11 6-14 6-15 7-14 8-13 10-18 10-19 10-20 11-17 11-22 12-21 13-22 14-32 15-33 17-23 18-23 18-24 19-25 19-27 20-29 20-30 20-31 22-39 23-38 24-41 25-35 25-36 26-38
+","0-0 0-1 1-4 2-2 2-3 3-5 3-6 4-8 5-11 5-12 6-11 7-10 9-16 9-17 9-18 10-14 11-15 12-14 13-28 14-29 16-19 17-19 17-20 18-21 18-23 19-25 19-26 19-27 21-35 22-34 23-37 24-31 24-32 25-34
+",5,"[('银', 6), ('行', 7)]",5,"[('银', 5), ('行', 6)]",0,1,1,5
+"Finding that he could not remember a word of the letter either, the gaoler replie 'The light is indeed dim, sire. I must get my glasses.
+","Finding that he could not remember a word of the letter either , the gaoler replie ' The light is indeed dim , sire . I must get my glasses . ","Finding that he could not remember words of the letter either, the gaoler replie 'The light is indeed dim, sire. I must get my glasses.
+","Finding that he could not remember words of the letter either , the gaoler replie ' The light is indeed dim , sire . I must get my glasses . ",singular,['word '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25,27-26,28-27,29-28,30-29,31-30","狱卒发现自己连一个字也记不住，于是便说：侣，这儿光线的确太暗了，我得去把眼镜拿来。
+",letter-10,cwmt,"狱卒发现自己也记不起信中的一个字，于是回答说：“灯确实暗淡了，父亲。我必须戴上眼镜。
+","狱卒发现自己也记不住信中的字，于是回答说：“光线确实很暗，陛下。我必须戴上眼镜。
+",狱 卒 发 现 自 己 也 记 不 起 信 中 的 一 个 字 ， 于 是 回 答 说 ： “ 灯 确 实 暗 淡 了 ， 父 亲 。 我 必 须 戴 上 眼 镜 。,狱 卒 发 现 自 己 也 记 不 住 信 中 的 字 ， 于 是 回 答 说 ： “ 光 线 确 实 很 暗 ， 陛 下 。 我 必 须 戴 上 眼 镜 。,"0-2 2-4 4-8 5-7 5-9 6-13 6-14 7-15 8-11 9-11 10-10 11-6 12-38 13-0 13-1 14-22 14-23 15-23 16-24 17-18 18-25 18-26 19-27 19-31 19-32 20-27 20-28 20-33 21-34 22-35 22-36 23-36 24-39 25-40
+","0-2 2-4 4-8 5-7 5-9 6-19 7-11 8-11 9-10 10-6 11-36 12-0 12-1 13-20 13-21 14-21 15-22 15-23 16-16 17-24 17-25 17-26 18-27 18-29 18-30 19-27 19-31 20-32 21-33 21-34 22-34 23-37 24-38
+",0,"[('信', 10)]",0,"[('信', 10)]",0,1,1,0
+"A macro required the device was not found in the device .INF file section.
+",A macro required the device was not found in the device .INF file section . ,"Macros required the device was not found in the device .INF file section.
+",Macros required the device was not found in the device .INF file section . ,singular,['macro '],MUTATED,"1-0,2-1,3-2,4-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14","该设备必须得宏在该设备的INF文件中没有被找到。
+",file-12,um,"宏要求在设备 中找不到该设备。INF 文件部分。
+","宏要求在设备 中找不到该设备。INF 文件部分。
+",宏 要 求 在 设 备 中 找 不 到 该 设 备 。 INF 文 件 部 分 。,宏 要 求 在 设 备 中 找 不 到 该 设 备 。 INF 文 件 部 分 。,"1-0 2-1 2-2 3-6 4-4 4-5 5-3 6-8 7-7 7-9 8-6 10-14 11-14 12-15 12-16 13-13 13-14 13-17
+","0-0 1-1 1-2 2-6 3-4 3-5 4-3 5-8 6-7 6-9 7-6 9-14 10-14 11-15 11-16 12-13 12-14 12-17
+",0,"[('文', 15), ('件', 16)]",0,"[('文', 15), ('件', 16)]",0,1,1,0
+"I want to open an account in your bank, can I take the number first 5
+","I want to open an account in your bank , can I take the number first 5 ","I want to open accounts in your bank, can I take the number first 5
+","I want to open accounts in your bank , can I take the number first 5 ",singular,['account '],MUTATED,"0-0,1-1,2-2,3-3,5-4,6-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16","4.我想在你们银行开户,我要先取号码牌吗
+",bank-8,cwmt,"我想在你们的银行开户，我可以取号码前5吗
+","我想在你们银行开户，我可以取前5号吗
+",我 想 在 你 们 的 银 行 开 户 ， 我 可 以 取 号 码 前 5 吗,我 想 在 你 们 银 行 开 户 ， 我 可 以 取 前 5 号 吗,"0-0 1-1 2-1 3-8 4-9 5-9 6-2 7-3 7-5 8-6 8-7 9-12 9-13 10-11 11-14 12-14 13-15 13-16 14-17 15-18
+","0-0 1-1 2-1 3-7 4-8 5-2 6-3 7-5 7-6 8-11 8-12 9-10 10-13 11-13 12-16 13-14 14-15
+",5,"[('银', 6), ('行', 7)]",5,"[('银', 5), ('行', 6)]",0,1,1,5
+"Since the Islamic bank is expecting a stream of payments from the project, certificates can be issued on the basis of the income expected from the project.
+","Since the Islamic bank is expecting a stream of payments from the project , certificates can be issued on the basis of the income expected from the project . ","Since the Islamic bank is expecting streams of payments from the project, certificates can be issued on the basis of the income expected from the project.
+","Since the Islamic bank is expecting streams of payments from the project , certificates can be issued on the basis of the income expected from the project . ",singular,['stream '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,7-6,8-7,9-8,10-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20,22-21,23-22,24-23,25-24,26-25,27-26,28-27,29-28","由于伊斯兰银行预期能不断地收到项目付款，所以可以根据项目的预期收入发行凭证。
+",bank-3,UNv1,"由于伊斯兰银行期望从该项目获得一系列付款，因此可以根据该项目的预期收入签发证书。
+","由于伊斯兰银行期待该项目的付款流，因此可以根据该项目的预期收入签发证书。
+",由 于 伊 斯 兰 银 行 期 望 从 该 项 目 获 得 一 系 列 付 款 ， 因 此 可 以 根 据 该 项 目 的 预 期 收 入 签 发 证 书 。,由 于 伊 斯 兰 银 行 期 待 该 项 目 的 付 款 流 ， 因 此 可 以 根 据 该 项 目 的 预 期 收 入 签 发 证 书 。,"0-0 0-1 1-1 2-2 2-3 2-4 3-5 3-6 5-7 6-15 8-17 9-18 9-19 10-9 12-11 12-12 13-13 14-23 14-24 15-23 16-35 16-36 18-28 19-25 19-26 20-30 21-34 22-33 23-31 23-32 24-33 25-38 26-10
+","0-0 0-1 1-1 2-2 2-3 2-4 3-5 3-6 5-8 6-15 7-12 8-13 8-14 9-12 11-10 11-11 12-33 12-34 13-19 13-20 14-23 15-31 15-32 17-24 18-21 18-22 19-26 20-30 21-29 22-27 22-28 23-29 25-9
+",5,"[('银', 5), ('行', 6)]",5,"[('银', 5), ('行', 6)]",0,1,1,5
+"Then reaching deep into his pocket, he pulled out a handful of change and held it up to the farmer
+","Then reaching deep into his pocket , he pulled out a handful of change and held it up to the farmer ","Then reaching deep into his pocket, he pulled out handfuls of change and held it up to the farmer
+","Then reaching deep into his pocket , he pulled out handfuls of change and held it up to the farmer ",singular,['handful '],MUTATED,"0-0,1-1,2-2,3-3,4-4,5-5,6-6,7-7,8-8,9-9,11-10,12-11,13-12,14-13,15-14,16-15,17-16,18-17,19-18,20-19,21-20","过了一会儿，他把手伸进口袋，掏出一把零钱，递给农夫
+",change-13,cwmt,"然后把手伸进口袋里，掏出一把零钱，举到农夫面前。
+","然后他把手伸进口袋里，掏出一把零钱，举到农夫面前。
+",然 后 把 手 伸 进 口 袋 里 ， 掏 出 一 把 零 钱 ， 举 到 农 夫 面 前 。,然 后 他 把 手 伸 进 口 袋 里 ， 掏 出 一 把 零 钱 ， 举 到 农 夫 面 前 。,"0-0 0-1 1-4 2-6 3-5 4-10 5-7 5-9 5-10 6-8 7-10 8-11 9-12 10-13 12-14 12-15 13-14 14-17 15-18 16-17 17-18 18-21 18-22 19-19 19-20
+","0-0 0-1 1-4 1-5 2-7 3-6 5-11 6-2 7-11 8-12 9-10 9-11 9-13 9-14 10-12 11-15 11-16 12-15 13-18 14-19 15-18 16-19 17-22 17-23 18-20 18-21
+",0,"[('零', 14)]",0,"[('零', 15)]",0,1,1,0
