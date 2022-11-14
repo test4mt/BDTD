@@ -153,7 +153,7 @@ done
 ## Research Questions
 All scripts about RQs are saved under the path `./rq`.
 
-RQ1: 
+RQ1: How effective is our mutation process?
 ``` bash
 python rq/rq1.py
 ```
@@ -167,7 +167,7 @@ python scripts/sample_50v50.py
 
 Then run RQ5 parameters searching first.
 
-RQ5:
+RQ5: How can the alignment window size impact our method’s effectiveness?
 ```bash
 cp rq/golden_dataset_marked/* rq/rq5/
 cp rq/golden_dataset_marked/* rq/rq5/
@@ -198,7 +198,7 @@ done
 python rq/rq5.py
 ```
 
-RQ2:
+RQ2: How effective is our method in finding WSD bugs?
 ```bash
 for t in "${muttype[@]}"
 do
@@ -213,22 +213,22 @@ done
 python rq/rq2.py
 ```
 
-RQ3:
+RQ3: How biased are our mutation operators in finding WSD bugs?
 ```bash
 python rq/rq3.py
 ```
 
-RQ4: 
+RQ4: What are the overlaps of WSD bugs reported among our mutation operators?
 ```bash
 python rq/rq4.py
 ```
 
-# discussion
+# Discussion
 ```bash
 python rq/discussion2.py
 python rq/discussion3.py
 ```
 
-## References
+# References
 
 For more details about data processing, please refer to the `code comments` and our paper.
