@@ -229,6 +229,36 @@ python rq/discussion2.py
 python rq/discussion3.py
 ```
 
+# Details of Mutation Operators
+
+## Gender Mutation
+We use `Gender Specific Word List`(asset/gender_specific_words.csv) to search and replace all gender-specific words.
+The POS-Tags of gender-specific words must be one of "DET", "NOUN", "PRON" and "ADJ". The gender of the gender-specific words must be the same in the sentence. For example, if both "He" and "She" appear in a sentence, we cannot mutate them.
+
+## Positive/Negative Mutation
+For the mutation of affirmative sentences to negative sentences, the first step is to determine whether the sentence is negative or not based on the negation of the verb.
+For affirmative sentences, we exclude all sentences containing "what", "why" or "how", which are not mutated.
+Then we look for auxiliary verbs, and if they exist, we add "not" after them.
+If the subject is in the general past tense, we add "did not" and lemmatize the verb.
+If the subject is not in the general past tense, add "do not" or "does not" and lemmatize the verb.
+
+For the mutation of a negative sentence into an affirmative sentence, it is relatively easier to find the auxiliary verb and delete the "not" after it.
+
+## Singular/Plural Mutation
+For singular to plural, we determine the words after the determiner "a" and "an". Then we modify the singular and plural forms of the verb or the auxiliary verb in the sentence if the noun is the subject.
+
+For plural to singular, we determine the noun after the determiner "some", "these", "those" and "many". If the noun is the subject, we modify the singular and plural forms of the verb or the auxiliary verb in the sentence.
+
+## Tense Mutation
+
+First of all, we check what tense the sentence is, and we check it by some tense signal words.
+For example, "am", "is" and "are" are signal words of the simple present. "were" and "was" are signal words of the simple past.
+
+For the simple past to simple present, if there is an auxiliary verb, the auxiliary verb will be lemmatized, otherwise, the verb form will be lemmatized.
+
+For the simple present to the simple past, if there is an auxiliary verb, the auxiliary verb will be converted to the simple past form. Otherwise, the verb form will be converted.
+When the auxiliary verb is "should", "shall", or "must", we do not perform mutation.
+
 # References
 
 For more details about data processing, please refer to the `code comments` and our paper.
